@@ -2,11 +2,15 @@
 
 - Date: 2026-10-11
 - Current areas: Sprint 2 — Brief 2 LMS backend and JavaScript data-structures presentation
-- Current focus: authenticated user-check route, followed by presentation preparation
+- Current focus: JavaScript data-structures presentation speaking practice, followed by the authenticated user-check route
 - Status: 🟡 **In progress** — the daily execution system is verified, but today's learning and implementation tasks are not complete
 
 ## ✅ Last completed action
 
+- Collected the complete speech for all eight presentation slides into one rehearsal document.
+- Added a memory cue, natural speaking script, transition, and final conclusion for the presentation.
+- Rendered all five document pages and visually verified that the text is readable with no clipping or overlap.
+- Scheduled the timed presentation rehearsal for 22:00–23:00 in `Africa/Casablanca` and verified its 10-minute popup reminder.
 - Replaced the root README's camping hero with the learner-selected yellow **History of JavaScript** banner while preserving the previous asset.
 - Planned today's route work, presentation preparation, workshop meeting, mentor exercise, and rehearsal in the required order.
 - Created five timed events in Mehdi's primary Google Calendar using the `Africa/Casablanca` timezone.
@@ -27,10 +31,11 @@
 | 15:30–17:15 | Prepare tomorrow's presentation | 🟡 Scheduled; slide corrections and visual placement remain |
 | 18:00–19:00 | Workshop meeting with Marwa | 🟡 Scheduled; decisions and responsibilities not yet recorded |
 | 19:30–20:30 | Complete the mentor's route exercise | 🟡 Scheduled; learner attempt not yet reviewed |
-| 20:45–21:30 | Complete one timed presentation rehearsal | 🟡 Scheduled; rehearsal not yet performed |
+| 22:00–23:00 | Complete one timed presentation rehearsal | 🟡 Calendar event verified; rehearsal not yet performed |
 
 ## 📁 Files changed
 
+- `workstreams/presentations/javascript-data-structures/rehearsal/README.md` — records that the guide is ready while the timed rehearsal remains in progress.
 - `docs/images/javascript-history-hero.png` — learner-provided yellow JavaScript banner now used at the top of the public README.
 - `docs/images/README.md` — records the new active hero and the retained previous camping asset.
 - `README.md` — refreshed the public checkpoint, current mission, presentation status, and verified daily-execution support.
@@ -39,6 +44,8 @@
 
 ## 🧪 Verification
 
+- Rendered the speaking guide to five page images and inspected every page at full size.
+- Confirmed the document contains slides 1–8, all transitions, and the final conclusion without visible layout defects.
 - Visually inspected the new 1200 × 673 hero for readability, contrast, and suitability as the full-width README banner.
 - Confirmed all five Google Calendar events through a bounded read-back for 2026-10-11.
 - Confirmed **Calendar task coach** was created with status `ACTIVE`.
@@ -59,10 +66,11 @@
 ## 🧹 Preserved unrelated changes
 
 The pre-existing deletions of Chapter 4 exercise files and root package files remain untouched.
+The private speaking guide is stored outside the repository and must not be staged, committed, or pushed; only presentation progress belongs in Git.
 
 ## 🎯 Exact next step
 
-Inspect the LMS route, middleware, controller, and user model for the connected-user flow before editing code. The checkpoint is complete only when an authenticated request returns safe current-user data and the required missing, invalid, or expired token cases return the expected status codes.
+Complete one timed presentation rehearsal using only the memory cues when possible. The checkpoint is complete when all eight slides are explained clearly, the transitions feel natural, and the total duration is recorded.
 
 ## 🔄 Pending sync
 

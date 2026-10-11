@@ -1,115 +1,60 @@
 # Current Session Handoff
 
-- Date: 2026-10-10
-- Current area: Sprint 2 — Brief 2 LMS backend
-- Current focus: Concept 1 — non-regression quick exercise
-- Status: 🟡 **In progress** — the short exercise is ready for the learner's answers
+- Date: 2026-10-11
+- Current areas: Sprint 2 — Brief 2 LMS backend and JavaScript data-structures presentation
+- Current focus: authenticated user-check route, followed by presentation preparation
+- Status: 🟡 **In progress** — the daily execution system is verified, but today's learning and implementation tasks are not complete
 
 ## ✅ Last completed action
 
-- Restored the previous wide camping hero as the public README cover after reviewing the alternate expedition poster.
-- Refined the public README into the **MERN BaseCamp** identity while preserving the repository's honest learning status.
-- Added and visually inspected a generated camping hero and a MERN layer trail diagram.
-- Added a README asset tracker and updated the clone instructions for the renamed **Mern-BaseCamp** GitHub repository.
-- Removed the general root concept-note library so every concept note now has a clear activity owner.
-- Moved the Zod validation and Mongoose core-concept notes into Sprint 2 — Brief 2.
-- Updated the Brief 2 concept roadmap so started concepts link to their workstream notes and future notes are created only when study starts.
-- Updated repository and agent guidance so new notes belong to an owning workstream or chapter instead of `notes/concepts/`.
-- Redesigned the public repository README as a professional coding journey with a focused camping identity.
-- Added a custom Code Camp hero banner that combines a JavaScript terminal, forest, tent, and campfire.
-- Preserved the repository's honest progress, beginner-first workflow, book-to-MERN direction, setup guidance, and current next exercise.
-- Recovered the complete `jwt.verify()` middleware discussion from the 2026-10-09 LMS implementation session.
-- Registered the header, Bearer-token, verification, `req.user`, `next()`, error-handling, and `return` lessons in the existing JWT concept workspace.
-- Recorded the exact evidence boundary: valid, expired, and invalid-token checks passed in isolation; missing and malformed headers plus protected-route integration remain to verify.
-- Marked the JWT middleware material `🔁 Review needed` so it can be studied later without interrupting Concept 1.
-- Added `workstreams/sprints/` as the home for sprint-based briefs.
-- Moved Brief 2 into `workstreams/sprints/sprint-2/briefs/brief-2/` without duplicating its files.
-- Added `brief-content/` and saved the supplied Brief 2 requirements there.
-- Added `brief-analysis/` as the separate home for the learner-friendly explanation, diagrams, priorities, risks, and dependency order.
-- Moved the existing analysis out of `notes/` and linked it from the brief workspace.
-- Added and visually inspected a role-boundary diagram and an implementation dependency roadmap at 1200 × 675.
-- Confirmed that Brief 3 belongs to Sprint 1 and moved it to `workstreams/sprints/sprint-1/briefs/brief-3/`.
-- Added Sprint 1 navigation and updated every known Brief 3 path.
-- Added honest Brief 3 content and analysis areas without inventing the missing original requirements.
-- Added and visually inspected the Brief 3 practice-flow diagram at 1200 × 675.
-- Added the rule that every discussed concept receives its own short, point-based review note using the Zod note style.
-- Added quick review notes for JWT authentication and Clerk authentication with honest learning statuses.
-- Confirmed the repository's main direction: use *Eloquent JavaScript* foundations to develop practical MERN JavaScript skills.
-- Added a required book-foundation-to-MERN section to every concept-note workflow.
-- Consulted the local book sections on errors and tests, modules and NPM, asynchronous programming, HTTP, and Node.js.
-- Updated the Zod, JWT, and Clerk notes with exact chapters, printed page ranges, book boundaries, and MERN connections.
-- Added `templates/concept-note.md` so future notes keep the same learning structure.
-- Added the `give me situation` dashboard rule with current mission, verified wins, development needs, exercise scoreboard, MERN map, book connection, blockers, and one next mission.
-- Added `templates/learning-situation.md` so every future learning-status response stays complete, visual, and evidence-based.
-- Added the rule that concept exercises should take about 5 to 15 minutes, contain at most three short questions or one micro-task, and check understanding rather than implement a feature.
-- Replaced the large non-regression matrix with one short route scenario and three questions.
-- Reduced the login and JWT practice to two separate quick exercises.
-- Updated repository navigation and all known Brief 2 paths.
-- Made no changes to the LMS application code.
+- Replaced the root README's camping hero with the learner-selected yellow **History of JavaScript** banner while preserving the previous asset.
+- Planned today's route work, presentation preparation, workshop meeting, mentor exercise, and rehearsal in the required order.
+- Created five timed events in Mehdi's primary Google Calendar using the `Africa/Casablanca` timezone.
+- Added 10-minute popup reminders to every event and an additional 30-minute reminder to the workshop meeting.
+- Read the calendar back and confirmed all five events and their time ranges.
+- Activated **Calendar task coach**, which checks the primary calendar every 30 minutes from 08:00 to 21:30.
+- Configured the coach to report the morning agenda and only notify later when a task is approaching, active, overdue, changed, or needs action.
+- Kept the recurring reminder read-only: it cannot create, edit, move, or delete events without an explicit learner request.
+- Confirmed that Google Calendar in the browser is the accepted daily view; no desktop web app was installed.
+- Attempted to create matching Notion calendar rows, but Notion rejected them because the workspace has reached its free block limit.
+- Made no LMS application-code changes and did not claim that the authenticated route works.
+
+## 🗓️ Today's verified calendar plan
+
+| Time | Task | Current evidence |
+| --- | --- | --- |
+| 12:45–14:45 | Implement and verify the authenticated user-check route | 🟡 Scheduled; code and runtime behavior not verified |
+| 15:30–17:15 | Prepare tomorrow's presentation | 🟡 Scheduled; slide corrections and visual placement remain |
+| 18:00–19:00 | Workshop meeting with Marwa | 🟡 Scheduled; decisions and responsibilities not yet recorded |
+| 19:30–20:30 | Complete the mentor's route exercise | 🟡 Scheduled; learner attempt not yet reviewed |
+| 20:45–21:30 | Complete one timed presentation rehearsal | 🟡 Scheduled; rehearsal not yet performed |
 
 ## 📁 Files changed
 
-- `README.md` — refined public BaseCamp story, MERN trail, navigation, setup, and honest current checkpoint.
-- `docs/images/mern-basecamp-hero.png` — memorable coding-and-camping hero artwork.
-- `docs/images/mern-trail.svg` — MERN layer map with the request and response direction.
-- `docs/images/README.md` — purpose, usage, and verification status for README visuals.
-- `AGENTS.md`, `README.md`, and `workstreams/README.md` — replaced the general note-library rule with activity-owned concept notes.
-- `workstreams/sprints/sprint-2/briefs/brief-2/notes/` — now owns the relocated Zod and Mongoose notes and indexes them beside the other Brief 2 notes.
-- Brief 2 and Brief 3 concept/note indexes — removed shared-library links and made note ownership explicit.
-- `notes/` — removed the general concept library and its empty repository-wide placeholders.
-- `README.md` — professional public trailhead with the current checkpoint, navigation, learning workflow, MERN map, setup, and contribution guidance.
-- `docs/images/readme-code-camp.svg` — accessible 1200 × 420 hero banner connecting the coding and camping identity.
-- `workstreams/sprints/sprint-2/briefs/brief-2/notes/jwt-authentication.md` — complete `jwt.verify()` review notes, evidence, traps, and three later-review questions.
-- JWT concept lesson, roadmap, authentication tracker, note index, and Brief 2 README — honest middleware progress and remaining checks.
-- `PROGRESS.md` and `sessions/CURRENT.md` — review queue, evidence boundary, and session continuity.
-- `AGENTS.md` — sprint hierarchy, brief rules, point-based notes, and the mandatory book-to-MERN learning bridge.
-- `README.md` and `workstreams/README.md` — public learning direction and navigation for sprints and unassigned briefs.
-- `workstreams/briefs/README.md` — now holds only briefs whose sprint is unknown.
-- `workstreams/sprints/README.md` — sprint index and standard structure.
-- `workstreams/sprints/sprint-1/` — Sprint 1 index, moved Brief 3 workspace, source boundary, analysis, and reviewed practice-flow visual.
-- `workstreams/sprints/sprint-2/README.md` — Sprint 2 overview.
-- `workstreams/sprints/sprint-2/briefs/README.md` — Sprint 2 brief index.
-- `workstreams/sprints/sprint-2/briefs/brief-2/` — moved Brief 2 workspace.
-- `workstreams/sprints/sprint-2/briefs/brief-2/brief-content/README.md` — saved brief requirements.
-- `workstreams/sprints/sprint-2/briefs/brief-2/brief-analysis/README.md` — learner-friendly explanation, baseline, priorities, risks, and diagram guidance.
-- `workstreams/sprints/sprint-2/briefs/brief-2/brief-analysis/images/` — two reviewed SVG diagrams and their asset tracker.
-- Brief 2 concept, exercise, note, and README files — short exercise wording, updated paths, and point-based JWT and Clerk notes.
-- Brief 2 notes index — point-based style, honest status, and book-to-MERN rule for activity-owned notes.
-- Brief 2 Zod validation note — book foundation and MERN connection preserved after relocation.
-- `templates/concept-note.md` — reusable note structure for every future concept.
-- `templates/learning-situation.md` — reusable dashboard for complete learning-status answers.
-- `PROGRESS.md` and `sessions/CURRENT.md` — current status and exact next step.
+- `docs/images/javascript-history-hero.png` — learner-provided yellow JavaScript banner now used at the top of the public README.
+- `docs/images/README.md` — records the new active hero and the retained previous camping asset.
+- `README.md` — refreshed the public checkpoint, current mission, presentation status, and verified daily-execution support.
+- `PROGRESS.md` — replaced the stale daily plan with today's five tasks and recorded the verified calendar/reminder evidence.
+- `sessions/CURRENT.md` — rewrote the handoff with the current focus, exact evidence boundary, blockers, and next step.
 
 ## 🧪 Verification
 
-- Confirmed the README again uses the visually inspected wide camping hero and its accessible description.
-- Visually inspected the MERN BaseCamp hero for composition, readability, and README suitability.
-- Rendered the MERN trail SVG at 2400 × 1040 and visually inspected its labels, arrows, contrast, and layer order.
-- Confirmed GitHub's repository-move notice and aligned the clone instructions and `origin` remote with the canonical **Mern-BaseCamp** URL.
-- Confirmed that no repository Markdown file links to `notes/concepts/` after the move.
-- Checked the relocated Zod book link and all changed local Markdown links.
-- Confirmed that the pre-existing learner exercise and package-file deletions remain untouched.
-- Rendered the README hero SVG to PNG and visually inspected its text, contrast, layout, terminal, tent, and campfire at 1200 × 420.
-- Checked the redesigned README's local links, image path, headings, and Markdown whitespace.
-- Confirmed the saved notes match the recovered LMS session and do not claim a protected route was tested.
-- Rechecked the local book sections on modules and packages, HTTP headers and status codes, and Node.js request/response handling.
-- Checked the JWT note links, headings, and Markdown whitespace.
-- Confirmed that Brief 2 exists only in the new Sprint 2 location.
-- Confirmed that Brief 3 exists only in the Sprint 1 location.
-- Checked the repository for stale Brief 2 paths and updated the known references.
-- Checked the repository for stale Brief 3 paths and updated the known references.
-- All local Markdown links and whitespace checks passed after both moves.
-- Rendered and visually inspected the Brief 3 practice-flow SVG at 1200 × 675; its labels, arrows, and order are readable.
-- Checked the relevant local book pages before adding the Zod, JWT, and Clerk connections.
-- Verified that the learning-situation template contains every required dashboard section and that all local Markdown links still resolve.
-- Confirmed that all Brief 2 navigation points to the Sprint 2 workspace.
-- Rendered and visually inspected both brief-analysis diagrams at 1200 × 675; labels, arrows, grouping, and explanations are readable and consistent.
-- No LMS runtime, database, API route, or Docker behavior was tested because this change only reorganizes learning documentation.
+- Visually inspected the new 1200 × 673 hero for readability, contrast, and suitability as the full-width README banner.
+- Confirmed all five Google Calendar events through a bounded read-back for 2026-10-11.
+- Confirmed **Calendar task coach** was created with status `ACTIVE`.
+- Confirmed no Google Calendar duplicates existed before the events were created.
+- Confirmed no new Notion task or meeting rows were created after the free-block error.
+- Local Markdown links and `git diff --check` passed after the handoff update.
+- Reviewed the final documentation diff and confirmed the unrelated learner deletions remain untouched.
+- No LMS route, controller, middleware, database, API, presentation export, or rehearsal behavior was tested in this session.
 
-## ⚠️ Open questions
+## 🚧 Blockers and open questions
 
-- What stable official link or file should represent Brief 2?
-- What is the responsibility split between Mehdi and Maroua?
+- Confirm the exact connected-user endpoint and acceptance criteria in the LMS project before implementation.
+- Confirm which route exercise the mentor assigned before recording an attempt.
+- Confirm the presentation duration before the timed rehearsal.
+- Record the workshop decisions and responsibility split after the meeting with Marwa.
+- Notion calendar rows remain blocked by the workspace free block limit; do not retry new-row creation automatically.
 
 ## 🧹 Preserved unrelated changes
 
@@ -117,6 +62,8 @@ The pre-existing deletions of Chapter 4 exercise files and root package files re
 
 ## 🎯 Exact next step
 
-Answer the three questions in `workstreams/sprints/sprint-2/briefs/brief-2/exercises/api-takeover-non-regression.md`. Then explain non-regression in one sentence.
+Inspect the LMS route, middleware, controller, and user model for the connected-user flow before editing code. The checkpoint is complete only when an authenticated request returns safe current-user data and the required missing, invalid, or expired token cases return the expected status codes.
 
-The existing Notion learning hub was updated and fetched again successfully with the recovered JWT middleware checkpoint. No separate learning-log row was created because the workspace free block limit remains.
+## 🔄 Pending sync
+
+The repository remains authoritative. The Google Calendar plan and reminder automation are verified. Notion did not receive new rows because of the free block limit; update an existing tracker entry in a later connected session if capacity allows.

@@ -114,16 +114,19 @@ The first attempt is completed without generative AI: write the plan in comments
 - Latest evaluation: Challenge 04 - **5/10** (`Review needed`)
 - Completion rate: **0%** - an attempt is counted as complete only after all required behavior is verified.
 
-## Today's plan - 2026-10-07
+## Today's plan - 2026-10-11
 
-- [x] Add Express and EJS as project dependencies and start Challenge 04.
-- [ ] Correct the city-count reducer and verify all six city totals.
-- [ ] Correct the most-expensive calculation and add the cheapest-car calculation.
-- [ ] Match `GET /cars/stats`, run all checks, and request reevaluation.
+- [ ] Implement and verify the authenticated user-check route.
+- [ ] Prepare tomorrow's JavaScript data-structures presentation.
+- [ ] Meet Marwa at 18:00 to agree on the workshop goal, responsibilities, and next actions.
+- [ ] Complete the route exercise assigned by the mentor.
+- [ ] Complete one timed presentation rehearsal.
 
-Complete these tasks in order because each step prepares the next one.
+Complete the tasks in this order because the route is today's first implementation priority, while the final rehearsal depends on the presentation preparation.
 
-The three unfinished tasks are mirrored as private all-day events in Mehdi's primary Google Calendar for today.
+The five tasks are verified as timed events in Mehdi's primary Google Calendar. Each event has a 10-minute popup reminder; the workshop meeting also has a 30-minute reminder. The active **Calendar task coach** checks the calendar every 30 minutes from 08:00 to 21:30 in `Africa/Casablanca` and stays quiet when nothing is actionable.
+
+> ⚠️ **Evidence boundary:** the calendar and reminder setup is complete. The route implementation, meeting, mentor exercise, presentation corrections, and rehearsal remain unverified.
 
 ## Milestones
 
@@ -132,7 +135,8 @@ The three unfinished tasks are mirrored as private all-day events in Mehdi's pri
 | Learning workspace and shared agent rules | Complete | Root documentation, chapter structure, and handoff files |
 | Git repository initialized on `main` | Complete | Local `.git` repository |
 | Notion learning tracker connected | Complete | Learning hub, 21-chapter tracker, and progress log inside Mehdi's Board |
-| Daily plan connected to Google Calendar | Complete | Three verified private all-day events for the unfinished 2026-10-07 tasks |
+| Daily plan connected to Google Calendar | Complete | Five verified timed events for 2026-10-11 with popup reminders |
+| Recurring calendar task coach | Complete | Active 30-minute checks from 08:00 to 21:30 with actionable-only updates |
 | Public GitHub navigation and clone guide | Complete | Root README with visitor paths, setup guidance, repository map, and status meanings |
 | Chapter 4 class presentation preparation | In progress | Core concepts are documented; Canva deck, quiz, and rehearsal remain |
 | Part 1 - JavaScript language | Not started | Chapters 1-12 |

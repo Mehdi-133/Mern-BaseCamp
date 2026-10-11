@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./docs/images/mern-basecamp-hero.png" alt="A learner coding beside a campfire while a lantern-lit trail climbs toward the mountains" width="100%">
+  <img src="./docs/images/javascript-history-hero.png" alt="Yellow History of JavaScript banner with dark lettering and small historical illustrations" width="100%">
 </p>
 
 <h1 align="center">🏕️ MERN BaseCamp</h1>
@@ -34,20 +34,21 @@ It is not a collection of copied solutions. It is a trail log of learning to **p
 
 ## 🧭 Current expedition
 
-**Repository checkpoint:** 2026-10-10
+**Repository checkpoint:** 2026-10-11
 
 | Trail | Current position | Honest status |
 | --- | --- | --- |
 | 📖 Book foundation | Chapter 4 — Data Structures: Objects and Arrays | 🟡 In progress |
 | 📋 School project | Sprint 2 — Brief 2 with Maroua | 🟡 In progress |
-| 🎯 Current mission | API takeover and non-regression | 🟡 Exercise ready |
+| 🎯 Current mission | Authenticated user route and presentation readiness | 🟡 Planned; implementation not yet verified |
 | 🔐 Backend camp | Node.js, Express, MongoDB, and JWT | 🔁 Learning and verification |
-| 🎤 Presentation trail | JavaScript data structures | 🔁 Visual placement and rehearsal needed |
+| 🎤 Presentation trail | JavaScript data structures | 🔁 Slide corrections, visual placement, and rehearsal needed |
+| 🗓️ Daily execution | Five timed blocks and a recurring calendar coach | ✅ Calendar setup verified |
 | ⚛️ React trail | No verified checkpoint yet | ⬜ Not started |
 
 ### 🚀 Next trail marker
 
-Complete the [non-regression quick exercise](./workstreams/sprints/sprint-2/briefs/brief-2/exercises/api-takeover-non-regression.md), then explain **non-regression** in one clear sentence.
+Implement and verify the authenticated user-check route in the LMS project. Record the passing and failing runtime cases before starting the next scheduled task.
 
 For the complete evidence, open [PROGRESS.md](./PROGRESS.md). To resume the latest work, open [sessions/CURRENT.md](./sessions/CURRENT.md).
 
@@ -186,7 +187,7 @@ The repository is the public source of truth. Private dashboards may mirror sele
 
 The chapter order and JavaScript foundations come from *Eloquent JavaScript, Fourth Edition* by Marijn Haverbeke. The local [`Eloquent_JavaScript.pdf`](./Eloquent_JavaScript.pdf) is consulted for learning and must not be edited, replaced, or redistributed separately without checking its original licensing terms.
 
-The motivational hero is original generated artwork. Exact MERN relationships remain documented in the reviewed SVG and surrounding text. See the [visual asset tracker](./docs/images/README.md).
+The yellow JavaScript hero was selected by the learner for the repository. Exact MERN relationships remain documented in the reviewed SVG and surrounding text. See the [visual asset tracker](./docs/images/README.md).
 
 ---
 

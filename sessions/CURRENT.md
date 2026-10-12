@@ -2,7 +2,7 @@
 
 - Date: 2026-10-12
 - Current areas: Sprint 2 — Brief 2 LMS backend; JavaScript data-structures presentation delivered
-- Current focus: Brief 2 API takeover and non-regression exercise
+- Current focus: Brief 2 roles, permissions, and resource ownership, selected by the learner
 - Status: 🟡 **In progress** — the presentation was delivered, while the Brief 2 learning exercise and implementation work remain incomplete
 
 ## ✅ Last completed action
@@ -94,8 +94,25 @@ The private speaking guide is stored outside the repository and must not be stag
 
 ## 🎯 Exact next step
 
-Complete the three questions in `workstreams/sprints/sprint-2/briefs/brief-2/exercises/api-takeover-non-regression.md` and add one sentence explaining non-regression. The checkpoint is complete when the broken behavior and the before/after evidence are identified clearly.
+Answer the three requests in `workstreams/sprints/sprint-2/briefs/brief-2/exercises/roles-and-resource-ownership.md` and explain why role permission does not prove ownership. Earlier non-regression questions remain open.
 
 ## 🔄 Pending sync
 
 The repository remains authoritative. The Google Calendar plan and reminder automation are verified. Notion did not receive new rows because of the free block limit; update an existing tracker entry in a later connected session if capacity allows.
+
+## 🛡️ Current concept handoff — 2026-10-12
+
+- Prepared `concepts/roles-and-resource-ownership/README.md`, three SVG visuals and tracker, `notes/roles-and-resource-ownership.md`, and the matching three-question exercise.
+- Updated owning indexes, Brief README, progress, and Chapter 4 foundation link.
+- Inspected LMS authentication, authorization, error handling, catalogue routes, and Course schema read-only. Four direct authorization checks passed; no HTTP, database ownership, or learner understanding was verified.
+- Earlier non-regression/JWT checkpoints remain open. Preserve unrelated deletions. Learner authorized clean and push after the package was prepared.
+- Exact next step: answer the roles-and-ownership exercise and explain why a trainer role alone does not grant another trainer’s course access.
+- Verification: concept/index local links passed; three SVGs parsed, rendered, and visually inspected with readable labels and no clipping; git diff --check passed.
+- Notion sync: existing Learning Hub focus and next step updated and fetched to verify. Detailed chapter/log/task row sync remains pending; no new rows created under the recorded free-block limit.
+
+## 🧹 Publishing checkpoint
+
+- Learner requested clean and push for the roles-and-ownership package.
+- Polished current mission links and tracking without marking understanding complete.
+- Publish only lesson, notes, exercise, three reviewed SVGs, asset tracker, and related navigation/progress updates.
+- Exclude all pre-existing Chapter 4 exercise and root package-file deletions.

@@ -4,12 +4,12 @@
 
 - Current part: Part 1 - The JavaScript language
 - Main direction: develop MERN JavaScript skills by connecting every practical concept to *Eloquent JavaScript*
-- Current focus: starting the ordered concept path for **Authentification, accès et progression LMS** with API takeover and non-regression
+- Current focus: roles, permissions, and resource ownership for Brief 2, selected by the learner
 - Chapter status: In progress; the class presentation was delivered on 2026-10-12
 - Earlier chapters: Not completed; Chapter 1 remains not started
-- Last meaningful update: 2026-10-12 - Verified the official Simplonline brief, assignment status, deadline, and group workspace
-- Next learning target: explain non-regression using one simple API-route scenario
-- Next repository target: review the three answers in the Concept 1 quick exercise before any implementation work
+- Last meaningful update: 2026-10-12 - Prepared the roles and ownership lesson, visual pack, review note, and understanding exercise
+- Next learning target: distinguish identity, role permission, and course ownership
+- Next repository target: review the three roles-and-ownership predictions; earlier exercises remain open
 
 ## 🤝 Sprint 2 — Brief 2 checkpoint
 
@@ -159,3 +159,7 @@ Add topics here when they need spaced repetition or another explanation.
 - Three-minute explanations of technical choices.
 - Clerk tool boundaries: runtime SDK vs development CLI vs optional AI MCP support.
 - JWT verification middleware: Bearer parsing, `jwt.verify()`, `decoded.sub`, `req.user`, `next()`, and response-ending `return` statements.
+
+## 🛡️ Roles and ownership — 2026-10-12
+
+🟡 Lesson, quick note, three visuals, and exercise prepared at the learner’s request. Existing `authorize` passed four direct checks (missing user, learner, trainer, admin). Full HTTP integration, ownership enforcement, and learner understanding remain unverified. No application code changed.

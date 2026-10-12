@@ -10,7 +10,7 @@ Each exercise should take about 5 to 15 minutes and check one concept. Full feat
 | API contracts and errors | Choose the correct status code for three small cases | Explain each choice in one sentence | ⬜ Not started |
 | Password authentication | [Predict three login results](./login-jwt-checkpoints.md), Exercise 1 | Explain why the responses differ | ⬜ Not started |
 | JWT authentication | [Inspect one token payload](./login-jwt-checkpoints.md), Exercise 2 | Explain what the server must verify | ⬜ Not started |
-| Roles and ownership | Mark three requests as allow or deny | Explain the difference between role and ownership | ⬜ Not started |
+| Roles and ownership | [Mark three requests as allow or deny](./roles-and-resource-ownership.md) | Explain the difference between role and ownership | 🟡 In progress; answers pending |
 | Domain models and ordering | Choose the correct relationship or index for three rules | Explain one modeling choice | ⬜ Not started |
 | Enrollment invariants | Predict what should happen when the same enrollment is requested twice | Explain why the database also needs the rule | ⬜ Not started |
 | Controlled upload | Accept or reject three example files | Name the type and size checks | ⬜ Not started |

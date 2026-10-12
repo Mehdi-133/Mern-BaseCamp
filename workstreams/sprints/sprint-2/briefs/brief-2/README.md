@@ -48,9 +48,9 @@
 | --- | --- | --- |
 | [Brief content](./brief-content/) | Supplied requirements and source details | ✅ Saved |
 | [Brief analysis](./brief-analysis/) | Plain-language explanation, current gaps, risks, and visual roadmap | ✅ Analysis and visual pack ready |
-| [Concepts](./concepts/) | Ordered technical learning roadmap | 🟡 Twelve concepts mapped; Concept 1 started and Concept 4 middleware evidence captured for later review |
+| [Concepts](./concepts/) | Ordered technical learning roadmap | 🟡 Twelve concepts mapped; Concept 5 active by learner request; earlier Concept 1/4 checks remain open |
 | [Notes](./notes/) | Brief analysis, decisions, questions, and team responsibilities | 🟡 Full intake, current-code baseline, and `jwt.verify()` review notes recorded |
-| [Exercises](./exercises/) | Short understanding practice for every concept | 🟡 Exercise roadmap ready; Concept 1 started |
+| [Exercises](./exercises/) | Short understanding practice for every concept | 🟡 Concept 5 three-request exercise prepared; answers pending |
 
 ## 🧭 Concept-by-concept workflow
 
@@ -67,4 +67,10 @@ The concept path focuses on the JavaScript backend: Node.js, Express, Mongoose, 
 
 ## 🎯 Next step
 
-Complete the short scenario in [Concept 1's exercise](./exercises/api-takeover-non-regression.md) and explain non-regression in your own words.
+Answer the [roles and ownership exercise](./exercises/roles-and-resource-ownership.md). Concept 1's non-regression exercise remains open.
+
+## 🛡️ Current learner-selected concept — 2026-10-12
+
+[Roles and resource ownership](./concepts/roles-and-resource-ownership/) is now the active study topic at Mehdi’s request. The lesson, review note, and visual workflow are prepared; understanding and full API behavior remain unverified. Earlier checkpoints remain open.
+
+**Current next step:** answer the [three-request exercise](./exercises/roles-and-resource-ownership.md).

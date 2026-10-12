@@ -124,3 +124,7 @@ The latest Challenge 04 attempt was reviewed:
 | Start and run the endpoint | 1 | Passed: the EJS page returns HTTP 200 |
 
 The next review will replace this score only after rerunning the full requirement checklist.
+
+## 🧩 Brief 2 foundation link — 2026-10-12
+
+The [roles and ownership lesson](../../../workstreams/sprints/sprint-2/briefs/brief-2/concepts/roles-and-resource-ownership/) applies object properties and array `includes()` to `req.user.role`. Understanding remains pending; this adds no completed chapter exercise.

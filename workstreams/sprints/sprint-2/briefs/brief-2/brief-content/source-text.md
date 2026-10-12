@@ -1,6 +1,6 @@
 # 📄 Original Brief 2 Text
 
-> Source: text supplied by the learner in chat on 2026-10-09.
+> Source: text supplied by the learner in chat on 2026-10-09 and verified against the [official Simplonline brief](https://maghreb.simplonline.co/classrooms/4867b8e5-eb61-4ad3-a538-a88b9ebb5957/briefs/89986592-a062-464e-bd28-b1e00fe16171) on 2026-10-12. No material requirement difference was found.
 
 ## Contexte du projet
 

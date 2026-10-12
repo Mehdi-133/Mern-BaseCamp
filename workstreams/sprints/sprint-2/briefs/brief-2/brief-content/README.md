@@ -1,8 +1,9 @@
-# 📄 Brief 2 Content
+# 📄 Authentification, accès et progression LMS
 
-> ✅ **Source captured:** brief text supplied by the learner in chat on 2026-10-09. A stable official link is still needed.
+> ✅ **Official source verified:** the saved brief text matches the assigned Simplonline brief reviewed read-only on 2026-10-12.
 
-- [Original supplied text](./source-text.md) — preserved in French.
+- [Official Simplonline brief](https://maghreb.simplonline.co/classrooms/4867b8e5-eb61-4ad3-a538-a88b9ebb5957/briefs/89986592-a062-464e-bd28-b1e00fe16171) — assigned group brief, currently **To be submitted**.
+- [Repository source copy](./source-text.md) — preserved in French and checked against the official page.
 - This page is the structured reading guide for that source.
 
 ## 🎯 Project context

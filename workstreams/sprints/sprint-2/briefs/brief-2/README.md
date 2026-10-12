@@ -1,18 +1,21 @@
-# 📋 Sprint 2 — Brief 2
+# 📋 Sprint 2 — Brief 2: Authentification, accès et progression LMS
 
-> 🟡 **In progress:** the full brief was analyzed on 2026-10-09. The ordered concept roadmap is ready, and the existing API baseline must be verified before new implementation.
+> 🟡 **In progress:** the full brief was analyzed on 2026-10-09 and verified against its official Simplonline page on 2026-10-12. The ordered concept roadmap is ready, and the existing API baseline must be verified before new implementation.
 
 ## 🔗 Official brief
 
-- Source: brief text provided by the learner in chat on 2026-10-09
+- Source: [official Simplonline brief](https://maghreb.simplonline.co/classrooms/4867b8e5-eb61-4ad3-a538-a88b9ebb5957/briefs/89986592-a062-464e-bd28-b1e00fe16171), verified read-only on 2026-10-12
 - Repository copy: [Brief content](./brief-content/)
-- Stable link: ⬜ **Not provided yet**
+- Official title: **Authentification, accès et progression LMS**
+- Assignment: **Group assignment — To be submitted**
+- Simplonline workspace: **Lake Titans**
 - Rule: use the original brief document or official school/project page as the source of truth.
 
 ## 🤝 Team
 
 - Work mode: **Binôme**
 - Collaborators: **Mehdi and Maroua**
+- Platform evidence: Simplonline confirms a group assignment; the visible workspace is named **Lake Titans**.
 
 ## 📌 Confirmed information
 
@@ -27,8 +30,10 @@
 | Main LMS flow | Courses, ordered modules, resources, enrollments, sequential progress, and trainer views |
 | Verification | Postman or Insomnia plus focused automated tests with Supertest |
 | Delivery track | Jira, Git branches or forks, pull requests and reviews, API docs, README, and Docker |
-| Official title | No separate title was included in the supplied text |
-| Official brief link | Not provided yet |
+| Official title | Authentification, accès et progression LMS |
+| Official brief link | [Simplonline](https://maghreb.simplonline.co/classrooms/4867b8e5-eb61-4ad3-a538-a88b9ebb5957/briefs/89986592-a062-464e-bd28-b1e00fe16171) |
+| Assignment status | Group assignment — To be submitted |
+| Group workspace | Lake Titans |
 | Authentication decision | The brief explicitly requires a learner-built JWT flow using `jsonwebtoken` and bcrypt or bcryptjs |
 | Clerk investigation | Learning reference only; it is not the selected implementation for this brief |
 | Learning source | ChatGPT project `ghost ai`, conversation `Clerk CLI And MCP Explained` |

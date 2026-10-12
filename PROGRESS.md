@@ -4,10 +4,10 @@
 
 - Current part: Part 1 - The JavaScript language
 - Main direction: develop MERN JavaScript skills by connecting every practical concept to *Eloquent JavaScript*
-- Current focus: starting the ordered concept path for Sprint 2 — Brief 2 with API takeover and non-regression
+- Current focus: starting the ordered concept path for **Authentification, accès et progression LMS** with API takeover and non-regression
 - Chapter status: In progress for the class presentation preparation
 - Earlier chapters: Not completed; Chapter 1 remains not started
-- Last meaningful update: 2026-10-09 - Recovered and registered the verified `jwt.verify()` middleware learning notes
+- Last meaningful update: 2026-10-12 - Verified the official Simplonline brief, assignment status, deadline, and group workspace
 - Next learning target: explain non-regression using one simple API-route scenario
 - Next repository target: review the three answers in the Concept 1 quick exercise before any implementation work
 
@@ -19,6 +19,8 @@
 | --- | --- |
 | Sprint and brief identity | ✅ Sprint 2 — Brief 2 |
 | Team | ✅ Binôme with Maroua |
+| Official Simplonline source | ✅ [Authentification, accès et progression LMS](https://maghreb.simplonline.co/classrooms/4867b8e5-eb61-4ad3-a538-a88b9ebb5957/briefs/89986592-a062-464e-bd28-b1e00fe16171) |
+| Assignment | 🟡 Group assignment — To be submitted; workspace **Lake Titans** |
 | Full brief intake | ✅ Requirements, deadline, assessment, deliverables, and risks recorded |
 | Brief content and analysis | ✅ Original source, structured guide, learner-friendly analysis, and two reviewed diagrams saved |
 | Concept and exercise roadmap | ✅ Twelve ordered concepts with one short understanding exercise each |
@@ -35,7 +37,7 @@
 | Authentication middleware and role authorization | 🔁 JWT middleware review needed: isolated valid, expired, and invalid-token checks passed; route integration and role authorization remain |
 | Enrollment, upload, progress, and trainer endpoints | 🔁 Partial enrollment only; remaining mandatory flows not started |
 | Tests, API docs, and reproducible runtime | 🟡 Partial Swagger and Docker setup; automated tests absent |
-| Official title and source link | ⬜ Stable source and separate official title still needed |
+| Official title and source link | ✅ Verified on Simplonline on 2026-10-12 |
 | Requirements and evaluation criteria | ✅ Recorded from the supplied brief text |
 | Deliverables and deadline | ✅ Recorded; deadline 2026-10-16 |
 | Responsibility split | ⬜ Not recorded yet |

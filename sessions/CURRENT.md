@@ -1,12 +1,17 @@
 # Current Session Handoff
 
-- Date: 2026-10-11
+- Date: 2026-10-12
 - Current areas: Sprint 2 — Brief 2 LMS backend and JavaScript data-structures presentation
-- Current focus: JavaScript data-structures presentation speaking practice, followed by the authenticated user-check route
-- Status: 🟡 **In progress** — the daily execution system is verified, but today's learning and implementation tasks are not complete
+- Current focus: official Brief 2 intake verification, followed by the non-regression exercise
+- Status: 🟡 **In progress** — the official brief and assignment are verified, but the learning exercise and implementation work remain incomplete
 
 ## ✅ Last completed action
 
+- Logged in to Simplonline and reviewed the assigned LMS brief read-only.
+- Confirmed the official title **Authentification, accès et progression LMS**.
+- Confirmed the brief is a group assignment marked **To be submitted** in the **Lake Titans** workspace.
+- Confirmed the start date 2026-10-05, deadline 2026-10-16, requirements, deliverables, assessment, and performance criteria match the saved repository intake.
+- Added the stable official brief link without changing application code or the Simplonline assignment state.
 - Collected the complete speech for all eight presentation slides into one rehearsal document.
 - Added a memory cue, natural speaking script, transition, and final conclusion for the presentation.
 - Rendered all five document pages and visually verified that the text is readable with no clipping or overlap.
@@ -23,7 +28,7 @@
 - Attempted to create matching Notion calendar rows, but Notion rejected them because the workspace has reached its free block limit.
 - Made no LMS application-code changes and did not claim that the authenticated route works.
 
-## 🗓️ Today's verified calendar plan
+## 🗓️ Previous verified calendar plan — 2026-10-11
 
 | Time | Task | Current evidence |
 | --- | --- | --- |
@@ -35,6 +40,12 @@
 
 ## 📁 Files changed
 
+- `workstreams/sprints/sprint-2/briefs/brief-2/README.md` — records the official title, link, group assignment status, and workspace.
+- `workstreams/sprints/sprint-2/briefs/brief-2/brief-content/README.md` — identifies the verified official source.
+- `workstreams/sprints/sprint-2/briefs/brief-2/brief-content/source-text.md` — records that the repository copy matches the official brief.
+- `workstreams/sprints/sprint-2/briefs/brief-2/notes/README.md` — records the source boundary and remaining team questions.
+- `PROGRESS.md` — adds the verified official brief checkpoint.
+- `sessions/CURRENT.md` — records this read-only intake verification and the next mission.
 - `workstreams/presentations/javascript-data-structures/rehearsal/README.md` — records that the guide is ready while the timed rehearsal remains in progress.
 - `docs/images/javascript-history-hero.png` — learner-provided yellow JavaScript banner now used at the top of the public README.
 - `docs/images/README.md` — records the new active hero and the retained previous camping asset.
@@ -44,6 +55,9 @@
 
 ## 🧪 Verification
 
+- Opened the official Simplonline brief and its group workspace without changing their state.
+- Compared the title, dates, objectives, required features, constraints, deliverables, assessment, and performance criteria with the saved repository content; no material requirement difference was found.
+- Confirmed the platform status is **To be submitted** and the visible group workspace is **Lake Titans**.
 - Rendered the speaking guide to five page images and inspected every page at full size.
 - Confirmed the document contains slides 1–8, all transitions, and the final conclusion without visible layout defects.
 - Visually inspected the new 1200 × 673 hero for readability, contrast, and suitability as the full-width README banner.
@@ -57,6 +71,8 @@
 
 ## 🚧 Blockers and open questions
 
+- Confirm the responsibility split between Mehdi and Maroua; Simplonline did not expose participant names in the reviewed group view.
+- Confirm the exact Jira project or board used for sprint tracking.
 - Confirm the exact connected-user endpoint and acceptance criteria in the LMS project before implementation.
 - Confirm which route exercise the mentor assigned before recording an attempt.
 - Confirm the presentation duration before the timed rehearsal.
@@ -70,7 +86,7 @@ The private speaking guide is stored outside the repository and must not be stag
 
 ## 🎯 Exact next step
 
-Complete one timed presentation rehearsal using only the memory cues when possible. The checkpoint is complete when all eight slides are explained clearly, the transitions feel natural, and the total duration is recorded.
+Complete the three questions in `workstreams/sprints/sprint-2/briefs/brief-2/exercises/api-takeover-non-regression.md` and add one sentence explaining non-regression. The checkpoint is complete when the broken behavior and the before/after evidence are identified clearly.
 
 ## 🔄 Pending sync
 

@@ -27,6 +27,9 @@ This folder records the confirmed requirements, decisions, questions, and team r
 
 - The work belongs to **Sprint 2**.
 - It is **Brief 2**.
+- The official title is **Authentification, accès et progression LMS**.
+- Simplonline confirms the brief is an assigned group submission with status **To be submitted**.
+- The visible Simplonline group workspace is **Lake Titans**.
 - The brief is completed in a **binôme with Maroua**.
 - The existing LMS work includes registration, login validation, password verification, JWT, and later authorization skills.
 - Clerk was discussed as an alternative authentication service, but no decision or implementation was made.
@@ -37,9 +40,13 @@ This folder records the confirmed requirements, decisions, questions, and team r
 - Track Jira, Git, documentation, and Docker as required delivery work without treating them as JavaScript concepts.
 - Keep Clerk as comparison knowledge only; the supplied brief explicitly selects custom JWT authentication.
 
+## 🛡️ Source boundary
+
+- Simplonline was reviewed read-only on 2026-10-12.
+- The official page confirms the title, dates, requirements, group assignment, submission status, and group workspace name.
+- The visible workspace did not expose participant names in the reviewed view; **Mehdi and Maroua** remains the learner-confirmed team record.
+
 ## ❓ Information still needed
 
-- Stable official brief link or file.
-- Official title, if it exists outside the supplied text.
 - Responsibility split between Mehdi and Maroua.
 - Exact Jira project or board used for sprint tracking.

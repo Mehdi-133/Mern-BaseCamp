@@ -1,12 +1,15 @@
 # Current Session Handoff
 
 - Date: 2026-10-12
-- Current areas: Sprint 2 — Brief 2 LMS backend and JavaScript data-structures presentation
-- Current focus: official Brief 2 intake verification, followed by the non-regression exercise
-- Status: 🟡 **In progress** — the official brief and assignment are verified, but the learning exercise and implementation work remain incomplete
+- Current areas: Sprint 2 — Brief 2 LMS backend; JavaScript data-structures presentation delivered
+- Current focus: Brief 2 API takeover and non-regression exercise
+- Status: 🟡 **In progress** — the presentation was delivered, while the Brief 2 learning exercise and implementation work remain incomplete
 
 ## ✅ Last completed action
 
+- Completed a partial timed presentation rehearsal from 13:54:41 to 14:26:25 on 2026-10-12: **31 minutes 44 seconds** covering Slides 1–6.
+- Delivered the JavaScript data-structures presentation on 2026-10-12 and reported that it went well.
+- Kept the presentation evidence honest: no mentor score, audience feedback, full timed run, or final deck verification was recorded.
 - Logged in to Simplonline and reviewed the assigned LMS brief read-only.
 - Confirmed the official title **Authentification, accès et progression LMS**.
 - Confirmed the brief is a group assignment marked **To be submitted** in the **Lake Titans** workspace.
@@ -40,6 +43,10 @@
 
 ## 📁 Files changed
 
+- `workstreams/presentations/javascript-data-structures/README.md` — records the learner-reported delivery and keeps unverified artifact work open.
+- `workstreams/presentations/javascript-data-structures/rehearsal/README.md` — records the partial timed run, coverage, duration, and evidence boundary.
+- `PROGRESS.md` — separates confirmed presentation delivery from remaining concept and artifact checks.
+- `sessions/CURRENT.md` — moves the active focus to Brief 2 while preserving the presentation milestone.
 - `workstreams/sprints/sprint-2/briefs/brief-2/README.md` — records the official title, link, group assignment status, and workspace.
 - `workstreams/sprints/sprint-2/briefs/brief-2/brief-content/README.md` — identifies the verified official source.
 - `workstreams/sprints/sprint-2/briefs/brief-2/brief-content/source-text.md` — records that the repository copy matches the official brief.
@@ -55,6 +62,8 @@
 
 ## 🧪 Verification
 
+- Recorded the exact rehearsal start, stop, duration, and Slide 1–6 coverage from the live coaching session.
+- Recorded presentation delivery from Mehdi's direct report and did not invent a mentor evaluation or technical deck result.
 - Opened the official Simplonline brief and its group workspace without changing their state.
 - Compared the title, dates, objectives, required features, constraints, deliverables, assessment, and performance criteria with the saved repository content; no material requirement difference was found.
 - Confirmed the platform status is **To be submitted** and the visible group workspace is **Lake Titans**.
@@ -75,7 +84,6 @@
 - Confirm the exact Jira project or board used for sprint tracking.
 - Confirm the exact connected-user endpoint and acceptance criteria in the LMS project before implementation.
 - Confirm which route exercise the mentor assigned before recording an attempt.
-- Confirm the presentation duration before the timed rehearsal.
 - Record the workshop decisions and responsibility split after the meeting with Marwa.
 - Notion calendar rows remain blocked by the workspace free block limit; do not retry new-row creation automatically.
 

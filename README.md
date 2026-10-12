@@ -40,15 +40,15 @@ It is not a collection of copied solutions. It is a trail log of learning to **p
 | --- | --- | --- |
 | 📖 Book foundation | Chapter 4 — Data Structures: Objects and Arrays | 🟡 In progress |
 | 📋 School project | Sprint 2 — Brief 2 with Maroua | 🟡 In progress |
-| 🎯 Current mission | Authenticated user route and presentation readiness | 🟡 Planned; implementation not yet verified |
+| 🎯 Current mission | API takeover and non-regression for Brief 2 | 🟡 Exercise in progress; implementation not yet verified |
 | 🔐 Backend camp | Node.js, Express, MongoDB, and JWT | 🔁 Learning and verification |
-| 🎤 Presentation trail | JavaScript data structures | 🔁 Slide corrections, visual placement, and rehearsal needed |
+| 🎤 Presentation trail | JavaScript data structures | ✅ Delivered; follow-up artifact checks remain |
 | 🗓️ Daily execution | Five timed blocks and a recurring calendar coach | ✅ Calendar setup verified |
 | ⚛️ React trail | No verified checkpoint yet | ⬜ Not started |
 
 ### 🚀 Next trail marker
 
-Implement and verify the authenticated user-check route in the LMS project. Record the passing and failing runtime cases before starting the next scheduled task.
+Complete the Brief 2 non-regression exercise: identify the broken `GET /api/courses` behavior and record the before-and-after evidence before implementation work.
 
 For the complete evidence, open [PROGRESS.md](./PROGRESS.md). To resume the latest work, open [sessions/CURRENT.md](./sessions/CURRENT.md).
 

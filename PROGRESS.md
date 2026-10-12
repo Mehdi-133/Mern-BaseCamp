@@ -5,7 +5,7 @@
 - Current part: Part 1 - The JavaScript language
 - Main direction: develop MERN JavaScript skills by connecting every practical concept to *Eloquent JavaScript*
 - Current focus: starting the ordered concept path for **Authentification, accès et progression LMS** with API takeover and non-regression
-- Chapter status: In progress for the class presentation preparation
+- Chapter status: In progress; the class presentation was delivered on 2026-10-12
 - Earlier chapters: Not completed; Chapter 1 remains not started
 - Last meaningful update: 2026-10-12 - Verified the official Simplonline brief, assignment status, deadline, and group workspace
 - Next learning target: explain non-regression using one simple API-route scenario
@@ -46,7 +46,7 @@ The repository will be updated from confirmed briefing information and verified 
 
 ## 🎤 Data-structures presentation checkpoint
 
-> 🟢 **Ready to begin slide creation.** The core concepts have been studied through predictions, corrections, and MERN examples.
+> ✅ **Delivered on 2026-10-12.** Mehdi reported that the presentation went well. This confirms delivery, while the unreviewed deck corrections, quiz, and remaining concept checks stay open.
 >
 > Workspace: [`workstreams/presentations/javascript-data-structures/`](workstreams/presentations/javascript-data-structures/)
 
@@ -61,9 +61,9 @@ The repository will be updated from confirmed briefing information and verified 
 | Concept-owned pictures, diagrams, and explanations | ✅ Five visual packs complete: concept cards, exact diagrams, trackers, alt text, and explanations |
 | Final `Array` vs `Object` vs `Map` vs `Set` comparison | 🟡 Complete inside the slides |
 | Required mini-cases | 🟡 Turn the learned examples into audience questions |
-| Slide design, final quiz, and oral rehearsal | 🟡 Existing deck reviewed; prepared visuals still need placement, final export, and rehearsal |
+| Slide design, final quiz, and oral rehearsal | 🟡 Slides 1–6 rehearsed for 31:44; presentation delivered; final deck corrections and quiz remain unverified |
 
-> 🧭 **Honest status:** the concept-learning foundation and visual asset system are ready. Canva placement, four code corrections, the final PDF inspection, audience activities, quiz, and presentation delivery still need to be completed.
+> 🧭 **Honest status:** presentation delivery is confirmed by the learner. No mentor score or audience feedback was recorded, and the final PDF inspection, four code corrections, quiz, and `structuredClone()` understanding check remain unverified.
 
 ## 🧑‍🏫 Mentor checkpoint — Sprint 1, Brief 3
 
@@ -140,7 +140,7 @@ The five tasks are verified as timed events in Mehdi's primary Google Calendar. 
 | Daily plan connected to Google Calendar | Complete | Five verified timed events for 2026-10-11 with popup reminders |
 | Recurring calendar task coach | Complete | Active 30-minute checks from 08:00 to 21:30 with actionable-only updates |
 | Public GitHub navigation and clone guide | Complete | Root README with visitor paths, setup guidance, repository map, and status meanings |
-| Chapter 4 class presentation preparation | In progress | Core concepts are documented; Canva deck, quiz, and rehearsal remain |
+| Chapter 4 class presentation follow-up | In progress | Presentation delivered; artifact checks, quiz, and one concept review remain |
 | Part 1 - JavaScript language | Not started | Chapters 1-12 |
 | Part 2 - Browser JavaScript | Not started | Chapters 13-19 |
 | Part 3 - Node.js | Not started | Chapters 20-21 |

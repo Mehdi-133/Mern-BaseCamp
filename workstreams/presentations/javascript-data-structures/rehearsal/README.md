@@ -1,13 +1,14 @@
 # 🎙️ Rehearsal
 
-Status: 🟡 **In progress** — the speaking guide is ready and the timed rehearsal is scheduled for 22:00–23:00 on 2026-10-11.
+Status: 🟡 **Partial timed run recorded** — Slides 1–6 were rehearsed with live corrections on 2026-10-12. The full eight-slide timed run was not completed, but Mehdi later delivered the presentation and reported that it went well.
 
-## 🗓️ Scheduled rehearsal
+## ⏱️ Recorded rehearsal
 
-- Time: **22:00–23:00** in `Africa/Casablanca`.
-- Goal: present all eight slides, use the memory cues, and record the total duration.
-- Reminder: Google Calendar popup at **21:50**.
-- Completion remains pending until the rehearsal is actually performed and reviewed.
+- Start: **13:54:41** in `Africa/Casablanca` on 2026-10-12.
+- Stop: **14:26:25**.
+- Recorded duration: **31 minutes 44 seconds**.
+- Coverage: Slides 1–6 with corrections; the run stopped before Slide 7.
+- Evidence boundary: the later presentation delivery is learner-reported. No mentor score, audience feedback, or external recording was reviewed.
 
 ## 📄 Speaking guide
 
@@ -18,9 +19,11 @@ Status: 🟡 **In progress** — the speaking guide is ready and the timed rehea
 
 ## Final checks
 
-- [ ] Confirm the presentation duration.
-- [ ] Explain every code example without reading it word for word.
+- [x] Record the partial rehearsal duration.
+- [x] Practise explaining Slides 1–6 in the learner's own words.
 - [ ] Pause for both audience mini-cases.
 - [ ] Rehearse the final decision rule.
 - [ ] Check slide readability from a distance.
 - [ ] Complete one timed run.
+
+> ✅ **Delivery note:** Mehdi confirmed that the presentation was delivered on 2026-10-12 and that it went well. This confirms delivery, not the remaining artifact checks above.

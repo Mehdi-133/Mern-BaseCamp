@@ -6,7 +6,7 @@
 
 ## 📍 Status
 
-🟡 **In progress** — the concept visual packs and slide asset tracker are complete. Four code examples still need syntax corrections, and the prepared visuals must be placed and checked in the final exported deck.
+🟡 **Delivered; follow-up review remains** — Mehdi delivered the presentation on 2026-10-12 and reported that it went well. The repository does not yet contain evidence that the four code corrections, final exported deck, or quiz were completed, so those items remain open rather than being marked complete.
 
 ## 🎯 Audience goal
 
@@ -21,13 +21,13 @@ Students should leave able to ask:
 | [Concepts](./concepts/) | Verified explanations, code examples, and concept visual packs | ✅ Five visual packs complete |
 | [Notes](./notes/) | Shared references and useful supporting ideas | 🟡 Grow when useful |
 | [Exercises](./exercises/) | Audience mini-cases and predictions | 🟡 Two cases planned |
-| [Slides](./slides/) | Eight-slide presentation, visuals, explanations, and review | 🟡 Assets ready; placement, code corrections, and final PDF review needed |
+| [Slides](./slides/) | Eight-slide presentation, visuals, explanations, and review | 🟡 Presented; placement, code corrections, and final PDF review remain unverified |
 | [Quiz](./quiz/) | Final Kahoot or Wayground questions | ⬜ Not started |
-| [Rehearsal](./rehearsal/) | Understanding and oral delivery | 🟡 Guide ready; rehearsal pending |
+| [Rehearsal](./rehearsal/) | Understanding and oral delivery | 🟡 Partial timed run recorded; presentation delivered |
 
 ## 🚀 Exact next step
 
-Place the prepared visuals in Canva, correct the JavaScript on slides 2, 4, 5, and 7, export and inspect the updated PDF, then complete one timed rehearsal.
+Record any mentor or audience feedback if it becomes available. Until then, continue the active Brief 2 mission without inventing a presentation score or verification result.
 
 ## 🔗 Related book work
 

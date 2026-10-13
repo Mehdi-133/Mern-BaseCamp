@@ -200,6 +200,8 @@ Example: an arrays explanation prepared for the current class presentation belon
 
 ### Concept visual packs 🖼️
 
+Learner preference confirmed on 2026-10-13: make concept illustrations polished and memorable, keep a coherent visual style, and use `visualize:visualize` for useful interactive explanations. Include charts/comparisons and exact diagrams where they clarify the concept. Explain and verify each visual; build the pack when its concept is studied, one checkpoint at a time.
+
 Every saved JavaScript concept should follow the visual-learning pattern established by the JWT authentication concept:
 
 1. Give the concept its own kebab-case folder with a `README.md` lesson.

@@ -1,5 +1,17 @@
 # Current Session Handoff
 
+## 🗺️ Programme reference checkpoint — 2026-10-13
+
+- Saved the mentor-supplied whole-year roadmap in `docs/PROGRAMME_2026_2027.md`: six sprints, split date ranges, assessments, breaks, final project, certification, and internship.
+- Linked it from `README.md` and `LEARNING_PLAN.md`; recorded the learner's illustration, Visualize, chart, and diagram requirements in `AGENTS.md` and the programme reference.
+- This is planning documentation only: no chapter progress, learner understanding, or API behavior changed. No concept visuals or scheduled tasks were created.
+- Verification: transcription compared with the supplied image; all five changed file paths exist, new navigation targets resolve, and working-tree whitespace checks passed. Review staged whitespace before publishing.
+- Preserve the pre-existing Chapter 4 exercise and root package-file deletions; exclude them from this clean push.
+- Notion: no learning checkpoint changed, so existing chapter/task statuses remain unchanged. The programme reference is stored in Git.
+- Next learning step remains the three-question roles-and-resource-ownership exercise described below. Earlier handoff evidence is retained.
+
+---
+
 - Date: 2026-10-12
 - Current areas: Sprint 2 — Brief 2 LMS backend; JavaScript data-structures presentation delivered
 - Current focus: Brief 2 roles, permissions, and resource ownership, selected by the learner

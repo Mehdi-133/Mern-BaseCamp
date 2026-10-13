@@ -93,6 +93,7 @@ Read → Predict → Attempt → Run → Compare → Explain → Record
 | --- | --- |
 | See my verified learning situation | [PROGRESS.md](./PROGRESS.md) |
 | Follow the complete 21-chapter roadmap | [LEARNING_PLAN.md](./LEARNING_PLAN.md) |
+| See the mentor's whole-year school roadmap | [YouCode programme 2026/2027](./docs/PROGRAMME_2026_2027.md) |
 | Explore book exercises and experiments | [chapters/](./chapters/) |
 | Review briefs, presentations, and live coding | [workstreams/](./workstreams/) |
 | Continue from the latest checkpoint | [sessions/CURRENT.md](./sessions/CURRENT.md) |

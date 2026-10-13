@@ -2,6 +2,10 @@
 
 This roadmap follows the chapter order in *Eloquent JavaScript, Fourth Edition*. Page numbers are the printed page numbers shown in the PDF.
 
+## 🗺️ School programme alongside the book
+
+See the [YouCode MERN programme 2026/2027](docs/PROGRAMME_2026_2027.md) for the mentor-supplied sprint dates, assessments, final project, and internship. Use the year map → current brief → one concept checkpoint. The book path and existing chapter statuses remain unchanged.
+
 Status values:
 
 - `Not started`

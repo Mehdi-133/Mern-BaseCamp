@@ -1,5 +1,13 @@
 # Learning Progress
 
+## 📊 Latest brief evidence — 2026-10-14
+
+- 🟡 [Today's checkpoint](workstreams/sprints/sprint-2/briefs/brief-2/notes/2026-10-14-brief-checkpoint.md) collects the mentor's **55/100** snapshot at `cf906bd`, team-work reports, and a fresh resource-route source review.
+- 🔁 Upload, trainer views, and tests are missing in that assessment; JWT, roles, and progression are partial. No API runtime or new learner mastery was verified in this recap.
+- 🎯 Next mission agreed in today's chat: E08 resource-model inspection, planned for 22:00 Africa/Casablanca. Earlier roles/JWT/non-regression exercises stay open.
+- 🎓 [Student-life recap](sessions/history/2026-10-14-brief-and-student-life.md): pair check-in evidence, evening plan, pending video, and unfinished cloud-notification setup.
+- 📖 Chapter-level status is unchanged. Older checkpoints below are retained as historical evidence.
+
 ## Current position
 
 - Current part: Part 1 - The JavaScript language

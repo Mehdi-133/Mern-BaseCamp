@@ -34,7 +34,9 @@ It is not a collection of copied solutions. It is a trail log of learning to **p
 
 ## 🧭 Current expedition
 
-**Repository checkpoint:** 2026-10-12
+**Latest evidence recap:** [14 October 2026 — Brief 2 and student life](./sessions/history/2026-10-14-brief-and-student-life.md). The mentor's dated 55/100 assessment and the next E08 inspection are explained in the [brief checkpoint](./workstreams/sprints/sprint-2/briefs/brief-2/notes/2026-10-14-brief-checkpoint.md); this consolidation does not certify API behavior.
+
+**Earlier learning checkpoint:** 2026-10-12
 
 | Trail | Current position | Honest status |
 | --- | --- | --- |
@@ -48,7 +50,7 @@ It is not a collection of copied solutions. It is a trail log of learning to **p
 
 ### 🚀 Next trail marker
 
-Complete the [roles and ownership exercise](./workstreams/sprints/sprint-2/briefs/brief-2/exercises/roles-and-resource-ownership.md): explain the three request decisions and why a trainer role alone does not prove course ownership. Earlier checkpoints remain open.
+Begin the [E08 inspection checkpoint](./workstreams/sprints/sprint-2/briefs/brief-2/notes/2026-10-14-brief-checkpoint.md): explain the resource's module reference, URL field, and missing file-receiving step. The earlier [roles and ownership exercise](./workstreams/sprints/sprint-2/briefs/brief-2/exercises/roles-and-resource-ownership.md) and JWT/non-regression checks remain open.
 
 For the complete evidence, open [PROGRESS.md](./PROGRESS.md). To resume the latest work, open [sessions/CURRENT.md](./sessions/CURRENT.md).
 

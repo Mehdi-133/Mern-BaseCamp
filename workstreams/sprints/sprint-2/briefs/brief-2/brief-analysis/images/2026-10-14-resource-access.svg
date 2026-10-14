@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="795" viewBox="0 0 1100 795" role="img" aria-labelledby="title desc"><title id="title">Resource access · target review workflow</title><desc id="desc">These gates explain the policy to verify; they do not certify the current implementation.</desc><rect width="1100" height="795" rx="24" fill="#0e192b"/>
+<text x="45" y="52" fill="#f3f6fc" font-family="Arial, sans-serif" font-size="30" font-weight="700">Resource access · target review workflow</text>
+<text x="45" y="88" fill="#b3c2d8" font-family="Arial, sans-serif" font-size="17" font-weight="400">These gates explain the policy to verify; they do not certify the current implementation.</text>
+<rect x="45" y="120" width="1010" height="80" rx="12" fill="#25344a"/>
+<text x="68" y="154" fill="#ffcd70" font-family="Arial, sans-serif" font-size="23" font-weight="700">01</text>
+<text x="130" y="152" fill="#f3f6fc" font-family="Arial, sans-serif" font-size="23" font-weight="700">Authenticate identity</text>
+<text x="130" y="181" fill="#b3c2d8" font-family="Arial, sans-serif" font-size="18" font-weight="400">Verify the token and identify the current user; reject unauthenticated access.</text>
+<path d="M550 204 v20 m-5 -5 l5 5 5 -5" fill="none" stroke="#b3c2d8" stroke-width="2"/>
+<rect x="45" y="232" width="1010" height="80" rx="12" fill="#25344a"/>
+<text x="68" y="266" fill="#ffcd70" font-family="Arial, sans-serif" font-size="23" font-weight="700">02</text>
+<text x="130" y="264" fill="#f3f6fc" font-family="Arial, sans-serif" font-size="23" font-weight="700">Authorize the action</text>
+<text x="130" y="293" fill="#b3c2d8" font-family="Arial, sans-serif" font-size="18" font-weight="400">Trainer mutations and learner reads require different allowed-action policies.</text>
+<path d="M550 316 v20 m-5 -5 l5 5 5 -5" fill="none" stroke="#b3c2d8" stroke-width="2"/>
+<rect x="45" y="344" width="1010" height="80" rx="12" fill="#25344a"/>
+<text x="68" y="378" fill="#ffcd70" font-family="Arial, sans-serif" font-size="23" font-weight="700">03</text>
+<text x="130" y="376" fill="#f3f6fc" font-family="Arial, sans-serif" font-size="23" font-weight="700">Scope the target</text>
+<text x="130" y="405" fill="#b3c2d8" font-family="Arial, sans-serif" font-size="18" font-weight="400">Trainer: owns course. Learner: enrollment and learning-order rules permit access.</text>
+<path d="M550 428 v20 m-5 -5 l5 5 5 -5" fill="none" stroke="#b3c2d8" stroke-width="2"/>
+<rect x="45" y="456" width="1010" height="80" rx="12" fill="#25344a"/>
+<text x="68" y="490" fill="#ffcd70" font-family="Arial, sans-serif" font-size="23" font-weight="700">04</text>
+<text x="130" y="488" fill="#f3f6fc" font-family="Arial, sans-serif" font-size="23" font-weight="700">Validate input</text>
+<text x="130" y="517" fill="#b3c2d8" font-family="Arial, sans-serif" font-size="18" font-weight="400">Check request data before the controller uses it; keep error responses consistent.</text>
+<path d="M550 540 v20 m-5 -5 l5 5 5 -5" fill="none" stroke="#b3c2d8" stroke-width="2"/>
+<rect x="45" y="568" width="1010" height="80" rx="12" fill="#25344a"/>
+<text x="68" y="602" fill="#ffcd70" font-family="Arial, sans-serif" font-size="23" font-weight="700">05</text>
+<text x="130" y="600" fill="#f3f6fc" font-family="Arial, sans-serif" font-size="23" font-weight="700">Run controller and verify behavior</text>
+<text x="130" y="629" fill="#b3c2d8" font-family="Arial, sans-serif" font-size="18" font-weight="400">Read or mutate the scoped resource; replay allowed and denied requests.</text>
+<text x="45" y="755" fill="#ffcd70" font-family="Arial, sans-serif" font-size="18" font-weight="400">Observed gap: resource GET is public; POST/PUT currently validate before authentication.</text>
+</svg>

@@ -67,7 +67,11 @@ The concept path focuses on the JavaScript backend: Node.js, Express, Mongoose, 
 
 ## 🎯 Next step
 
-Answer the [roles and ownership exercise](./exercises/roles-and-resource-ownership.md). Concept 1's non-regression exercise remains open.
+Start the agreed E08 inspection checkpoint: identify the resource's module reference and URL, then explain why a URL is not a real uploaded file. See the [14 October checkpoint](./notes/2026-10-14-brief-checkpoint.md) for mentor feedback, pair-work evidence, and workflow diagrams. Earlier roles, JWT, and non-regression exercises remain open.
+
+## 📊 Latest evidence — 14 October
+
+The mentor's screenshot at `cf906bd` gives **55/100 coverage**. Upload, trainer views, and tests are missing; JWT, roles, and progression are partial. This is a dated assessment, not a new runtime certification. Today's check-in chat reports PRs #22–#26 merged; those merges were not re-audited in this recap. The [checkpoint note](./notes/2026-10-14-brief-checkpoint.md) separates historical evidence, fresh source findings, and remaining verification.
 
 ## 🛡️ Current learner-selected concept — 2026-10-12
 

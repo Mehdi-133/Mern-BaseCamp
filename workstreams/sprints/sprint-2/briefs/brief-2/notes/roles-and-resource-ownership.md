@@ -34,7 +34,16 @@ MongoDB stores identity and ownership; Express middleware checks permissions on 
 
 ## ⚠️ Common trap
 
-Do not treat a role check as an ownership check. The inspected Course schema does not yet define an owner field.
+Do not treat a role check as an ownership check. On 14 October, fresh source inspection found a `trainer` reference in the Course schema. A stored owner reference still needs to be checked by each relevant endpoint.
+
+## 🔎 14 October resource-route review
+
+- Resource GET is currently public. Its query filters by module and sorts by order; neither operation proves permission or unlock status.
+- Resource POST/PUT contain authentication and trainer-role middleware, but validation currently runs first. Review authentication → authorization → input validation → controller.
+- Resource DELETE has a trainer-role gate; its documentation explicitly excludes course-ownership checks.
+- The [daily checkpoint](./2026-10-14-brief-checkpoint.md) contains an explained target workflow. This was a source review only; allowed/denied HTTP requests and learner understanding are still pending.
+
+Book foundation revisited in the local PDF: Chapter 4, printed p. 61 (object properties/methods), and Chapter 18, printed p. 318 (request method, resource path, and server responses). Express permission rules are the project's practical application, not a library taught on those pages.
 
 ## 🌐 Web culture
 

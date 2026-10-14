@@ -1,5 +1,21 @@
 # Current Session Handoff
 
+## 📋 Latest recap — 2026-10-14
+
+- Collected today's accessible resource-protection, pair-check-in, mentor-feedback, upload-plan, and notification discussions. Detailed evidence is in [Brief 2 checkpoint](../workstreams/sprints/sprint-2/briefs/brief-2/notes/2026-10-14-brief-checkpoint.md) and [student-life recap](./history/2026-10-14-brief-and-student-life.md).
+- Read the mentor's screenshot directly: 55/100 coverage at `cf906bd`; contribution is separately Maroua 26/44 (59%) and Mehdi 18/44 (41%). Do not turn either into a new tested-completion percentage.
+- Fresh read-only LMS source inspection: public resource GET; validation before authentication on POST/PUT; trainer role on DELETE without documented ownership enforcement; Resource holds module/type/url/order; Course now has a trainer reference. LMS Git inspection was denied; no runtime or fresh merge audit performed.
+- Created three deterministic, explained SVGs for coverage, resource access, and planned upload. No decorative cover or generated raster image is included.
+- Files: brief/checkpoint and note indexes, roles review note, analysis image tracker and three assets, root navigation/progress, chapter continuity, this handoff, and the dated session recap. API code and learner deletions are untouched.
+- Book reference consulted: Chapter 4 printed p. 61 and Chapter 18 printed p. 318. No new concept mastery claimed.
+- Notion sync attempted on the existing learning hub, but rejected with `entitlement_required` (free block limit; no changes saved). Pending: mirror today's evidence and E08 next step when capacity is available. Do not retry content creation automatically.
+- Verification: three SVGs rendered and visually inspected; coverage values compared directly with the mentor's screenshot. Local navigation, SVG structure, interactive scenario behavior, and whitespace are checked before the authorized clean push. Publication outcome is reported separately; this handoff does not preclaim a successful push.
+- **One exact next step:** inspect the Resource model, resource routes, and resource controller; explain the module reference, URL field, and missing file-receiving step. Mehdi agreed to start at 22:00 Africa/Casablanca; execution is not recorded. Prior roles, JWT, and non-regression understanding checks remain open.
+
+Older handoffs below are historical; their next-step and source-state statements may be superseded by this recap.
+
+---
+
 ## 🗺️ Programme reference checkpoint — 2026-10-13
 
 - Saved the mentor-supplied whole-year roadmap in `docs/PROGRAMME_2026_2027.md`: six sprints, split date ranges, assessments, breaks, final project, certification, and internship.

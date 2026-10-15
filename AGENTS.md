@@ -200,7 +200,18 @@ Example: an arrays explanation prepared for the current class presentation belon
 
 ### Concept visual packs 🖼️
 
-Learner preference confirmed on 2026-10-13: make concept illustrations polished and memorable, keep a coherent visual style, and use `visualize:visualize` for useful interactive explanations. Include charts/comparisons and exact diagrams where they clarify the concept. Explain and verify each visual; build the pack when its concept is studied, one checkpoint at a time.
+Learner preference updated on 2026-10-15: every new BaseCamp teaching visual must be colorful, polished, memorable, and useful for understanding. Follow the visual direction of the learner-supplied Express/Jest/Supertest/MongoDB infographic: a strong title, clearly grouped panels, recognizable icons, readable labels, and arrows that explain relationships. Use the reference for presentation style; verify technical claims independently. Build each pack when its concept is studied, one checkpoint at a time.
+
+#### 🎨 Required visual direction
+
+- Use a deliberate color palette every time. Give related ideas consistent colors within a lesson, with distinct accents for different tools, roles, or steps. Vary palettes between concepts when useful while keeping the BaseCamp layout and typography coherent.
+- Use strong contrast, generous spacing, and clear visual hierarchy. Dark navy backgrounds with bright cyan, green, pink, or purple accents are a suitable reference style; choose a light background when it improves readability.
+- Make the image teach something: show a concept, workflow, relationship, comparison, or practical use. Include concise captions and concrete examples; decorative covers alone do not satisfy a concept visual pack.
+- Include exact flowcharts for workflows and architecture, comparison charts or tables for alternatives, and practical step diagrams for usage sequences whenever they clarify the lesson. Split crowded infographics into focused visuals so labels remain readable on GitHub and in slides.
+- Use numerical charts only with supported data. Label units, sources, and whether values are measured or illustrative; never invent progress percentages, performance results, or completion evidence.
+- Use `visualize:visualize` for useful interactive explanations, comparisons, and scenarios alongside the saved repository visuals. Keep a static explanation in the repository so the lesson remains understandable outside the chat.
+- Use generated raster artwork for memorable illustrations and reviewed SVG, Mermaid, or another deterministic format for exact technical labels and flows. Check arrow direction, terminology, code, and claims rather than copying possible inaccuracies from a reference image.
+- Before delivery, visually inspect every image for readable text, contrast, clipping, overlap, and technical accuracy. Explain what it teaches, add meaningful alt text, and record verification in its owning asset index.
 
 Every saved JavaScript concept should follow the visual-learning pattern established by the JWT authentication concept:
 

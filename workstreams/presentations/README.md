@@ -23,6 +23,7 @@ presentation-name/
 - Keep slide-only assets under `slides/images/` with an image tracker.
 - Inspect the rendered presentation for readability, accuracy, and visual meaning before marking it ready.
 
-## Current presentation
+## Current presentations
 
-- [JavaScript Data Structures](./javascript-data-structures/) — 🟡 Slide creation in progress
+- [GitHub Actions for Node.js checks](./github-actions-node-checks/) — ⏰ **Due today; preparation not verified**
+- [JavaScript Data Structures](./javascript-data-structures/) — ✅ Delivered; follow-up review remains

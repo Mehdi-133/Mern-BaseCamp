@@ -1,5 +1,17 @@
 # Current Session Handoff
 
+## ⏰ Latest YouCode assignment — 2026-10-16
+
+- Read the authenticated YouCode Class Activities page without changing its state.
+- Found one item under **To do (1)**: Veille `GitHub Actions : automatiser les checks d'un projet Node.js` (`#82372`), scheduled today at 09:30.
+- The activity lists Mohamed Bouthhandoust and Mouncif Benhar as coworkers, says `en binôme`, gives no duration, and provides no resource attachment.
+- The presentation must explain GitHub Actions, workflow/job/step/action, triggers, CI vs CD, automatic pull-request checks, `actions/checkout`, `actions/setup-node`, `npm ci`, protected secrets, and a minimal Node.js CI workflow.
+- Saved the confirmed assignment under [the GitHub Actions presentation workspace](../workstreams/presentations/github-actions-node-checks/README.md). No presentation preparation or delivery was marked complete.
+- Preserved the existing Chapter 4 exercise and root package-file deletions.
+- **One exact next step:** spend 15 minutes writing a team outline with the three speakers and the flow `trigger → workflow → job → steps → npm test → GitHub result`.
+
+---
+
 ## 📋 Latest recap — 2026-10-14
 
 - Collected today's accessible resource-protection, pair-check-in, mentor-feedback, upload-plan, and notification discussions. Detailed evidence is in [Brief 2 checkpoint](../workstreams/sprints/sprint-2/briefs/brief-2/notes/2026-10-14-brief-checkpoint.md) and [student-life recap](./history/2026-10-14-brief-and-student-life.md).

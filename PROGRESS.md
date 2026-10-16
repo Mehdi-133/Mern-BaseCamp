@@ -1,5 +1,14 @@
 # Learning Progress
 
+## ⏰ YouCode activity due today — 2026-10-16
+
+- 🔴 **To do:** Veille `GitHub Actions : automatiser les checks d'un projet Node.js` (`#82372`), scheduled today at 09:30.
+- 👥 The intranet lists Mohamed Bouthhandoust and Mouncif Benhar as coworkers and labels the work mode `en binôme`.
+- 🎯 The required focus is Node.js continuous integration: trigger a workflow on a push or pull request, install dependencies with `npm ci`, run tests, and show a visible GitHub result. Full deployment is not required.
+- 📂 The confirmed requirements and readiness mission are stored in [the presentation workspace](workstreams/presentations/github-actions-node-checks/README.md).
+- ✅ **Current mission:** write a 15-minute team outline containing `trigger → workflow → job → steps → npm test → GitHub result` and assign one section to each speaker.
+- ⚠️ No preparation, delivery, duration, or separate submission deadline is verified yet.
+
 ## 📊 Latest brief evidence — 2026-10-14
 
 - 🟡 [Today's checkpoint](workstreams/sprints/sprint-2/briefs/brief-2/notes/2026-10-14-brief-checkpoint.md) collects the mentor's **55/100** snapshot at `cf906bd`, team-work reports, and a fresh resource-route source review.
@@ -12,12 +21,12 @@
 
 - Current part: Part 1 - The JavaScript language
 - Main direction: develop MERN JavaScript skills by connecting every practical concept to *Eloquent JavaScript*
-- Current focus: roles, permissions, and resource ownership for Brief 2, selected by the learner
+- Current focus: today's GitHub Actions veille, then the unfinished Brief 2 upload checkpoint
 - Chapter status: In progress; the class presentation was delivered on 2026-10-12
 - Earlier chapters: Not completed; Chapter 1 remains not started
 - Last meaningful update: 2026-10-12 - Prepared the roles and ownership lesson, visual pack, review note, and understanding exercise
-- Next learning target: distinguish identity, role permission, and course ownership
-- Next repository target: review the three roles-and-ownership predictions; earlier exercises remain open
+- Next learning target: explain the Node.js CI path from a repository trigger to a visible test result
+- Next repository target: prepare the GitHub Actions team outline; earlier roles, JWT, and non-regression exercises remain open
 
 ## 🤝 Sprint 2 — Brief 2 checkpoint
 

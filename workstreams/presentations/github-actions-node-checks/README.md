@@ -6,7 +6,7 @@
 
 ## ⏰ Assignment status
 
-🔴 **To do — scheduled today.** The authenticated YouCode intranet listed this activity under **To do (1)** on 2026-10-16 after its 09:30 start time. No learner preparation or presentation delivery is verified in this repository.
+🔁 **Review needed.** The authenticated YouCode intranet listed this activity under **To do (1)** on 2026-10-16. On 2026-10-17, a refreshed board showed **To do (0)**, **Doing (0)**, and **Done (0)**. No learner preparation, presentation delivery, cancellation, or completion is verified in this repository.
 
 | Detail | Confirmed information |
 | --- | --- |
@@ -15,7 +15,7 @@
 | Work mode | Listed as `en binôme` |
 | Coworkers | Mohamed Bouthhandoust and Mouncif Benhar |
 | Assigned by | Mehdi LARAIBI |
-| Intranet state | To do |
+| Intranet state | To do on 2026-10-16; not visible on 2026-10-17 |
 
 ## 🎯 Purpose
 
@@ -56,13 +56,14 @@ visible green or red result on GitHub
 
 ## 🎯 Current mission
 
-Spend **15 minutes** writing a one-page presentation outline that follows the confirmed CI flow and assigns one section to each teammate.
+Spend **5 minutes** asking one teammate or the coach whether this veille was delivered or cancelled.
 
-**Observable check:** the outline names the three speakers and contains the sequence `trigger → workflow → job → steps → npm test → GitHub result`.
+**Observable check:** a direct answer confirms the activity outcome and can be recorded without guessing from the board.
 
 ## ⚠️ Evidence boundary
 
 - The intranet provides no duration and no separate submission deadline.
 - No resource attachment was provided.
+- The activity's disappearance from all three board columns is not completion evidence.
 - The activity is not complete merely because its requirements are stored here.
 - Do not change its intranet state until the learner starts or completes it personally.

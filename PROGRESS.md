@@ -1,13 +1,13 @@
 # Learning Progress
 
-## ⏰ YouCode activity due today — 2026-10-16
+## 🔁 YouCode activity visibility change — 2026-10-17
 
-- 🔴 **To do:** Veille `GitHub Actions : automatiser les checks d'un projet Node.js` (`#82372`), scheduled today at 09:30.
-- 👥 The intranet lists Mohamed Bouthhandoust and Mouncif Benhar as coworkers and labels the work mode `en binôme`.
-- 🎯 The required focus is Node.js continuous integration: trigger a workflow on a push or pull request, install dependencies with `npm ci`, run tests, and show a visible GitHub result. Full deployment is not required.
-- 📂 The confirmed requirements and readiness mission are stored in [the presentation workspace](workstreams/presentations/github-actions-node-checks/README.md).
-- ✅ **Current mission:** write a 15-minute team outline containing `trigger → workflow → job → steps → npm test → GitHub result` and assign one section to each speaker.
-- ⚠️ No preparation, delivery, duration, or separate submission deadline is verified yet.
+- The refreshed Class Activities board now shows **To do (0)**, **Doing (0)**, and **Done (0)**.
+- The GitHub Actions veille `#82372`, previously listed under **To do** on 2026-10-16, is no longer visible in any column.
+- 🔁 **Review needed:** disappearance from the board does not prove that the presentation was delivered, completed, or cancelled.
+- 📂 The previously confirmed assignment requirements remain stored in [the presentation workspace](workstreams/presentations/github-actions-node-checks/README.md).
+- ✅ **Current mission:** ask one teammate or the coach to confirm the activity outcome and record the answer.
+- ⚠️ No new YouCode activity is visible, and no preparation or delivery evidence was added.
 
 ## 📊 Latest brief evidence — 2026-10-14
 
@@ -21,12 +21,12 @@
 
 - Current part: Part 1 - The JavaScript language
 - Main direction: develop MERN JavaScript skills by connecting every practical concept to *Eloquent JavaScript*
-- Current focus: today's GitHub Actions veille, then the unfinished Brief 2 upload checkpoint
+- Current focus: the unfinished Brief 2 upload checkpoint; GitHub Actions activity outcome needs confirmation
 - Chapter status: In progress; the class presentation was delivered on 2026-10-12
 - Earlier chapters: Not completed; Chapter 1 remains not started
 - Last meaningful update: 2026-10-12 - Prepared the roles and ownership lesson, visual pack, review note, and understanding exercise
-- Next learning target: explain the Node.js CI path from a repository trigger to a visible test result
-- Next repository target: prepare the GitHub Actions team outline; earlier roles, JWT, and non-regression exercises remain open
+- Next learning target: explain how a real upload moves from a multipart request to safe stored metadata
+- Next repository target: confirm the GitHub Actions activity outcome, then resume the Brief 2 upload checkpoint; earlier roles, JWT, and non-regression exercises remain open
 
 ## 🤝 Sprint 2 — Brief 2 checkpoint
 

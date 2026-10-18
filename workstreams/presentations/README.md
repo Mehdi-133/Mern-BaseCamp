@@ -25,5 +25,5 @@ presentation-name/
 
 ## Current presentations
 
-- [GitHub Actions for Node.js checks](./github-actions-node-checks/) — ⏰ **Due today; preparation not verified**
+- [GitHub Actions for Node.js checks](./github-actions-node-checks/) — 🔁 **No longer visible on the YouCode board; outcome needs confirmation**
 - [JavaScript Data Structures](./javascript-data-structures/) — ✅ Delivered; follow-up review remains

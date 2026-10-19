@@ -2,6 +2,7 @@
 
 ## ⏰ Current priority: task scheduling presentation — 2026-10-19
 
+- Follow-up: saved original slides 1–4 as PNG screenshots under `workstreams/presentations/task-scheduling/slides/images/` with a slide-by-slide explanation in `slides/README.md`. Browser export did not return an accessible `.pptx`; the source deck remains unchanged. Images visually inspected; 31 local links, four PNGs, and whitespace checks passed. Understanding and rehearsal remain pending. Learner authorized clean and push for this follow-up; unrelated deletions remain excluded.
 - Learner needs the idea before tomorrow's presentation (20 October, Africa/Casablanca); deeper review can follow later.
 - Read all eight slides and speaker notes of the shared *Planification des tâches* deck. Notes assign Member A slides 1–4 and Member B slides 5–8; approximately four minutes for A and five minutes of discussion are plans, not measured rehearsal.
 - Saved the [visual guide](../workstreams/presentations/task-scheduling/), quick note, source analysis, concept and exercise indexes, and three SVG/PNG visuals with an asset tracker.

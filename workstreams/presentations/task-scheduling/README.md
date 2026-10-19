@@ -16,6 +16,8 @@ The arrows show the launch flow. The final panel reminds you that starting a pro
 
 ## 🎤 Your presentation story
 
+👉 [Open your four original slides with simple explanations](slides/README.md).
+
 The deck names **Mehdi Karbitou and Chahed Mazouz**. Its notes assign Member A slides 1–4 (about four minutes), then Member B slides 5–8. These are the deck's instructions; no rehearsal or delivery is recorded.
 
 | Slide | Plain-English meaning | Memory cue |
@@ -109,4 +111,4 @@ Without looking above, explain the nightly backup in **30 seconds**: identify it
 - [Cronie crontab manual](https://www.mankier.com/5/crontab) — fields, environment, minute checks; clock-change details depend on implementation.
 - [Microsoft task components](https://learn.microsoft.com/en-us/windows/win32/taskschd/tasks) — triggers, actions, account, settings.
 
-The original deck was read online, including speaker notes. It was not modified or downloaded. This guide is a companion, not a replacement deck.
+The original deck was read online, including speaker notes, and was not modified. [Images of slides 1–4](slides/README.md) are saved locally; the editable PowerPoint export could not be retrieved. This guide is a companion, not a replacement deck.

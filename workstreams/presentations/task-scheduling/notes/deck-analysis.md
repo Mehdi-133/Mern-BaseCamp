@@ -6,7 +6,7 @@
 - Title: *Planification des tâches*. Authors named: Mehdi Karbitou and Chahed Mazouz · YouCode.
 - Tomorrow means **20 October 2026**, Africa/Casablanca, from the learner's request. No presentation hour was supplied.
 - Notes: Member A slides 1–4, about four minutes; Member B slides 5–8, then five minutes of discussion. No personal timing has been measured.
-- No original file export saved; the [source link](../README.md#-review-navigation-and-sources) remains the reference.
+- [Original slide 1–4 screenshots](../slides/README.md) saved with explanations. No editable PowerPoint export retrieved; the [source link](../README.md#-review-navigation-and-sources) remains the reference.
 
 ## 🗺️ The story
 

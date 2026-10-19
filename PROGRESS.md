@@ -1,5 +1,28 @@
 # Learning Progress
 
+## 🚀 Sprint 2 — Brief 3 intake — 2026-10-19
+
+> 🟡 **In progress:** the final LMS API brief is saved and analyzed under [`workstreams/sprints/sprint-2/briefs/brief-3/`](workstreams/sprints/sprint-2/briefs/brief-3/). This records the mission and learning route; it does not certify any new application behavior.
+
+Milestone recap: [19 October 2026 — Sprint 2 Brief 3 intake](sessions/history/2026-10-19-brief-3-intake.md).
+
+| Brief 3 area | Current evidence | Status |
+| --- | --- | --- |
+| Schedule | 19–30 October 2026 | ✅ Confirmed |
+| Work mode | Squad; individual contributions must stay visible | ✅ Confirmed; members not named in supplied text |
+| Source intake | Official page, learner-supplied text, requirements, deliverables, and criteria saved | ✅ Complete for supplied text |
+| Missing continuation | Section 6 points to `brief-03-sprint-02-version-simplonline.pdf` | 🔁 PDF still needed |
+| Existing LMS baseline | Auth, roles, uploads, progress, trainer reporting, tests, Swagger, seed, and Docker artifacts found in source | 🟡 Runtime and shared-branch verification pending |
+| New product scope | Quiz, attempts, scoring, feedback, email, configuration, jobs, stats, and React contract | ⬜ Not verified |
+| Concept path | Twelve dependency-ordered concepts with short checks | ✅ Roadmap prepared; understanding checks not started |
+| Delivery visual | Five-stage dependency route with cross-cutting safety rules | ✅ Saved; final visual verification recorded in its tracker |
+
+### 🎯 Current mission
+
+Complete the [baseline and regression micro-task](workstreams/sprints/sprint-2/briefs/brief-3/exercises/#1-stable-baseline-and-non-regression): record one believed-working behavior, one possible regression, and one unknown with the exact observable check for each.
+
+**Completion check:** no item is called working without a reproducible result.
+
 ## 🔁 YouCode activity visibility change — 2026-10-17
 
 - The refreshed Class Activities board now shows **To do (0)**, **Doing (0)**, and **Done (0)**.
@@ -21,12 +44,12 @@
 
 - Current part: Part 1 - The JavaScript language
 - Main direction: develop MERN JavaScript skills by connecting every practical concept to *Eloquent JavaScript*
-- Current focus: the unfinished Brief 2 upload checkpoint; GitHub Actions activity outcome needs confirmation
+- Current focus: Sprint 2 — Brief 3 intake and inherited Brief 2 baseline verification
 - Chapter status: In progress; the class presentation was delivered on 2026-10-12
 - Earlier chapters: Not completed; Chapter 1 remains not started
-- Last meaningful update: 2026-10-12 - Prepared the roles and ownership lesson, visual pack, review note, and understanding exercise
-- Next learning target: explain how a real upload moves from a multipart request to safe stored metadata
-- Next repository target: confirm the GitHub Actions activity outcome, then resume the Brief 2 upload checkpoint; earlier roles, JWT, and non-regression exercises remain open
+- Last meaningful update: 2026-10-19 - Saved and analyzed Sprint 2 — Brief 3 with its baseline, visual, concept roadmap, and short exercises
+- Next learning target: distinguish source presence from a verified baseline, then identify one regression risk
+- Next repository target: complete Brief 3's baseline matrix before starting quiz, email, or job implementation; earlier Brief 2 understanding checks remain open
 
 ## 🤝 Sprint 2 — Brief 2 checkpoint
 

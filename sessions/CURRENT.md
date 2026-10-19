@@ -1,5 +1,21 @@
 # Current Session Handoff
 
+## 🚀 Brief 3 intake — 2026-10-19
+
+- Milestone recap: [Sprint 2 Brief 3 intake](./history/2026-10-19-brief-3-intake.md).
+- Saved the learner-provided **LMS-API Quiz, notifications, qualité et contrat API React** brief as Sprint 2 — Brief 3.
+- Confirmed the 19–30 October 2026 schedule, squad mode, delivery criteria, 30–45 minute squad defense, and React-contract goal.
+- Built a learner-friendly analysis, a five-stage dependency route, a twelve-concept roadmap, and one 5–15 minute understanding check per concept.
+- Inspected `C:\Users\LENOVO\Desktop\fondations_API_LMS` read-only: authentication, authorization, uploads, progress, trainer reporting, Jest/Supertest, Swagger, seed, and Docker artifacts exist in source; no runtime or shared-branch baseline was verified.
+- Recorded quiz, attempts, scoring, feedback, email, protected configuration, scheduled jobs, job history, statistics, and the React contract as new or unverified Brief 3 work.
+- Kept the source boundary honest: the pasted text stops at section 6 and references `brief-03-sprint-02-version-simplonline.pdf`, which was not attached. Squad members are also unconfirmed.
+- Consulted *Eloquent JavaScript* Chapters 4, 5, 8, 10, 11, 18, and 20 for the roadmap foundations. Framework-specific behavior still requires project and library evidence.
+- Preserved the pre-existing Chapter 4 exercise and root package-file deletions. No LMS application code, external assignment state, commit, or push was changed.
+- Notion sync remains pending under the recorded free-block limit; do not create duplicate rows.
+- **One exact next step:** complete the [Brief 3 baseline and regression micro-task](../workstreams/sprints/sprint-2/briefs/brief-3/exercises/#1-stable-baseline-and-non-regression).
+
+---
+
 ## 🔁 YouCode board refresh — 2026-10-17
 
 - Reopened the authenticated YouCode profile and checked Class Activities read-only.

@@ -130,3 +130,7 @@ The next review will replace this score only after rerunning the full requiremen
 ## 🧩 Brief 2 foundation link — 2026-10-12
 
 The [roles and ownership lesson](../../../workstreams/sprints/sprint-2/briefs/brief-2/concepts/roles-and-resource-ownership/) applies object properties and array `includes()` to `req.user.role`. Understanding remains pending; this adds no completed chapter exercise.
+
+## 🧩 Brief 3 foundation link — 2026-10-19
+
+The [Brief 3 concept roadmap](../../../workstreams/sprints/sprint-2/briefs/brief-3/concepts/) reuses Chapter 4 objects and arrays for nested quiz questions, answer choices, attempts, and safe response shapes. This is an application link only; no Chapter 4 exercise or Brief 3 understanding check was completed by creating the roadmap.

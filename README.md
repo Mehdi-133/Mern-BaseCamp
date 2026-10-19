@@ -34,15 +34,15 @@ It is not a collection of copied solutions. It is a trail log of learning to **p
 
 ## 🧭 Current expedition
 
-**Latest evidence recap:** [14 October 2026 — Brief 2 and student life](./sessions/history/2026-10-14-brief-and-student-life.md). The mentor's dated 55/100 assessment and the next E08 inspection are explained in the [brief checkpoint](./workstreams/sprints/sprint-2/briefs/brief-2/notes/2026-10-14-brief-checkpoint.md); this consolidation does not certify API behavior.
+**Latest mission:** [Sprint 2 — Brief 3 final LMS API delivery](./workstreams/sprints/sprint-2/briefs/brief-3/) runs from 19–30 October 2026. Its source, risks, project baseline, concept roadmap, short exercises, and delivery map are saved without claiming unverified implementation.
 
-**Earlier learning checkpoint:** 2026-10-12
+**Current learning checkpoint:** 2026-10-19
 
 | Trail | Current position | Honest status |
 | --- | --- | --- |
 | 📖 Book foundation | Chapter 4 — Data Structures: Objects and Arrays | 🟡 In progress |
-| 📋 School project | Sprint 2 — Brief 2 with Maroua | 🟡 In progress |
-| 🎯 Current mission | Roles, permissions, and ownership for Brief 2 | 🟡 Lesson prepared; understanding and API integration pending |
+| 📋 School project | Sprint 2 — Brief 3 final LMS API, squad membership pending confirmation | 🟡 Intake ready; implementation not verified |
+| 🎯 Current mission | Prove the inherited Brief 2 baseline before choosing a Brief 3 feature | 🟡 Baseline exercise ready |
 | 🔐 Backend camp | Node.js, Express, MongoDB, and JWT | 🔁 Learning and verification |
 | 🎤 Presentation trail | JavaScript data structures | ✅ Delivered; follow-up artifact checks remain |
 | 🗓️ Daily execution | Five timed blocks and a recurring calendar coach | ✅ Calendar setup verified |
@@ -50,7 +50,7 @@ It is not a collection of copied solutions. It is a trail log of learning to **p
 
 ### 🚀 Next trail marker
 
-Begin the [E08 inspection checkpoint](./workstreams/sprints/sprint-2/briefs/brief-2/notes/2026-10-14-brief-checkpoint.md): explain the resource's module reference, URL field, and missing file-receiving step. The earlier [roles and ownership exercise](./workstreams/sprints/sprint-2/briefs/brief-2/exercises/roles-and-resource-ownership.md) and JWT/non-regression checks remain open.
+Complete the [Brief 3 baseline and regression micro-task](./workstreams/sprints/sprint-2/briefs/brief-3/exercises/#1-stable-baseline-and-non-regression): record one believed-working behavior, one possible regression, and one unknown with an exact verification check. Earlier Brief 2 understanding checks remain open.
 
 For the complete evidence, open [PROGRESS.md](./PROGRESS.md). To resume the latest work, open [sessions/CURRENT.md](./sessions/CURRENT.md).
 

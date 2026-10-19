@@ -1,5 +1,17 @@
 # Current Session Handoff
 
+## ⏰ Current priority: task scheduling presentation — 2026-10-19
+
+- Learner needs the idea before tomorrow's presentation (20 October, Africa/Casablanca); deeper review can follow later.
+- Read all eight slides and speaker notes of the shared *Planification des tâches* deck. Notes assign Member A slides 1–4 and Member B slides 5–8; approximately four minutes for A and five minutes of discussion are plans, not measured rehearsal.
+- Saved the [visual guide](../workstreams/presentations/task-scheduling/), quick note, source analysis, concept and exercise indexes, and three SVG/PNG visuals with an asset tracker.
+- Checked cron fields and Windows task components against published manuals; consulted local book Chapter 11 printed pp. 185–186 and Chapter 20 printed pp. 361–362. Clarified missed-run recovery, minute checking, timezone behavior, and evidence of success.
+- Verified documentation links, image rendering, SVG structure, and whitespace. No scheduler configured or executed; understanding and rehearsal remain open.
+- Updated presentation index and progress. Learner requested cleanup and push; publish only this guide, its visuals, and related tracking. Unrelated Chapter 4 and package-file deletions remain excluded. Publication results are verified separately after the push.
+- Notion: updated the existing Learning Hub's current-focus bullet and fetched it to verify the saved change. No new rows created; detailed task/log sync remains pending under the recorded free-block limit.
+- **One exact next step:** explain the nightly backup in 30 seconds: trigger, scheduler, task, and proof of success. Then review the three-question check.
+- Earlier Brief 2 upload and Brief 3 baseline checks remain unfinished; resume them after this presentation priority.
+
 ## 📦 Brief 2 Multer upload documentation — 2026-10-19
 
 - Corrected the active scope after learner clarification: this checkpoint documents the **Brief 2** resource upload implemented with Multer, not a new Brief 3 upload concept.

@@ -1,5 +1,12 @@
 # Learning Progress
 
+## ⏰ Task scheduling presentation — 2026-10-19
+
+- 🟡 Prepared a [simple visual guide](workstreams/presentations/task-scheduling/) for the learner-reported presentation tomorrow, 20 October.
+- Read all eight shared slides and speaker notes; saved the slide story, French/English vocabulary, cron decoder, overlap chart, quick note, and three-question check.
+- Preparation is saved; learner understanding, rehearsal, scheduler execution, and delivery are unverified. No chapter completion changed.
+- **Next:** explain the nightly-backup trigger, scheduler, task, and proof in 30 seconds.
+
 ## 🚀 Sprint 2 — Brief 3 intake — 2026-10-19
 
 > 🟡 **In progress:** the final LMS API brief is saved and analyzed under [`workstreams/sprints/sprint-2/briefs/brief-3/`](workstreams/sprints/sprint-2/briefs/brief-3/). This records the mission and learning route; it does not certify any new application behavior.

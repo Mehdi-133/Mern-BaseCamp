@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="title desc"><title id="title">READ CRON LIKE FIVE SMALL QUESTIONS</title><desc id="desc">User crontab example  |  Five time fields, then the command</desc><rect width="1200" height="440" rx="24" fill="#101b32"/>
+<text x="45" y="55" fill="#f4f7ff" font-family="Arial, sans-serif" font-size="34" font-weight="700">READ CRON LIKE FIVE SMALL QUESTIONS</text>
+<text x="45" y="90" fill="#bccce5" font-family="Arial, sans-serif" font-size="20" font-weight="400">User crontab example  |  Five time fields, then the command</text>
+<rect x="45" y="135" width="140" height="145" rx="14" fill="#1d2c48"/>
+<text x="100" y="204" fill="#43d9e6" font-family="Arial, sans-serif" font-size="48" font-weight="700">0</text>
+<text x="55" y="253" fill="#f4f7ff" font-family="Arial, sans-serif" font-size="18" font-weight="400">minute</text>
+<rect x="203" y="135" width="140" height="145" rx="14" fill="#1d2c48"/>
+<text x="258" y="204" fill="#b89bff" font-family="Arial, sans-serif" font-size="48" font-weight="700">2</text>
+<text x="213" y="253" fill="#f4f7ff" font-family="Arial, sans-serif" font-size="18" font-weight="400">hour</text>
+<rect x="361" y="135" width="140" height="145" rx="14" fill="#1d2c48"/>
+<text x="416" y="204" fill="#ffcc65" font-family="Arial, sans-serif" font-size="48" font-weight="700">*</text>
+<text x="371" y="253" fill="#f4f7ff" font-family="Arial, sans-serif" font-size="18" font-weight="400">day of month</text>
+<rect x="519" y="135" width="140" height="145" rx="14" fill="#1d2c48"/>
+<text x="574" y="204" fill="#65e0b3" font-family="Arial, sans-serif" font-size="48" font-weight="700">*</text>
+<text x="529" y="253" fill="#f4f7ff" font-family="Arial, sans-serif" font-size="18" font-weight="400">month</text>
+<rect x="677" y="135" width="140" height="145" rx="14" fill="#1d2c48"/>
+<text x="732" y="204" fill="#43d9e6" font-family="Arial, sans-serif" font-size="48" font-weight="700">*</text>
+<text x="687" y="253" fill="#f4f7ff" font-family="Arial, sans-serif" font-size="18" font-weight="400">weekday</text>
+<text x="860" y="205" fill="#65e0b3" font-family="Arial, sans-serif" font-size="30" font-weight="700">backup.sh</text>
+<text x="860" y="251" fill="#bccce5" font-family="Arial, sans-serif" font-size="20" font-weight="400">command</text>
+<text x="45" y="335" fill="#ffcc65" font-family="Arial, sans-serif" font-size="28" font-weight="700">Every day at 02:00 in the scheduler&#x27;s timezone.</text>
+<text x="45" y="388" fill="#bccce5" font-family="Arial, sans-serif" font-size="21" font-weight="400">* = every allowed value in this field. This is an example, not an installed job.</text>
+</svg>

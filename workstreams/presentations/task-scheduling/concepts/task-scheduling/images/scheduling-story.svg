@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc"><title id="title">THE COMPUTER&#x27;S ALARM CLOCK</title><desc id="desc">WHEN → SCHEDULER → WORK → PROOF  |  Example: a nightly backup</desc><rect width="1200" height="430" rx="24" fill="#101b32"/>
+<text x="45" y="55" fill="#f4f7ff" font-family="Arial, sans-serif" font-size="34" font-weight="700">THE COMPUTER&#x27;S ALARM CLOCK</text>
+<text x="45" y="90" fill="#bccce5" font-family="Arial, sans-serif" font-size="20" font-weight="400">WHEN → SCHEDULER → WORK → PROOF  |  Example: a nightly backup</text>
+<rect x="42" y="130" width="247" height="205" rx="16" fill="#1d2c48" stroke="#43d9e6" stroke-width="2"/>
+<text x="60" y="165" fill="#43d9e6" font-family="Arial, sans-serif" font-size="19" font-weight="700">01  TRIGGER</text>
+<text x="60" y="235" fill="#f4f7ff" font-family="Arial, sans-serif" font-size="34" font-weight="700">02:00</text>
+<text x="60" y="290" fill="#bccce5" font-family="Arial, sans-serif" font-size="19" font-weight="400">Every night</text>
+<path d="M 297 232 h 25 l -7 -7 m 7 7 l -7 7" stroke="#43d9e6" stroke-width="3" fill="none"/>
+<rect x="335" y="130" width="247" height="205" rx="16" fill="#1d2c48" stroke="#b89bff" stroke-width="2"/>
+<text x="353" y="165" fill="#b89bff" font-family="Arial, sans-serif" font-size="19" font-weight="700">02  SCHEDULER</text>
+<text x="353" y="235" fill="#f4f7ff" font-family="Arial, sans-serif" font-size="34" font-weight="700">START</text>
+<text x="353" y="290" fill="#bccce5" font-family="Arial, sans-serif" font-size="19" font-weight="400">cron / Windows</text>
+<path d="M 590 232 h 25 l -7 -7 m 7 7 l -7 7" stroke="#b89bff" stroke-width="3" fill="none"/>
+<rect x="628" y="130" width="247" height="205" rx="16" fill="#1d2c48" stroke="#ffcc65" stroke-width="2"/>
+<text x="646" y="165" fill="#ffcc65" font-family="Arial, sans-serif" font-size="19" font-weight="700">03  TASK</text>
+<text x="646" y="235" fill="#f4f7ff" font-family="Arial, sans-serif" font-size="34" font-weight="700">BACKUP</text>
+<text x="646" y="290" fill="#bccce5" font-family="Arial, sans-serif" font-size="19" font-weight="400">Script copies files</text>
+<path d="M 883 232 h 25 l -7 -7 m 7 7 l -7 7" stroke="#ffcc65" stroke-width="3" fill="none"/>
+<rect x="921" y="130" width="247" height="205" rx="16" fill="#1d2c48" stroke="#65e0b3" stroke-width="2"/>
+<text x="939" y="165" fill="#65e0b3" font-family="Arial, sans-serif" font-size="19" font-weight="700">04  CHECK</text>
+<text x="939" y="235" fill="#f4f7ff" font-family="Arial, sans-serif" font-size="34" font-weight="700">VERIFY</text>
+<text x="939" y="290" fill="#bccce5" font-family="Arial, sans-serif" font-size="19" font-weight="400">Logs + usable output</text>
+<text x="45" y="390" fill="#f4f7ff" font-family="Arial, sans-serif" font-size="22" font-weight="400">The scheduler starts the work. The script must do it. Evidence shows whether it worked.</text>
+</svg>

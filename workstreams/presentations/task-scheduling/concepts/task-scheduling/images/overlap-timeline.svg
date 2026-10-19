@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="470" viewBox="0 0 1200 470" role="img" aria-labelledby="title desc"><title id="title">START TIMES CAN OVERLAP</title><desc id="desc">Illustrative slide 6 example  |  Each job lasts 30 minutes; a new one starts every 10</desc><rect width="1200" height="470" rx="24" fill="#101b32"/>
+<text x="45" y="55" fill="#f4f7ff" font-family="Arial, sans-serif" font-size="34" font-weight="700">START TIMES CAN OVERLAP</text>
+<text x="45" y="90" fill="#bccce5" font-family="Arial, sans-serif" font-size="20" font-weight="400">Illustrative slide 6 example  |  Each job lasts 30 minutes; a new one starts every 10</text>
+<path d="M 185 140 V 350" stroke="#364661" stroke-width="1"/>
+<text x="176" y="387" fill="#bccce5" font-family="Arial, sans-serif" font-size="20" font-weight="400">0</text>
+<path d="M 365 140 V 350" stroke="#364661" stroke-width="1"/>
+<text x="356" y="387" fill="#bccce5" font-family="Arial, sans-serif" font-size="20" font-weight="400">10</text>
+<path d="M 545 140 V 350" stroke="#364661" stroke-width="1"/>
+<text x="536" y="387" fill="#bccce5" font-family="Arial, sans-serif" font-size="20" font-weight="400">20</text>
+<path d="M 725 140 V 350" stroke="#364661" stroke-width="1"/>
+<text x="716" y="387" fill="#bccce5" font-family="Arial, sans-serif" font-size="20" font-weight="400">30</text>
+<path d="M 905 140 V 350" stroke="#364661" stroke-width="1"/>
+<text x="896" y="387" fill="#bccce5" font-family="Arial, sans-serif" font-size="20" font-weight="400">40</text>
+<path d="M 1085 140 V 350" stroke="#364661" stroke-width="1"/>
+<text x="1076" y="387" fill="#bccce5" font-family="Arial, sans-serif" font-size="20" font-weight="400">50</text>
+<text x="45" y="184" fill="#f4f7ff" font-family="Arial, sans-serif" font-size="23" font-weight="400">Run 1</text>
+<rect x="185" y="155" width="540" height="44" rx="7" fill="#43d9e6"/>
+<text x="203" y="184" fill="#101b32" font-family="Arial, sans-serif" font-size="21" font-weight="700">30 minutes</text>
+<text x="45" y="249" fill="#f4f7ff" font-family="Arial, sans-serif" font-size="23" font-weight="400">Run 2</text>
+<rect x="365" y="220" width="540" height="44" rx="7" fill="#b89bff"/>
+<text x="383" y="249" fill="#101b32" font-family="Arial, sans-serif" font-size="21" font-weight="700">30 minutes</text>
+<text x="45" y="314" fill="#f4f7ff" font-family="Arial, sans-serif" font-size="23" font-weight="400">Run 3</text>
+<rect x="545" y="285" width="540" height="44" rx="7" fill="#ffcc65"/>
+<text x="563" y="314" fill="#101b32" font-family="Arial, sans-serif" font-size="21" font-weight="700">30 minutes</text>
+<text x="45" y="430" fill="#f4f7ff" font-family="Arial, sans-serif" font-size="23" font-weight="400">At minute 20: three active runs. Choose a lock, skip, or queue policy.</text>
+<text x="1060" y="120" fill="#bccce5" font-family="Arial, sans-serif" font-size="18" font-weight="400">minutes</text>
+</svg>

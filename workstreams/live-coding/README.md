@@ -15,4 +15,5 @@ session-name/
 
 ## Current live-coding plan
 
+- [Secure Real Resource Upload](./secure-resource-upload/) — ✅ Class activity marked Finished; Brief 2 implementation exists, learner live-coding attempt not recorded
 - [Hotel Filters](./hotel-filters/) — ⬜ Not started

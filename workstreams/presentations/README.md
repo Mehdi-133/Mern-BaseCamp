@@ -25,5 +25,6 @@ presentation-name/
 
 ## Current presentations
 
+- [Files and Media in a MERN Application](./mern-file-upload/) — ✅ Class activity marked Finished; saved as a Brief 2 learning reference, not Mehdi delivery evidence
 - [GitHub Actions for Node.js checks](./github-actions-node-checks/) — 🔁 **No longer visible on the YouCode board; outcome needs confirmation**
 - [JavaScript Data Structures](./javascript-data-structures/) — ✅ Delivered; follow-up review remains

@@ -14,6 +14,7 @@ This folder records the confirmed requirements, decisions, questions, and team r
 - [Clerk authentication tools](../concepts/clerk-authentication/) — the difference between Clerk, its SDK, CLI, MCP support, and Express integration.
 - [`ghost ai` project review](./ghost-ai-project-review.md) — source questions, repository mapping, evidence limits, and visual coverage.
 - [Roles and resource ownership](./roles-and-resource-ownership.md) — current lesson, middleware explanation, workflow, and pending understanding check.
+- [Multer upload quick review](./controlled-file-uploads.md) — multipart parsing, filesystem storage, MongoDB metadata, cleanup, and current Git evidence.
 
 ## ✨ Note style
 

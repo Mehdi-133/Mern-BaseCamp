@@ -48,9 +48,9 @@
 | --- | --- | --- |
 | [Brief content](./brief-content/) | Supplied requirements and source details | ✅ Saved |
 | [Brief analysis](./brief-analysis/) | Plain-language explanation, current gaps, risks, and visual roadmap | ✅ Analysis and visual pack ready |
-| [Concepts](./concepts/) | Ordered technical learning roadmap | 🟡 Twelve concepts mapped; Concept 5 active by learner request; earlier Concept 1/4 checks remain open |
-| [Notes](./notes/) | Brief analysis, decisions, questions, and team responsibilities | 🟡 Full intake, current-code baseline, and `jwt.verify()` review notes recorded |
-| [Exercises](./exercises/) | Short understanding practice for every concept | 🟡 Concept 5 three-request exercise prepared; answers pending |
+| [Concepts](./concepts/) | Ordered technical learning roadmap | 🟡 Twelve concepts mapped; upload implementation recorded under Concept 8; understanding checks remain open |
+| [Notes](./notes/) | Brief analysis, decisions, questions, and team responsibilities | 🟡 Full intake plus JWT, ownership, and Multer upload review notes recorded |
+| [Exercises](./exercises/) | Short understanding practice for every concept | 🟡 Upload and earlier concept exercises are prepared; answers pending |
 
 ## 🧭 Concept-by-concept workflow
 
@@ -67,11 +67,17 @@ The concept path focuses on the JavaScript backend: Node.js, Express, Mongoose, 
 
 ## 🎯 Next step
 
-Start the agreed E08 inspection checkpoint: identify the resource's module reference and URL, then explain why a URL is not a real uploaded file. See the [14 October checkpoint](./notes/2026-10-14-brief-checkpoint.md) for mentor feedback, pair-work evidence, and workflow diagrams. Earlier roles, JWT, and non-regression exercises remain open.
+Complete the [controlled-upload understanding check](./exercises/controlled-file-uploads.md): explain how multipart data becomes `req.file`, how the file is linked to a module through MongoDB metadata, and which hardening is merged versus branch-only. Earlier roles, JWT, and non-regression exercises remain open.
 
 ## 📊 Latest evidence — 14 October
 
 The mentor's screenshot at `cf906bd` gives **55/100 coverage**. Upload, trainer views, and tests are missing; JWT, roles, and progression are partial. This is a dated assessment, not a new runtime certification. Today's check-in chat reports PRs #22–#26 merged; those merges were not re-audited in this recap. The [checkpoint note](./notes/2026-10-14-brief-checkpoint.md) separates historical evidence, fresh source findings, and remaining verification.
+
+## 📦 Upload evidence — 19 October
+
+The basic Multer upload was merged through commit `3aeba27`. It accepts one PDF, JPEG, or PNG up to 5 MiB, stores a UUID filename locally, creates module-linked resource metadata, and removes the file if later controller work fails. Commit `883aa0e` adds course ownership and file-signature checks on `feature/FAL-46-upload-module-file`; those additions are not confirmed on `main`. No upload-focused automated or HTTP runtime check was found in this review.
+
+Open the [controlled file upload lesson](./concepts/controlled-file-uploads/) for the complete request flow and exact evidence boundary.
 
 ## 🛡️ Current learner-selected concept — 2026-10-12
 

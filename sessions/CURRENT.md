@@ -1,5 +1,21 @@
 # Current Session Handoff
 
+## 📦 Brief 2 Multer upload documentation — 2026-10-19
+
+- Corrected the active scope after learner clarification: this checkpoint documents the **Brief 2** resource upload implemented with Multer, not a new Brief 3 upload concept.
+- Inspected the LMS source read-only. The route uses `authenticate`, trainer authorization, `upload.single("file")`, and `uploadResource` for `POST /api/modules/:id/resources/upload`.
+- Confirmed the merged baseline through commit `3aeba27`: PDF/JPEG/PNG declared-type filter, 5 MiB limit, UUID disk filename, module-linked `Resource` metadata, and file cleanup after controller failure.
+- Confirmed later commit `883aa0e` on `feature/FAL-46-upload-module-file` adds course ownership and file-signature comparison. These changes are not confirmed on `main`.
+- Found no upload-focused automated test and ran no accepted/rejected HTTP upload scenario, so runtime behavior remains unverified.
+- Added the [full Multer lesson](../workstreams/sprints/sprint-2/briefs/brief-2/concepts/controlled-file-uploads/), [quick note](../workstreams/sprints/sprint-2/briefs/brief-2/notes/controlled-file-uploads.md), and [three-question exercise](../workstreams/sprints/sprint-2/briefs/brief-2/exercises/controlled-file-uploads.md). The verified 14 October upload workflow visual is reused instead of duplicated.
+- Added the related [upload presentation](../workstreams/presentations/mern-file-upload/) and [secure-upload live-coding](../workstreams/live-coding/secure-resource-upload/) as class references. The board marks them `Finished`, but their listed participants do not include Mehdi, so no personal delivery or live-coding completion is claimed.
+- Consulted *Eloquent JavaScript* Chapter 18, printed pp. 317–319, for HTTP request structure and forms, plus Chapter 20, printed pp. 361–363, for Node.js I/O and modules. Multer and Mongoose remain project-library topics.
+- Preserved the unrelated Chapter 4 exercise and root package-file deletions. No LMS application code or external activity state was changed.
+- Notion sync remains pending under the recorded free-block limit; do not create duplicate rows.
+- **One exact next step:** answer the [controlled-upload understanding check](../workstreams/sprints/sprint-2/briefs/brief-2/exercises/controlled-file-uploads.md) in your own words.
+
+---
+
 ## 🚀 Brief 3 intake — 2026-10-19
 
 - Milestone recap: [Sprint 2 Brief 3 intake](./history/2026-10-19-brief-3-intake.md).

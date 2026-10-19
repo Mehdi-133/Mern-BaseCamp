@@ -42,15 +42,15 @@ It is not a collection of copied solutions. It is a trail log of learning to **p
 | --- | --- | --- |
 | 📖 Book foundation | Chapter 4 — Data Structures: Objects and Arrays | 🟡 In progress |
 | 📋 School project | Sprint 2 — Brief 3 final LMS API, squad membership pending confirmation | 🟡 Intake ready; implementation not verified |
-| 🎯 Current mission | Prove the inherited Brief 2 baseline before choosing a Brief 3 feature | 🟡 Baseline exercise ready |
-| 🔐 Backend camp | Node.js, Express, MongoDB, and JWT | 🔁 Learning and verification |
+| 🎯 Current mission | Explain and verify the Brief 2 Multer upload flow | 🟡 Lesson saved; exercise pending |
+| 🔐 Backend camp | Node.js, Express, MongoDB, JWT, and Multer | 🟡 Basic upload merged; runtime proof pending |
 | 🎤 Presentation trail | JavaScript data structures | ✅ Delivered; follow-up artifact checks remain |
 | 🗓️ Daily execution | Five timed blocks and a recurring calendar coach | ✅ Calendar setup verified |
 | ⚛️ React trail | No verified checkpoint yet | ⬜ Not started |
 
 ### 🚀 Next trail marker
 
-Complete the [Brief 3 baseline and regression micro-task](./workstreams/sprints/sprint-2/briefs/brief-3/exercises/#1-stable-baseline-and-non-regression): record one believed-working behavior, one possible regression, and one unknown with an exact verification check. Earlier Brief 2 understanding checks remain open.
+Complete the [Brief 2 controlled-upload check](./workstreams/sprints/sprint-2/briefs/brief-2/exercises/controlled-file-uploads.md): explain how multipart data becomes `req.file`, how the stored file connects to MongoDB metadata, and which protections are merged versus branch-only. Brief 3 baseline verification remains open afterward.
 
 For the complete evidence, open [PROGRESS.md](./PROGRESS.md). To resume the latest work, open [sessions/CURRENT.md](./sessions/CURRENT.md).
 

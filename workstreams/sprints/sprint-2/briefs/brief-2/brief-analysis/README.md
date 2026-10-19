@@ -69,7 +69,8 @@ This is a read-only code inspection, not runtime proof.
 - `Enrollment` has no database-level rule preventing duplicate active learner-course pairs.
 - Courses do not yet record trainer ownership.
 - Course, module, and resource management endpoints are incomplete.
-- Resource upload is not implemented; Multer is not listed as a dependency.
+- The basic Multer upload is merged through commit `3aeba27`, but accepted/rejected HTTP cases and upload-focused automated tests still need verification.
+- Course ownership and file-signature validation exist in commit `883aa0e` on `feature/FAL-46-upload-module-file`; this hardening is not confirmed on `main`.
 - No progress model or sequential-locking flow was found.
 - No trainer reporting endpoints or ownership checks were found.
 - No focused automated test setup was found in `package.json`.

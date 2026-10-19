@@ -13,7 +13,7 @@ Each exercise should take about 5 to 15 minutes and check one concept. Full feat
 | Roles and ownership | [Mark three requests as allow or deny](./roles-and-resource-ownership.md) | Explain the difference between role and ownership | 🟡 In progress; answers pending |
 | Domain models and ordering | Choose the correct relationship or index for three rules | Explain one modeling choice | ⬜ Not started |
 | Enrollment invariants | Predict what should happen when the same enrollment is requested twice | Explain why the database also needs the rule | ⬜ Not started |
-| Controlled upload | Accept or reject three example files | Name the type and size checks | ⬜ Not started |
+| Controlled upload | [Explain the multipart-to-resource flow](./controlled-file-uploads.md) | Explain `req.file`, storage, metadata, cleanup, and merged-versus-branch evidence | ⬜ Not started |
 | Sequential progress | Decide whether three module actions are allowed or locked | Explain the sequence rule | ⬜ Not started |
 | Trainer reporting | Allow or deny three trainer data requests | Explain the ownership boundary | ⬜ Not started |
 | Behavioral tests | Read one Supertest example and identify arrange, act, and assert | Explain what behavior the test protects | ⬜ Not started |

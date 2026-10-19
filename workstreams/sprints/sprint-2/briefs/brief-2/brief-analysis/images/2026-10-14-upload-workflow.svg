@@ -1,20 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="795" viewBox="0 0 1100 795" role="img" aria-labelledby="title desc"><title id="title">Real upload · planned lifecycle</title><desc id="desc">E08 remains unimplemented in the mentor snapshot. Begin by understanding the current Resource.</desc><rect width="1100" height="795" rx="24" fill="#0e192b"/>
-<text x="45" y="52" fill="#f3f6fc" font-family="Arial, sans-serif" font-size="30" font-weight="700">Real upload · planned lifecycle</text>
-<text x="45" y="88" fill="#b3c2d8" font-family="Arial, sans-serif" font-size="17" font-weight="400">E08 remains unimplemented in the mentor snapshot. Begin by understanding the current Resource.</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="795" viewBox="0 0 1100 795" role="img" aria-labelledby="title desc"><title id="title">Real upload with Multer</title><desc id="desc">The basic upload flow is merged. Course ownership, signature checks, and runtime tests remain separate verification checkpoints.</desc><rect width="1100" height="795" rx="24" fill="#0e192b"/>
+<text x="45" y="52" fill="#f3f6fc" font-family="Arial, sans-serif" font-size="30" font-weight="700">Real upload · Multer lifecycle</text>
+<text x="45" y="88" fill="#b3c2d8" font-family="Arial, sans-serif" font-size="17" font-weight="400">Basic flow merged · ownership and signature hardening branch-only · runtime tests pending</text>
 <rect x="45" y="120" width="1010" height="80" rx="12" fill="#25344a"/>
 <text x="68" y="154" fill="#ffcd70" font-family="Arial, sans-serif" font-size="23" font-weight="700">01</text>
 <text x="130" y="152" fill="#f3f6fc" font-family="Arial, sans-serif" font-size="23" font-weight="700">Identify the trainer and module</text>
-<text x="130" y="181" fill="#b3c2d8" font-family="Arial, sans-serif" font-size="18" font-weight="400">Authenticate, authorize, and confirm course ownership before accepting content.</text>
+<text x="130" y="181" fill="#b3c2d8" font-family="Arial, sans-serif" font-size="18" font-weight="400">Authenticate and require trainer role; the feature branch also checks course ownership.</text>
 <path d="M550 204 v20 m-5 -5 l5 5 5 -5" fill="none" stroke="#b3c2d8" stroke-width="2"/>
 <rect x="45" y="232" width="1010" height="80" rx="12" fill="#25344a"/>
 <text x="68" y="266" fill="#ffcd70" font-family="Arial, sans-serif" font-size="23" font-weight="700">02</text>
 <text x="130" y="264" fill="#f3f6fc" font-family="Arial, sans-serif" font-size="23" font-weight="700">Receive and validate the real file</text>
-<text x="130" y="293" fill="#b3c2d8" font-family="Arial, sans-serif" font-size="18" font-weight="400">Apply the agreed type and size policy; reject invalid or missing files.</text>
+<text x="130" y="293" fill="#b3c2d8" font-family="Arial, sans-serif" font-size="18" font-weight="400">Multer checks declared type and 5 MiB size; branch hardening checks file signatures.</text>
 <path d="M550 316 v20 m-5 -5 l5 5 5 -5" fill="none" stroke="#b3c2d8" stroke-width="2"/>
 <rect x="45" y="344" width="1010" height="80" rx="12" fill="#25344a"/>
 <text x="68" y="378" fill="#ffcd70" font-family="Arial, sans-serif" font-size="23" font-weight="700">03</text>
 <text x="130" y="376" fill="#f3f6fc" font-family="Arial, sans-serif" font-size="23" font-weight="700">Store the file safely</text>
-<text x="130" y="405" fill="#b3c2d8" font-family="Arial, sans-serif" font-size="18" font-weight="400">Use the selected storage policy; do not treat a client URL as an uploaded file.</text>
+<text x="130" y="405" fill="#b3c2d8" font-family="Arial, sans-serif" font-size="18" font-weight="400">Write under uploads/ with a UUID filename instead of trusting the original name.</text>
 <path d="M550 428 v20 m-5 -5 l5 5 5 -5" fill="none" stroke="#b3c2d8" stroke-width="2"/>
 <rect x="45" y="456" width="1010" height="80" rx="12" fill="#25344a"/>
 <text x="68" y="490" fill="#ffcd70" font-family="Arial, sans-serif" font-size="23" font-weight="700">04</text>
@@ -24,6 +24,6 @@
 <rect x="45" y="568" width="1010" height="80" rx="12" fill="#25344a"/>
 <text x="68" y="602" fill="#ffcd70" font-family="Arial, sans-serif" font-size="23" font-weight="700">05</text>
 <text x="130" y="600" fill="#f3f6fc" font-family="Arial, sans-serif" font-size="23" font-weight="700">Control access and replay tests</text>
-<text x="130" y="629" fill="#b3c2d8" font-family="Arial, sans-serif" font-size="18" font-weight="400">Check permitted and denied reads; handle storage/metadata failures coherently.</text>
-<text x="45" y="755" fill="#ffcd70" font-family="Arial, sans-serif" font-size="18" font-weight="400">First checkpoint: explain module + url in the model, then identify the missing file-receiving step.</text>
+<text x="130" y="629" fill="#b3c2d8" font-family="Arial, sans-serif" font-size="18" font-weight="400">Remove orphan files after controller failure; verify accepted and rejected HTTP cases.</text>
+<text x="45" y="755" fill="#ffcd70" font-family="Arial, sans-serif" font-size="18" font-weight="400">Next checkpoint: explain req.file → disk path → Resource metadata, then run the rejection cases.</text>
 </svg>

@@ -23,6 +23,23 @@ Complete the [baseline and regression micro-task](workstreams/sprints/sprint-2/b
 
 **Completion check:** no item is called working without a reproducible result.
 
+## 📦 Brief 2 Multer upload checkpoint — 2026-10-19
+
+> 🟡 **In progress:** a real resource-upload implementation exists and its basic version is merged. Runtime verification and Mehdi's concept explanation remain open.
+
+| Upload evidence | Status |
+| --- | --- |
+| Multer dependency and `upload.single("file")` route | ✅ Present |
+| PDF/JPEG/PNG filter, 5 MiB limit, UUID stored name | ✅ Merged through `3aeba27` |
+| Module-linked MongoDB metadata and failure cleanup | ✅ Merged through `3aeba27` |
+| Course ownership and file-signature comparison | 🟡 Present in `883aa0e` on `feature/FAL-46-upload-module-file`; not confirmed on `main` |
+| Upload-focused automated tests | ⬜ Not found |
+| Accepted and rejected HTTP upload cases | ⬜ Not rerun in this checkpoint |
+| Concept lesson and verified workflow visual | ✅ [Saved under Brief 2](workstreams/sprints/sprint-2/briefs/brief-2/concepts/controlled-file-uploads/) |
+| Learner understanding exercise | ⬜ [Prepared; answers pending](workstreams/sprints/sprint-2/briefs/brief-2/exercises/controlled-file-uploads.md) |
+
+Related class references are recorded separately: [MERN file-upload presentation](workstreams/presentations/mern-file-upload/) and [secure resource-upload live coding](workstreams/live-coding/secure-resource-upload/). Their `Finished` board state is not claimed as Mehdi participation or delivery evidence.
+
 ## 🔁 YouCode activity visibility change — 2026-10-17
 
 - The refreshed Class Activities board now shows **To do (0)**, **Doing (0)**, and **Done (0)**.
@@ -47,9 +64,9 @@ Complete the [baseline and regression micro-task](workstreams/sprints/sprint-2/b
 - Current focus: Sprint 2 — Brief 3 intake and inherited Brief 2 baseline verification
 - Chapter status: In progress; the class presentation was delivered on 2026-10-12
 - Earlier chapters: Not completed; Chapter 1 remains not started
-- Last meaningful update: 2026-10-19 - Saved and analyzed Sprint 2 — Brief 3 with its baseline, visual, concept roadmap, and short exercises
-- Next learning target: distinguish source presence from a verified baseline, then identify one regression risk
-- Next repository target: complete Brief 3's baseline matrix before starting quiz, email, or job implementation; earlier Brief 2 understanding checks remain open
+- Last meaningful update: 2026-10-19 - Documented Brief 2's Multer upload flow, merged-versus-branch evidence, and related class activities
+- Next learning target: explain how multipart data becomes `req.file` and a module-linked MongoDB resource
+- Next repository target: complete the Brief 2 controlled-upload understanding check; Brief 3 baseline verification remains open
 
 ## 🤝 Sprint 2 — Brief 2 checkpoint
 
@@ -75,7 +92,7 @@ Complete the [baseline and regression micro-task](workstreams/sprints/sprint-2/b
 | Login schema | 🟡 Saved attempt appears complete; behavior checks pending |
 | Login controller, route, and token response | 🟡 Saved implementation exists; live verification pending |
 | Authentication middleware and role authorization | 🔁 JWT middleware review needed: isolated valid, expired, and invalid-token checks passed; route integration and role authorization remain |
-| Enrollment, upload, progress, and trainer endpoints | 🔁 Partial enrollment only; remaining mandatory flows not started |
+| Enrollment, upload, progress, and trainer endpoints | 🟡 Basic Multer upload merged; ownership/signature hardening branch-only; runtime tests pending; other flows remain incomplete |
 | Tests, API docs, and reproducible runtime | 🟡 Partial Swagger and Docker setup; automated tests absent |
 | Official title and source link | ✅ Verified on Simplonline on 2026-10-12 |
 | Requirements and evaluation criteria | ✅ Recorded from the supplied brief text |

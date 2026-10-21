@@ -42,11 +42,12 @@ Deliver a stable LMS backend for the next React sprint with module quizzes, back
 | Missing PDF continuation | 🔁 Needed before job rules are final |
 | Current LMS source inventory | 🟡 Read-only inspection complete; runtime baseline pending |
 | Concept and exercise roadmaps | ✅ Prepared; all learning checks remain not started |
+| Scheduled-jobs live coding | 🟡 `#82875` confirmed for 26 October at 14:30; preparation plan not started |
 | Brief 3 application features | ⬜ Not started or not verified in this intake |
 | Squad members and responsibility split | ⬜ Not confirmed by supplied text |
 
 ## 🎯 Current mission
 
-Complete the [baseline and regression micro-task](./exercises/#1-stable-baseline-and-non-regression) before choosing a new feature branch.
+Prepare the [scheduled-task live-coding architecture-and-proof plan](../../../../live-coding/mern-scheduled-tasks/exercises/) before 26 October, then return to the baseline and regression micro-task.
 
-**Ready check:** one table names a working behavior, a failing or unknown behavior, and the exact command or request that will verify each one.
+**Ready check:** the live-coding plan names one business function, one manual trigger, one scheduler location, three trace outcomes, and one Docker risk.

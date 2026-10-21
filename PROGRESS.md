@@ -1,5 +1,16 @@
 # Learning Progress
 
+## ⏰ Scheduled-tasks live coding — 2026-10-21
+
+> 🟡 **Preparing:** YouCode live coding `#82875` is confirmed for **Monday, 26 October 2026 at 14:30**. It is individual and lists Mehdi Karbitou. No duration or attached resource is provided.
+
+- Purpose: compare where periodic work belongs in a Dockerized MERN application and demonstrate one representative Brief 3 job.
+- Required evidence: a separate business function, reproducible trigger, explicit frequency/timezone/configuration, start/success/failure traces, and one Docker limitation.
+- Preparation workspace: [Scheduled Tasks in a Dockerized MERN Application](workstreams/live-coding/mern-scheduled-tasks/).
+- Reuses the verified [task-scheduling presentation lesson](workstreams/presentations/task-scheduling/) and connects it to Brief 3 concept 9.
+- No implementation, rehearsal, runtime behavior, logs, screenshots, or delivery result is verified.
+- **Next:** complete the [10–15 minute architecture-and-proof plan](workstreams/live-coding/mern-scheduled-tasks/exercises/).
+
 ## ⏰ Task scheduling presentation — 2026-10-19
 
 - 🟡 Prepared a [simple visual guide](workstreams/presentations/task-scheduling/) for the learner-reported presentation tomorrow, 20 October.

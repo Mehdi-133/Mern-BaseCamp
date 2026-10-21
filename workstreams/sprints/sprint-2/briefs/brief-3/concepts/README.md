@@ -14,7 +14,7 @@
 | 6 | Feedback authorization and ownership | Trainer owns course; admin global; learner reads own feedback | Allow or deny three feedback requests | ⬜ Not started |
 | 7 | Email service boundaries and templates | Five email events, two HTML templates, dynamic data, `log` mode | Separate event, template data, provider, and secret | ⬜ Not started |
 | 8 | Application settings versus environment secrets | Protected admin CRUD, trainer preferences, thresholds, provider mode | Sort six values into database or environment | ⬜ Not started |
-| 9 | Scheduled jobs, idempotency, and run history | Configurable jobs, manual trigger, traceable executions | Design one repeat-safe inactive reminder key | ⬜ Not started; PDF details missing |
+| 9 | [Scheduled jobs, idempotency, and run history](../../../../../live-coding/mern-scheduled-tasks/) | Configurable jobs, manual trigger, traceable executions; YouCode live coding `#82875` | [Prepare one architecture-and-proof plan](../../../../../live-coding/mern-scheduled-tasks/exercises/) | 🟡 Preparing; Brief PDF job rules still missing |
 | 10 | Statistics and scoped aggregation | React-ready stats and trainer-only course data | Define one statistic with input, filter, and JSON output | ⬜ Not started |
 | 11 | Behavioral tests and side-effect isolation | Targeted automated tests and executable API collection | Identify arrange, act, assert, and fake dependency | ⬜ Not started |
 | 12 | OpenAPI, demo seed, Docker, and delivery evidence | Reproducible launch, docs, contract, PRs, reviews, contributions | Audit one fresh-clone path from README to response | ⬜ Not started |

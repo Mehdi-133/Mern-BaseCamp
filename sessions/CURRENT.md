@@ -1,6 +1,19 @@
 # Current Session Handoff
 
-## ⏰ Current priority: task scheduling presentation — 2026-10-19
+## ⏰ Current priority: scheduled-tasks live coding — 2026-10-21
+
+- Checked the authenticated YouCode Class Activities board read-only.
+- Found Live Coding `#82875`, **Tâches planifiées dans une application MERN avec Docker : explorer les architectures possibles**, under **To do**.
+- Confirmed Monday, 26 October 2026 at 14:30, individual work, Mehdi Karbitou, no stated duration, and no attached resource.
+- Recorded the full purpose, six points to cover, demonstration boundary, expected restitution, and preparation role in the [live-coding workspace](../workstreams/live-coding/mern-scheduled-tasks/).
+- Linked the activity to the existing task-scheduling lesson and Brief 3 scheduled-jobs concept instead of duplicating the lesson.
+- Kept status honest: assignment evidence is confirmed; learner plan, implementation, rehearsal, logs, screenshots, and delivery remain unverified.
+- The YouCode page was not modified. Unrelated Chapter 4 and package-file deletions remain untouched.
+- **One exact next step:** complete the [architecture-and-proof plan](../workstreams/live-coding/mern-scheduled-tasks/exercises/) in 10–15 minutes.
+
+---
+
+## ⏰ Previous priority: task scheduling presentation — 2026-10-19
 
 - Follow-up: saved original slides 1–4 as PNG screenshots under `workstreams/presentations/task-scheduling/slides/images/` with a slide-by-slide explanation in `slides/README.md`. Browser export did not return an accessible `.pptx`; the source deck remains unchanged. Images visually inspected; 31 local links, four PNGs, and whitespace checks passed. Understanding and rehearsal remain pending. Learner authorized clean and push for this follow-up; unrelated deletions remain excluded.
 - Learner needs the idea before tomorrow's presentation (20 October, Africa/Casablanca); deeper review can follow later.

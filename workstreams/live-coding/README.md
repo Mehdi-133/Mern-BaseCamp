@@ -15,5 +15,6 @@ session-name/
 
 ## Current live-coding plan
 
+- [Scheduled Tasks in a Dockerized MERN Application](./mern-scheduled-tasks/) — 🟡 Preparing for 26 October 2026 at 14:30; assignment confirmed, plan and runtime evidence pending
 - [Secure Real Resource Upload](./secure-resource-upload/) — ✅ Class activity marked Finished; Brief 2 implementation exists, learner live-coding attempt not recorded
 - [Hotel Filters](./hotel-filters/) — ⬜ Not started

@@ -36,13 +36,13 @@ It is not a collection of copied solutions. It is a trail log of learning to **p
 
 **Latest mission:** [Sprint 2 — Brief 3 final LMS API delivery](./workstreams/sprints/sprint-2/briefs/brief-3/) runs from 19–30 October 2026. Its source, risks, project baseline, concept roadmap, short exercises, and delivery map are saved without claiming unverified implementation.
 
-**Current learning checkpoint:** 2026-10-19
+**Current learning checkpoint:** 2026-10-21
 
 | Trail | Current position | Honest status |
 | --- | --- | --- |
 | 📖 Book foundation | Chapter 4 — Data Structures: Objects and Arrays | 🟡 In progress |
 | 📋 School project | Sprint 2 — Brief 3 final LMS API, squad membership pending confirmation | 🟡 Intake ready; implementation not verified |
-| 🎯 Current mission | Explain and verify the Brief 2 Multer upload flow | 🟡 Lesson saved; exercise pending |
+| 🎯 Current mission | Prepare the Dockerized MERN scheduled-tasks live coding | 🟡 Assignment confirmed; plan pending |
 | 🔐 Backend camp | Node.js, Express, MongoDB, JWT, and Multer | 🟡 Basic upload merged; runtime proof pending |
 | 🎤 Presentation trail | JavaScript data structures | ✅ Delivered; follow-up artifact checks remain |
 | 🗓️ Daily execution | Five timed blocks and a recurring calendar coach | ✅ Calendar setup verified |
@@ -50,7 +50,7 @@ It is not a collection of copied solutions. It is a trail log of learning to **p
 
 ### 🚀 Next trail marker
 
-Complete the [Brief 2 controlled-upload check](./workstreams/sprints/sprint-2/briefs/brief-2/exercises/controlled-file-uploads.md): explain how multipart data becomes `req.file`, how the stored file connects to MongoDB metadata, and which protections are merged versus branch-only. Brief 3 baseline verification remains open afterward.
+Complete the [scheduled-task architecture-and-proof plan](./workstreams/live-coding/mern-scheduled-tasks/exercises/): name one business function, one manual trigger, one scheduler location, the expected traces, and one Docker risk. Earlier Brief 2 and Brief 3 checks remain open afterward.
 
 For the complete evidence, open [PROGRESS.md](./PROGRESS.md). To resume the latest work, open [sessions/CURRENT.md](./sessions/CURRENT.md).
 

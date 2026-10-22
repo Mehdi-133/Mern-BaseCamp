@@ -16,7 +16,7 @@ Each exercise should take about 5 to 15 minutes and check one concept. Full feat
 | Controlled upload | [Explain the multipart-to-resource flow](./controlled-file-uploads.md) | Explain `req.file`, storage, metadata, cleanup, and merged-versus-branch evidence | ⬜ Not started |
 | Sequential progress | Decide whether three module actions are allowed or locked | Explain the sequence rule | ⬜ Not started |
 | Trainer reporting | Allow or deny three trainer data requests | Explain the ownership boundary | ⬜ Not started |
-| Behavioral tests | Read one Supertest example and identify arrange, act, and assert | Explain what behavior the test protects | ⬜ Not started |
+| Behavioral tests | [Read one Jest/Supertest example](./jest-and-supertest.md) | Explain the tools, predict a mismatch, and identify act/assert | 🟡 In progress: answers pending |
 | Documentation and runtime | Find one missing or unclear restart instruction | Explain how it affects another developer | ⬜ Not started |
 
 Detailed exercise files are created only when their concept starts. Each one stays small; broader implementation and testing are tracked separately.

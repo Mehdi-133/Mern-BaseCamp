@@ -4,6 +4,8 @@ This folder records the confirmed requirements, decisions, questions, and team r
 
 ## 🧭 Tracking
 
+- [Jest and Supertest](./jest-and-supertest.md) — illustrated guide and quick review ready; 🟡 learner understanding pending.
+
 - [14 October brief checkpoint](./2026-10-14-brief-checkpoint.md) — mentor scores, today's pair-work evidence, source review, access/upload workflows, and one next mission.
 - [Full brief analysis](../brief-analysis/) — plain-language requirements, current-code baseline, gaps, risks, dependencies, and diagrams.
 - [Express and Zod validation](./zod-validation-middleware.md) — validate and clean request data before a controller uses it.

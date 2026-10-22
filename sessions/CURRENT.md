@@ -1,5 +1,20 @@
 # Current Session Handoff
 
+## 🧪 Selected lesson: Jest and Supertest — 2026-10-22
+
+- Learner requested a polished repository resource for Brief 2 Concept 11: Jest and Supertest.
+- Saved one short note and one three-question exercise; updated the brief README, notes/concept/exercise indexes, progress, and Chapter 4 continuity reference.
+- Inspected LMS `tests/auth.test.js` and `package.json` read-only. The example requests `/api/trainer/courses` without a token and asserts `401`; no application code changed and no API suite ran.
+- Consulted local PDF Chapter 8, Testing, printed p. 135 (PDF page 147), plus official Jest and Supertest documentation.
+- Added the illustrated concept README, two colorful deterministic SVG/PNG diagrams and their asset index; linked the quick note, roadmap, and brief README. The example explains Jest, Supertest, Express, async waiting, arrange/act/assert, and evidence limits.
+- Understanding remains 🟡 In progress. The resource is available without requiring answers first; the exercise is for later practice.
+- Learner authorized clean and push. Keep this documentation checkpoint separate from the earlier board refresh, scheduled-tasks edits, and learner deletions.
+- Verification: 64 local documentation links resolved; JavaScript snippets passed syntax checks; two SVGs parsed and two PNGs decoded and visually inspected. API tests were not run because this change adds study documentation only.
+- Notion sync pending: preparation is saved, but no learner answer or verified learning completion exists yet. Preserve existing rows and the documented block-limit fallback when syncing.
+- **One exact next step:** review the [illustrated Jest/Supertest guide](../workstreams/sprints/sprint-2/briefs/brief-2/concepts/jest-and-supertest/) whenever ready; no coding task was assigned by this resource request.
+
+---
+
 ## ⏰ Current priority: scheduled-tasks live coding — 2026-10-21
 
 - Checked the authenticated YouCode Class Activities board read-only.

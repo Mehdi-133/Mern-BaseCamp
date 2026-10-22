@@ -1,5 +1,12 @@
 # Learning Progress
 
+## 🧪 Jest and Supertest — 2026-10-22
+
+- ✅ Repository resource prepared at the learner's request: [illustrated guide](workstreams/sprints/sprint-2/briefs/brief-2/concepts/jest-and-supertest/), two visually inspected diagrams in SVG/PNG, a real test walkthrough, and linked review/exercise material. Resource preparation does not certify understanding.
+- 🟡 Brief 2 Concept 11: [quick review](workstreams/sprints/sprint-2/briefs/brief-2/notes/jest-and-supertest.md) and optional [three-question check](workstreams/sprints/sprint-2/briefs/brief-2/exercises/jest-and-supertest.md); learner understanding remains pending.
+- Read the actual LMS no-token test and local book Chapter 8, printed p. 135. Source inspection is verified; learner understanding and API runtime behavior are not.
+- Chapter 4 status is unchanged. Next: browse the illustrated guide; the exercise is available for later practice.
+
 ## ⏰ Scheduled-tasks live coding — 2026-10-21
 
 > 🟡 **Preparing:** YouCode live coding `#82875` is confirmed for **Monday, 26 October 2026 at 14:30**. It is individual and lists Mehdi Karbitou. No duration or attached resource is provided.

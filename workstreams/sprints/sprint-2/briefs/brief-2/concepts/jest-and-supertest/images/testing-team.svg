@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="610" viewBox="0 0 1200 610"><rect width="1200" height="610" fill="#0b1224"/>
+<text x="48" y="44" font-family="Arial, sans-serif" font-size="18" fill="#94a3b8">BASECAMP / API TESTING</text>
+<text x="48" y="108" font-family="Arial, sans-serif" font-size="42" fill="#eaf0ff">One test. Three teammates.</text>
+<text x="48" y="148" font-family="Arial, sans-serif" font-size="22" fill="#b9c7e0">Think of a rehearsal: a director, a messenger, and the real application.</text>
+<rect x="48" y="205" width="345" height="288" rx="18" fill="#17243d"/>
+<rect x="48" y="205" width="345" height="8" rx="18" fill="#c4a0ff"/>
+<text x="70" y="265" font-family="Arial, sans-serif" font-size="30" fill="#c4a0ff">01 / JEST</text>
+<text x="70" y="311" font-family="Arial, sans-serif" font-size="23" fill="#eaf0ff">The director</text>
+<text x="70" y="360" font-family="Arial, sans-serif" font-size="20" fill="#b9c7e0">Runs the named test</text>
+<text x="70" y="396" font-family="Arial, sans-serif" font-size="20" fill="#b9c7e0">Waits for async work</text>
+<text x="70" y="432" font-family="Arial, sans-serif" font-size="20" fill="#b9c7e0">Checks the result</text>
+<path d="M398 345h20m-8 -6 8 6-8 6" fill="none" stroke="#eaf0ff" stroke-width="3"/>
+<rect x="428" y="205" width="345" height="288" rx="18" fill="#17243d"/>
+<rect x="428" y="205" width="345" height="8" rx="18" fill="#57d9ee"/>
+<text x="450" y="265" font-family="Arial, sans-serif" font-size="30" fill="#57d9ee">02 / SUPERTEST</text>
+<text x="450" y="311" font-family="Arial, sans-serif" font-size="23" fill="#eaf0ff">The messenger</text>
+<text x="450" y="360" font-family="Arial, sans-serif" font-size="20" fill="#b9c7e0">Sends an HTTP request</text>
+<text x="450" y="396" font-family="Arial, sans-serif" font-size="20" fill="#b9c7e0">Receives the response</text>
+<text x="450" y="432" font-family="Arial, sans-serif" font-size="20" fill="#b9c7e0">Returns it to the test</text>
+<path d="M778 345h20m-8 -6 8 6-8 6" fill="none" stroke="#eaf0ff" stroke-width="3"/>
+<rect x="808" y="205" width="345" height="288" rx="18" fill="#17243d"/>
+<rect x="808" y="205" width="345" height="8" rx="18" fill="#5ce3b2"/>
+<text x="830" y="265" font-family="Arial, sans-serif" font-size="30" fill="#5ce3b2">03 / EXPRESS</text>
+<text x="830" y="311" font-family="Arial, sans-serif" font-size="23" fill="#eaf0ff">The application</text>
+<text x="830" y="360" font-family="Arial, sans-serif" font-size="20" fill="#b9c7e0">Runs routes + middleware</text>
+<text x="830" y="396" font-family="Arial, sans-serif" font-size="20" fill="#b9c7e0">May use MongoDB</text>
+<text x="830" y="432" font-family="Arial, sans-serif" font-size="20" fill="#b9c7e0">Sends an HTTP response</text>
+<text x="48" y="558" font-family="Arial, sans-serif" font-size="21" fill="#94a3b8">Response returns to the test / Jest reports pass or fail / Node.js runs this backend suite</text>
+</svg>

@@ -67,6 +67,8 @@ The concept path focuses on the JavaScript backend: Node.js, Express, Mongoose, 
 
 ## 🎯 Next step
 
+**New learning resource — 2026-10-22:** [Jest and Supertest illustrated guide](./concepts/jest-and-supertest/) with two colorful diagrams, a real LMS test walkthrough, and a [quick review note](./notes/jest-and-supertest.md). The [three reading questions](./exercises/jest-and-supertest.md) are available for later practice. 🟡 Understanding pending; no API test run in this lesson. Earlier checkpoints remain open.
+
 Complete the [controlled-upload understanding check](./exercises/controlled-file-uploads.md): explain how multipart data becomes `req.file`, how the file is linked to a module through MongoDB metadata, and which hardening is merged versus branch-only. Earlier roles, JWT, and non-regression exercises remain open.
 
 ## 📊 Latest evidence — 14 October

@@ -16,7 +16,7 @@
 | 8 | [Controlled file uploads with Multer](./controlled-file-uploads/) | Real PDF/image uploads must be constrained, linked to a module, and served only to authorized users | [Explain the multipart-to-resource flow](../exercises/controlled-file-uploads.md) | [Quick review](../notes/controlled-file-uploads.md) | 🟡 In progress: basic upload merged; branch hardening and runtime check pending |
 | 9 | Sequential progress as a state machine | The backend must lock later modules, prevent invalid duplicates, and calculate progress | Decide whether three actions are locked | Created when study starts | ⬜ Not started |
 | 10 | Trainer reporting and scoped queries | Trainers need learner progress without seeing another trainer's course data | Allow or deny three data requests | Created when study starts | ⬜ Not started |
-| 11 | Behavioral API testing | Critical security and progress rules must be repeatable in Supertest and Postman or Insomnia | Identify arrange, act, and assert in one test | Created when study starts | ⬜ Not started |
+| 11 | [Behavioral API testing: Jest and Supertest](./jest-and-supertest/) | Critical security and progress rules must be repeatable in Supertest and Postman or Insomnia | [Read one Jest/Supertest test](../exercises/jest-and-supertest.md) | [Quick review](../notes/jest-and-supertest.md) | 🟡 Illustrated guide ready; understanding check pending |
 | 12 | API documentation and reproducible runtime | Reviewers must be able to understand and restart the API safely | Find one unclear restart instruction | Created when study resumes | 🟡 In progress: partial Swagger, environment, and Docker setup exist |
 
 ## 🛠️ Delivery track

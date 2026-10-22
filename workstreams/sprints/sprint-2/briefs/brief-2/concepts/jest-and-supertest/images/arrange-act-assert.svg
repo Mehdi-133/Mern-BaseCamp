@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="610" viewBox="0 0 1200 610"><rect width="1200" height="610" fill="#0b1224"/>
+<text x="48" y="44" font-family="Arial, sans-serif" font-size="18" fill="#94a3b8">BASECAMP / API TESTING</text>
+<text x="48" y="108" font-family="Arial, sans-serif" font-size="42" fill="#eaf0ff">From a rule to a repeatable check</text>
+<text x="48" y="148" font-family="Arial, sans-serif" font-size="22" fill="#b9c7e0">Example rule: a request without a token must be rejected with HTTP 401.</text>
+<rect x="48" y="205" width="345" height="288" rx="18" fill="#17243d"/>
+<rect x="48" y="205" width="345" height="8" rx="18" fill="#c4a0ff"/>
+<text x="70" y="265" font-family="Arial, sans-serif" font-size="30" fill="#c4a0ff">01 / ARRANGE</text>
+<text x="70" y="311" font-family="Arial, sans-serif" font-size="23" fill="#eaf0ff">Prepare the situation</text>
+<text x="70" y="360" font-family="Arial, sans-serif" font-size="20" fill="#b9c7e0">Import app + request</text>
+<text x="70" y="396" font-family="Arial, sans-serif" font-size="20" fill="#b9c7e0">Use required test setup</text>
+<text x="70" y="432" font-family="Arial, sans-serif" font-size="20" fill="#b9c7e0">Send no auth header</text>
+<path d="M398 345h20m-8 -6 8 6-8 6" fill="none" stroke="#eaf0ff" stroke-width="3"/>
+<rect x="428" y="205" width="345" height="288" rx="18" fill="#17243d"/>
+<rect x="428" y="205" width="345" height="8" rx="18" fill="#57d9ee"/>
+<text x="450" y="265" font-family="Arial, sans-serif" font-size="30" fill="#57d9ee">02 / ACT</text>
+<text x="450" y="311" font-family="Arial, sans-serif" font-size="23" fill="#eaf0ff">Make the request</text>
+<text x="450" y="360" font-family="Arial, sans-serif" font-size="20" fill="#b9c7e0">request(app)</text>
+<text x="450" y="396" font-family="Arial, sans-serif" font-size="20" fill="#b9c7e0">GET /api/trainer/courses</text>
+<text x="450" y="432" font-family="Arial, sans-serif" font-size="20" fill="#b9c7e0">await the response</text>
+<path d="M778 345h20m-8 -6 8 6-8 6" fill="none" stroke="#eaf0ff" stroke-width="3"/>
+<rect x="808" y="205" width="345" height="288" rx="18" fill="#17243d"/>
+<rect x="808" y="205" width="345" height="8" rx="18" fill="#ffcb66"/>
+<text x="830" y="265" font-family="Arial, sans-serif" font-size="30" fill="#ffcb66">03 / ASSERT</text>
+<text x="830" y="311" font-family="Arial, sans-serif" font-size="23" fill="#eaf0ff">Compare with the rule</text>
+<text x="830" y="360" font-family="Arial, sans-serif" font-size="20" fill="#b9c7e0">Expected status: 401</text>
+<text x="830" y="396" font-family="Arial, sans-serif" font-size="20" fill="#b9c7e0">Actual 401: check passes</text>
+<text x="830" y="432" font-family="Arial, sans-serif" font-size="20" fill="#b9c7e0">Actual 200: check fails</text>
+<text x="48" y="558" font-family="Arial, sans-serif" font-size="21" fill="#94a3b8">A passing status check proves this case only / It does not prove every authentication rule</text>
+</svg>

@@ -2,6 +2,8 @@
 
 ## 🎯 Status
 
+> 🧪 **22 October continuity:** learner selected the [Brief 2 Jest/Supertest checkpoint](../../../workstreams/sprints/sprint-2/briefs/brief-2/notes/jest-and-supertest.md). Explanation prepared; answers pending. No Chapter 4 exercise or status changed.
+
 > 🧭 **14 October continuity:** [Brief 2 and student-life recap](../../../sessions/history/2026-10-14-brief-and-student-life.md) saved. No new Chapter 4 exercise or understanding check was completed; existing chapter statuses remain open.
 
 🟡 **In progress** — core concept study is ready; slide creation, final synthesis, quiz, and rehearsal remain.

@@ -1,6 +1,6 @@
 # ⏰ Task scheduling — the computer's alarm clock
 
-> 🟡 **In progress:** first-pass study guide for **20 October 2026**, based on the eight-slide *Planification des tâches* deck read on 19 October. Understanding and rehearsal are still unchecked.
+> 🔁 **Review needed:** YouCode marks Veille `#82878` as `Finished` after its scheduled time on **20 October 2026 at 09:30**. The guide is ready, but Mehdi's delivery contribution, understanding, rehearsal, and scheduler execution remain unchecked.
 
 ## 🎯 The whole idea in 30 seconds
 
@@ -18,7 +18,7 @@ The arrows show the launch flow. The final panel reminds you that starting a pro
 
 👉 [Open your four original slides with simple explanations](slides/README.md).
 
-The deck names **Mehdi Karbitou and Chahed Mazouz**. Its notes assign Member A slides 1–4 (about four minutes), then Member B slides 5–8. These are the deck's instructions; no rehearsal or delivery is recorded.
+The deck names **Mehdi Karbitou and Chahed Mazouz**. Its notes assign Member A slides 1–4 (about four minutes), then Member B slides 5–8. YouCode now marks the activity `Finished`; this platform state does not show who delivered each slide or verify a rehearsal.
 
 | Slide | Plain-English meaning | Memory cue |
 | --- | --- | --- |
@@ -98,9 +98,9 @@ Consulted the local PDF: Chapter 11, **Asynchronous Programming**, printed **pp.
 2. Missed-run recovery depends on scheduler settings, not just “one-off versus recurring.”
 3. A scheduler launching a task, a zero exit code, and a usable output are different pieces of evidence.
 
-## 🚀 One small check before tomorrow
+## 🚀 One small follow-up check
 
-Without looking above, explain the nightly backup in **30 seconds**: identify its trigger, scheduler, task, and one way to check success. Then use the [three-question check](exercises/README.md). We will review your explanation before calling the concept understood.
+Without looking above, explain the nightly backup in **30 seconds**: identify its trigger, scheduler, task, and one way to check success. Then use the [three-question check](exercises/README.md). The board's `Finished` state closes the class activity, but this check is still required before calling the concept understood.
 
 ## 🔎 Review navigation and sources
 

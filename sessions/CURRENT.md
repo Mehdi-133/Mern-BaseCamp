@@ -15,6 +15,18 @@
 
 ---
 
+## 🔁 YouCode board refresh — 2026-10-22
+
+- Checked the authenticated Class Activities board read-only; no website state was changed.
+- Confirmed Veille `#82878`, **Planification des tâches : comment un système déclenche un traitement automatiquement ?**, moved to **Finished**.
+- The activity was scheduled for 20 October 2026 at 09:30 and lists Chahd Mazouz and Mehdi Karbitou.
+- Recorded the platform result in the [task-scheduling presentation workspace](../workstreams/presentations/task-scheduling/) without treating it as proof of Mehdi's delivery contribution, rehearsal, scheduler execution, or understanding.
+- Live Coding `#82875` remains **To do** for Monday, 26 October 2026 at 14:30 and remains the current priority.
+- Preserved the unrelated Chapter 4 exercise and root package-file deletions.
+- **One exact next step:** complete the [architecture-and-proof plan](../workstreams/live-coding/mern-scheduled-tasks/exercises/) in 10–15 minutes.
+
+---
+
 ## ⏰ Current priority: scheduled-tasks live coding — 2026-10-21
 
 - Checked the authenticated YouCode Class Activities board read-only.

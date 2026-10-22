@@ -18,12 +18,13 @@
 - No implementation, rehearsal, runtime behavior, logs, screenshots, or delivery result is verified.
 - **Next:** complete the [10–15 minute architecture-and-proof plan](workstreams/live-coding/mern-scheduled-tasks/exercises/).
 
-## ⏰ Task scheduling presentation — 2026-10-19
+## 🔁 Task scheduling presentation — board update 2026-10-22
 
-- 🟡 Prepared a [simple visual guide](workstreams/presentations/task-scheduling/) for the learner-reported presentation tomorrow, 20 October.
-- Read all eight shared slides and speaker notes; saved the slide story, French/English vocabulary, cron decoder, overlap chart, quick note, and three-question check.
-- Preparation is saved; learner understanding, rehearsal, scheduler execution, and delivery are unverified. No chapter completion changed.
-- **Next:** explain the nightly-backup trigger, scheduler, task, and proof in 30 seconds.
+- YouCode now marks Veille `#82878`, **Planification des tâches : comment un système déclenche un traitement automatiquement ?**, as `Finished`.
+- The activity was scheduled for 20 October 2026 at 09:30 and lists Chahd Mazouz and Mehdi Karbitou.
+- The [visual guide](workstreams/presentations/task-scheduling/), slide story, vocabulary, cron decoder, overlap chart, quick note, and three-question check remain available.
+- 🔁 **Review needed:** the board state confirms that the class activity closed, but it does not verify Mehdi's rehearsal, delivery contribution, scheduler execution, or understanding.
+- **Follow-up after the current live-coding priority:** explain the nightly-backup trigger, scheduler, task, and proof in 30 seconds.
 
 ## 🚀 Sprint 2 — Brief 3 intake — 2026-10-19
 

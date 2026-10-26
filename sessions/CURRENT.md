@@ -4,6 +4,9 @@
 
 ### 🎯 Current mission
 
+- Visual refresh: redesigned `workflow.md` with a four-phase illustrated session route, architecture comparison, manual/scheduled proof flow, verification table and failure scenarios. Added two reviewed diagrams in SVG/PNG under the activity `images/` folder and its asset index. This is preparation, not new runtime evidence. Learner authorized clean and push for this refresh; publish only these visuals, workflow and tracking updates.
+- Refresh verification: 35 activity-local links resolved, Markdown fences balanced, two SVG sources parsed and both new PNGs decoded. Both diagrams visually checked for readable labels, correct arrows, contrast and clipping. Notion Learning Hub current-focus bullet updated; detailed tracker sync remains pending.
+
 Show colleagues the [live-coding workflow](../workstreams/live-coding/mern-scheduled-tasks/workflow.md): problem → architecture → Docker → business function → manual check → schedule → automatic proof → limitation → recap. Use the [detailed walkthrough](../workstreams/live-coding/mern-scheduled-tasks/WALKTHROUGH.md) as the speaker/command reference.
 
 ### ✅ Completed and verified

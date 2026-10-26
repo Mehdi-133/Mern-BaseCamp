@@ -2,7 +2,7 @@
 
 ## 🎯 Status
 
-> 🎤 **26 October presentation preparation:** [scheduled-task walkthrough](../../../workstreams/live-coding/mern-scheduled-tasks/WALKTHROUGH.md) prepared for explaining the idea before live coding. No Chapter 4 completion change.
+> 🎤 **26 October presentation preparation:** [visual scheduled-task workflow](../../../workstreams/live-coding/mern-scheduled-tasks/workflow.md) prepared with a session map, architecture comparison and proof flow before live coding. No Chapter 4 completion change.
 
 > ⏰ **26 October continuity:** scheduled-task [manual-trigger checkpoint](../../../workstreams/live-coding/mern-scheduled-tasks/notes/manual-trigger.md) discussed; diagnostic answer correct. No Chapter 4 progress changed.
 

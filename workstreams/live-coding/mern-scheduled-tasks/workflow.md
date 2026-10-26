@@ -1,4 +1,6 @@
-# 🎤 Our live-coding workflow
+# ⏰ From a manual task to an automatic job
+
+<p align="center"><strong>UNDERSTAND 🧠 → BUILD 💻 → AUTOMATE ⏰ → VERIFY 🔎</strong></p>
 
 > **Today's question:** How can our Dockerized LMS run a task automatically?
 >
@@ -6,18 +8,16 @@
 
 ## 🗺️ The route we will follow together
 
-```mermaid
-flowchart TD
-    A["1 · Introduce the problem"] --> B["2 · Draw the task and its trigger"]
-    B --> C["3 · Compare three architectures"]
-    C --> D["4 · Show our Docker environment"]
-    D --> E["5 · Code the business function"]
-    E --> F["6 · Run manually and check the count"]
-    F --> G["7 · Connect the scheduler"]
-    G --> H["8 · Observe automatic execution"]
-    H --> I["9 · Demonstrate a limitation"]
-    I --> J["10 · Recap what we proved"]
-```
+![Four-phase session route: understand the problem and architectures; show Docker and build the function; verify manually and automate; demonstrate a limitation and recap.](./images/live-session-route.png)
+
+**Read from top to bottom.** Each numbered stop prepares the next one. We verify the calculation before adding scheduling, then finish by explaining a limitation. This is the planned session route, not a completion chart.
+
+| Phase | Stops | The question we answer |
+| --- | --- | --- |
+| 🟦 **Understand** | 1–3 | What runs, what starts it, and where should scheduling live? |
+| 🟪 **Build** | 4–5 | Where does the code run, and what useful work will it do? |
+| 🟩 **Automate** | 6–8 | Does it work manually, and can we prove automatic execution? |
+| 🟧 **Explain limits** | 9–10 | What happens when the API stops, and what did we actually prove? |
 
 ## 🚶 What students will see at each stop
 
@@ -40,22 +40,46 @@ flowchart TD
 
 Follow one row at a time. The outlined groups show what shares a container. The arrows show who starts the work and which database it needs. We compare all three approaches but implement **one** for this session.
 
+| Architecture | Useful property | Main limitation |
+| --- | --- | --- |
+| 🟦 **Inside the API** | Small setup; reuses our existing scheduler | Stops with the API; multiple API instances can duplicate runs |
+| 🟪 **Separate worker** | Its lifecycle is independent of the API | Another process to manage; MongoDB is still required |
+| 🟧 **External scheduler** | Trigger lives outside the application | Must reach a running target or explicitly launch a new one |
+
+> 🎯 **Our demo choice: inside the API.** It fits the current LMS structure and keeps our first demonstration small. A job requiring an independent lifecycle may need a different choice.
+
 ## 🎙️ My opening
 
 > “Today we’ll make a small LMS task run automatically. First, we’ll understand the flow and compare where scheduling can happen. Then we’ll write the task, verify it manually, connect a scheduler, and check the result. Finally, we’ll see what happens when the API stops.”
 
 ## 🔄 The flow students should remember
 
-```mermaid
-flowchart LR
-    M["Manual command"] --> F["Same statsRefresh function"]
-    S["Scheduled time"] --> F
-    F --> D["Read published courses from MongoDB"]
-    D --> R["Count and return the result"]
-    R --> V["Check against known data"]
-```
+![Planned test: two published courses and one draft; manual and scheduled triggers call the same statsRefresh function; expected published count is two; start, success and failure evidence have different meanings.](./images/job-proof-flow.png)
+
+**Read in three steps:** control the input, call the same function, check the evidence. The three course records are a **planned fixture**, not records already inserted or a measured result.
 
 The manual runner will display the returned count. Scheduled execution will use the existing execution-history service to record its result. The calculation belongs in the function, not in two different triggers.
+
+## 🔎 What proves the demonstration worked?
+
+| Check | Pass condition | Insufficient evidence |
+| --- | --- | --- |
+| 🖐️ **Manual calculation** | Returns `publishedCourses: 2` for the fixture | A start message or a wrong count |
+| ⏰ **Automatic execution** | A run occurs at the configured time without a manual trigger | A saved frequency with no observed run |
+| 📋 **Scheduled result** | Recorded successful outcome and count equal to **2** | START alone, failure, wrong count or no final state |
+| 🛑 **API-stop limitation** | No new internal scheduler run starts while its process is stopped | Assuming it keeps running or recovers every missed run |
+
+> ⚠️ **A start message proves a beginning. Check the actual result before claiming success.** Console logs and database history are different evidence; history recording can also fail when MongoDB is unavailable.
+
+## 🚧 What can go wrong?
+
+| Situation | Effect | Point to explain |
+| --- | --- | --- |
+| API stops | Its internal scheduler stops | Shared process means shared lifecycle |
+| MongoDB stops | This database-dependent job cannot finish successfully | An independent scheduler still has dependencies |
+| Two API schedulers run | Both may perform the same job | Coordinate execution and avoid unwanted duplicate effects |
+| Job takes longer than its interval | Runs may overlap | Decide how concurrent runs should be handled |
+| API restarts | Startup registers schedules again | Do not assume recovery of missed runs |
 
 ## ✅ Preparation status
 
@@ -65,4 +89,6 @@ The manual runner will display the returned count. Scheduled execution will use 
 
 **Next preparation step:** implement and verify the business function at stop 5.
 
-[Detailed speaker notes and practice commands](./WALKTHROUGH.md) · [Assignment](./README.md)
+> 🎤 **Remember:** “Build the work, verify it manually, automate its trigger, then check the real result.”
+
+[🎙️ Detailed speaker notes and practice commands](./WALKTHROUGH.md) · [📋 Assignment](./README.md) · [🖼️ Visual sources and checks](./images/README.md)

@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1130" viewBox="0 0 1440 1130" role="img"><title>Our route: understand → build → prove</title><desc>A live session map. Each stop prepares the next one; this is a plan, not completion evidence.</desc><rect width="1440" height="1130" fill="#0B1224"/>
+<text x="56" y="51" fill="#4AD9EE" font-family="Segoe UI, sans-serif" font-size="21" font-weight="700">BASECAMP  /  LIVE CODING</text>
+<text x="56" y="121" fill="#F1F5FF" font-family="Segoe UI, sans-serif" font-size="44" font-weight="700">Our route: understand → build → prove</text>
+<text x="56" y="167" fill="#BBCBE3" font-family="Segoe UI, sans-serif" font-size="24" font-weight="400">A live session map. Each stop prepares the next one; this is a plan, not completion evidence.</text>
+<rect x="56" y="215" width="1328" height="186" rx="16" fill="#16243C"/>
+<text x="80" y="275" fill="#4AD9EE" font-family="Segoe UI, sans-serif" font-size="40" font-weight="700">01</text>
+<text x="80" y="318" fill="#4AD9EE" font-family="Segoe UI, sans-serif" font-size="23" font-weight="700">UNDERSTAND</text>
+<text x="360" y="264" fill="#F1F5FF" font-family="Segoe UI, sans-serif" font-size="25" font-weight="700">01  The problem</text>
+<text x="360" y="313" fill="#BBCBE3" font-family="Segoe UI, sans-serif" font-size="22" font-weight="400">Why automate course</text>
+<text x="360" y="343" fill="#BBCBE3" font-family="Segoe UI, sans-serif" font-size="22" font-weight="400">statistics?</text>
+<text x="697" y="264" fill="#F1F5FF" font-family="Segoe UI, sans-serif" font-size="25" font-weight="700">02  Task versus trigger</text>
+<text x="697" y="313" fill="#BBCBE3" font-family="Segoe UI, sans-serif" font-size="22" font-weight="400">WHAT runs versus WHEN it</text>
+<text x="697" y="343" fill="#BBCBE3" font-family="Segoe UI, sans-serif" font-size="22" font-weight="400">starts</text>
+<text x="1034" y="264" fill="#F1F5FF" font-family="Segoe UI, sans-serif" font-size="25" font-weight="700">03  Choose an architecture</text>
+<text x="1034" y="313" fill="#BBCBE3" font-family="Segoe UI, sans-serif" font-size="22" font-weight="400">API, worker or external</text>
+<text x="1034" y="343" fill="#BBCBE3" font-family="Segoe UI, sans-serif" font-size="22" font-weight="400">scheduler</text>
+<path d="M205 405 L205 422" stroke="#4AD9EE" stroke-width="4"/><polygon points="205,422 197,408 213,408" fill="#4AD9EE"/>
+<rect x="56" y="425" width="1328" height="186" rx="16" fill="#16243C"/>
+<text x="80" y="485" fill="#BD9AFF" font-family="Segoe UI, sans-serif" font-size="40" font-weight="700">02</text>
+<text x="80" y="528" fill="#BD9AFF" font-family="Segoe UI, sans-serif" font-size="23" font-weight="700">BUILD</text>
+<text x="360" y="474" fill="#F1F5FF" font-family="Segoe UI, sans-serif" font-size="25" font-weight="700">04  Show Docker</text>
+<text x="360" y="523" fill="#BBCBE3" font-family="Segoe UI, sans-serif" font-size="22" font-weight="400">API + MongoDB in our practice</text>
+<text x="360" y="553" fill="#BBCBE3" font-family="Segoe UI, sans-serif" font-size="22" font-weight="400">stack</text>
+<text x="697" y="474" fill="#F1F5FF" font-family="Segoe UI, sans-serif" font-size="25" font-weight="700">05  Write statsRefresh</text>
+<text x="697" y="523" fill="#BBCBE3" font-family="Segoe UI, sans-serif" font-size="22" font-weight="400">Count published courses</text>
+<path d="M205 615 L205 632" stroke="#BD9AFF" stroke-width="4"/><polygon points="205,632 197,618 213,618" fill="#BD9AFF"/>
+<rect x="56" y="635" width="1328" height="186" rx="16" fill="#16243C"/>
+<text x="80" y="695" fill="#6AE4AE" font-family="Segoe UI, sans-serif" font-size="40" font-weight="700">03</text>
+<text x="80" y="738" fill="#6AE4AE" font-family="Segoe UI, sans-serif" font-size="23" font-weight="700">AUTOMATE</text>
+<text x="360" y="684" fill="#F1F5FF" font-family="Segoe UI, sans-serif" font-size="25" font-weight="700">06  Verify manually</text>
+<text x="360" y="733" fill="#BBCBE3" font-family="Segoe UI, sans-serif" font-size="22" font-weight="400">Known fixture → expected</text>
+<text x="360" y="763" fill="#BBCBE3" font-family="Segoe UI, sans-serif" font-size="22" font-weight="400">count: 2</text>
+<text x="697" y="684" fill="#F1F5FF" font-family="Segoe UI, sans-serif" font-size="25" font-weight="700">07  Connect scheduling</text>
+<text x="697" y="733" fill="#BBCBE3" font-family="Segoe UI, sans-serif" font-size="22" font-weight="400">Every minute + explicit</text>
+<text x="697" y="763" fill="#BBCBE3" font-family="Segoe UI, sans-serif" font-size="22" font-weight="400">timezone</text>
+<text x="1034" y="684" fill="#F1F5FF" font-family="Segoe UI, sans-serif" font-size="25" font-weight="700">08  Observe a real run</text>
+<text x="1034" y="733" fill="#BBCBE3" font-family="Segoe UI, sans-serif" font-size="22" font-weight="400">Timestamp + outcome + correct</text>
+<text x="1034" y="763" fill="#BBCBE3" font-family="Segoe UI, sans-serif" font-size="22" font-weight="400">count</text>
+<path d="M205 825 L205 842" stroke="#6AE4AE" stroke-width="4"/><polygon points="205,842 197,828 213,828" fill="#6AE4AE"/>
+<rect x="56" y="845" width="1328" height="186" rx="16" fill="#16243C"/>
+<text x="80" y="905" fill="#FFCE7B" font-family="Segoe UI, sans-serif" font-size="40" font-weight="700">04</text>
+<text x="80" y="948" fill="#FFCE7B" font-family="Segoe UI, sans-serif" font-size="23" font-weight="700">EXPLAIN LIMITS</text>
+<text x="360" y="894" fill="#F1F5FF" font-family="Segoe UI, sans-serif" font-size="25" font-weight="700">09  Stop the practice API</text>
+<text x="360" y="943" fill="#BBCBE3" font-family="Segoe UI, sans-serif" font-size="22" font-weight="400">Its internal scheduler stops</text>
+<text x="360" y="973" fill="#BBCBE3" font-family="Segoe UI, sans-serif" font-size="22" font-weight="400">too</text>
+<text x="697" y="894" fill="#F1F5FF" font-family="Segoe UI, sans-serif" font-size="25" font-weight="700">10  Recap the proof</text>
+<text x="697" y="943" fill="#BBCBE3" font-family="Segoe UI, sans-serif" font-size="22" font-weight="400">Results, dependencies and</text>
+<text x="697" y="973" fill="#BBCBE3" font-family="Segoe UI, sans-serif" font-size="22" font-weight="400">duplicate risks</text>
+<text x="56" y="1107" fill="#6AE4AE" font-family="Segoe UI, sans-serif" font-size="27" font-weight="700">Same business function. First prove the work; then automate its trigger.</text>
+</svg>

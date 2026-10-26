@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1060" viewBox="0 0 1440 1060" role="img"><title>What will prove that our job works?</title><desc>Planned test fixture: 2 published courses + 1 draft. These are illustrative records, not live data.</desc><rect width="1440" height="1060" fill="#0B1224"/>
+<text x="56" y="51" fill="#4AD9EE" font-family="Segoe UI, sans-serif" font-size="21" font-weight="700">BASECAMP  /  LIVE CODING</text>
+<text x="56" y="121" fill="#F1F5FF" font-family="Segoe UI, sans-serif" font-size="44" font-weight="700">What will prove that our job works?</text>
+<text x="56" y="167" fill="#BBCBE3" font-family="Segoe UI, sans-serif" font-size="24" font-weight="400">Planned test fixture: 2 published courses + 1 draft. These are illustrative records, not live data.</text>
+<text x="56" y="238" fill="#4AD9EE" font-family="Segoe UI, sans-serif" font-size="25" font-weight="700">1 / CONTROL THE INPUT</text>
+<rect x="56" y="266" width="428" height="92" rx="16" fill="#16243C" stroke="#6AE4AE" stroke-width="2"/>
+<text x="78" y="318" fill="#F1F5FF" font-family="Segoe UI, sans-serif" font-size="28" font-weight="700">Published course A</text>
+<rect x="506" y="266" width="428" height="92" rx="16" fill="#16243C" stroke="#6AE4AE" stroke-width="2"/>
+<text x="528" y="318" fill="#F1F5FF" font-family="Segoe UI, sans-serif" font-size="28" font-weight="700">Published course B</text>
+<rect x="956" y="266" width="428" height="92" rx="16" fill="#16243C" stroke="#FFCE7B" stroke-width="2"/>
+<text x="978" y="318" fill="#F1F5FF" font-family="Segoe UI, sans-serif" font-size="28" font-weight="700">Draft course C</text>
+<text x="56" y="418" fill="#BD9AFF" font-family="Segoe UI, sans-serif" font-size="25" font-weight="700">2 / CALL THE SAME FUNCTION</text>
+<rect x="56" y="446" width="410" height="112" rx="16" fill="#16243C" stroke="#4AD9EE" stroke-width="2"/>
+<text x="79" y="493" fill="#F1F5FF" font-family="Segoe UI, sans-serif" font-size="28" font-weight="700">Manual command</text>
+<text x="79" y="531" fill="#BBCBE3" font-family="Segoe UI, sans-serif" font-size="23" font-weight="400">We start it immediately</text>
+<rect x="56" y="590" width="410" height="112" rx="16" fill="#16243C" stroke="#BD9AFF" stroke-width="2"/>
+<text x="79" y="637" fill="#F1F5FF" font-family="Segoe UI, sans-serif" font-size="28" font-weight="700">Scheduled time</text>
+<text x="79" y="675" fill="#BBCBE3" font-family="Segoe UI, sans-serif" font-size="23" font-weight="400">Scheduler starts it</text>
+<path d="M480 502 L546 502" stroke="#4AD9EE" stroke-width="4"/><polygon points="546,502 532,494 532,510" fill="#4AD9EE"/>
+<path d="M480 646 L546 646" stroke="#BD9AFF" stroke-width="4"/><polygon points="546,646 532,638 532,654" fill="#BD9AFF"/>
+<rect x="557" y="446" width="400" height="256" rx="16" fill="#16243C" stroke="#6AE4AE" stroke-width="2"/>
+<text x="580" y="501" fill="#F1F5FF" font-family="Segoe UI, sans-serif" font-size="31" font-weight="700">statsRefresh()</text>
+<text x="580" y="556" fill="#BBCBE3" font-family="Segoe UI, sans-serif" font-size="27" font-weight="400">Read MongoDB</text>
+<text x="580" y="603" fill="#BBCBE3" font-family="Segoe UI, sans-serif" font-size="27" font-weight="400">Count status = published</text>
+<text x="580" y="654" fill="#BBCBE3" font-family="Segoe UI, sans-serif" font-size="27" font-weight="400">Return the count</text>
+<path d="M970 574 L1018 574" stroke="#6AE4AE" stroke-width="4"/><polygon points="1018,574 1004,566 1004,582" fill="#6AE4AE"/>
+<rect x="1030" y="446" width="354" height="256" rx="16" fill="#16243C" stroke="#6AE4AE" stroke-width="2"/>
+<text x="1052" y="493" fill="#6AE4AE" font-family="Segoe UI, sans-serif" font-size="25" font-weight="700">EXPECTED</text>
+<text x="1052" y="592" fill="#F1F5FF" font-family="Segoe UI, sans-serif" font-size="78" font-weight="700">2</text>
+<text x="1052" y="649" fill="#BBCBE3" font-family="Segoe UI, sans-serif" font-size="25" font-weight="400">published courses</text>
+<text x="56" y="771" fill="#FFCE7B" font-family="Segoe UI, sans-serif" font-size="25" font-weight="700">3 / CHECK THE EVIDENCE</text>
+<rect x="56" y="795" width="428" height="121" rx="16" fill="#16243C" stroke="#4AD9EE" stroke-width="2"/>
+<text x="78" y="838" fill="#4AD9EE" font-family="Segoe UI, sans-serif" font-size="26" font-weight="700">START</text>
+<text x="78" y="884" fill="#F1F5FF" font-family="Segoe UI, sans-serif" font-size="25" font-weight="400">Execution began only</text>
+<rect x="506" y="795" width="428" height="121" rx="16" fill="#16243C" stroke="#6AE4AE" stroke-width="2"/>
+<text x="528" y="838" fill="#6AE4AE" font-family="Segoe UI, sans-serif" font-size="26" font-weight="700">SUCCESS</text>
+<text x="528" y="884" fill="#F1F5FF" font-family="Segoe UI, sans-serif" font-size="25" font-weight="400">Count must equal 2</text>
+<rect x="956" y="795" width="428" height="121" rx="16" fill="#16243C" stroke="#FF9EBE" stroke-width="2"/>
+<text x="978" y="838" fill="#FF9EBE" font-family="Segoe UI, sans-serif" font-size="26" font-weight="700">FAILURE</text>
+<text x="978" y="884" fill="#F1F5FF" font-family="Segoe UI, sans-serif" font-size="25" font-weight="400">Record the actual error</text>
+<text x="56" y="982" fill="#BBCBE3" font-family="Segoe UI, sans-serif" font-size="25" font-weight="400">Manual: display the result. Scheduled: inspect run history and the recorded result.</text>
+<text x="56" y="1031" fill="#FFCE7B" font-family="Segoe UI, sans-serif" font-size="27" font-weight="700">A start log is not proof of success. A wrong count fails the check.</text>
+</svg>

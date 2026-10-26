@@ -1,5 +1,7 @@
 # 📝 Scheduled-Task Live-Coding Notes
 
+- [Manual trigger and scheduler](./manual-trigger.md) — basic diagnostic check passed; implementation pending.
+
 ## ✅ Confirmed from YouCode on 21 October 2026
 
 - Activity `#82875` is under **To do**.

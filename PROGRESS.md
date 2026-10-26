@@ -1,5 +1,13 @@
 # Learning Progress
 
+## 🎤 Scheduled-task live-coding preparation — 2026-10-26
+
+- ✅ Prepared the [student-facing workflow](workstreams/live-coding/mern-scheduled-tasks/workflow.md), [detailed walkthrough](workstreams/live-coding/mern-scheduled-tasks/WALKTHROUGH.md), speaking notes and two reviewed architecture visuals.
+- ✅ Verbal checks: manual versus scheduled triggers, duplicate work, API/process lifecycle, MongoDB dependency and verifying real results.
+- ✅ Practice Docker setup checked: isolated API on port 3002, MongoDB on 27019; HTTP 200, database ping and isolated database connection verified.
+- 🟡 Statistics implementation, manual runner, controlled fixture, scheduled result, shutdown demonstration and rehearsal remain pending. Resource preparation does not certify mastery or delivery. Chapter 4 completion is unchanged.
+- **Next:** rehearse the workflow, then resume the learner-owned published-course count in `statsRefresh`.
+
 ## 🧪 Jest and Supertest — 2026-10-22
 
 - ✅ Repository resource prepared at the learner's request: [illustrated guide](workstreams/sprints/sprint-2/briefs/brief-2/concepts/jest-and-supertest/), two visually inspected diagrams in SVG/PNG, a real test walkthrough, and linked review/exercise material. Resource preparation does not certify understanding.

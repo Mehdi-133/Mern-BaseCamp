@@ -2,6 +2,10 @@
 
 ## 🎯 Status
 
+> 🎤 **26 October presentation preparation:** [scheduled-task walkthrough](../../../workstreams/live-coding/mern-scheduled-tasks/WALKTHROUGH.md) prepared for explaining the idea before live coding. No Chapter 4 completion change.
+
+> ⏰ **26 October continuity:** scheduled-task [manual-trigger checkpoint](../../../workstreams/live-coding/mern-scheduled-tasks/notes/manual-trigger.md) discussed; diagnostic answer correct. No Chapter 4 progress changed.
+
 > 🧪 **22 October continuity:** learner selected the [Brief 2 Jest/Supertest checkpoint](../../../workstreams/sprints/sprint-2/briefs/brief-2/notes/jest-and-supertest.md). Explanation prepared; answers pending. No Chapter 4 exercise or status changed.
 
 > 🧭 **14 October continuity:** [Brief 2 and student-life recap](../../../sessions/history/2026-10-14-brief-and-student-life.md) saved. No new Chapter 4 exercise or understanding check was completed; existing chapter statuses remain open.

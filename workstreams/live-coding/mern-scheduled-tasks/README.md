@@ -18,6 +18,10 @@
 
 ## 🎯 Purpose
 
+### 🎤 Start here: show the idea to colleagues
+
+Open the [live-coding workflow](./workflow.md): the route students will follow, what you show at each stop, and what they should understand. Use the [detailed walkthrough](./WALKTHROUGH.md) as your preparation reference for speaking notes, commands and checks.
+
 After learning scheduling at the operating-system level, this session moves the idea into a containerized MERN application. The goal is to compare possible scheduler locations and make **one representative Brief 3 job** work in a controlled demonstration.
 
 ## 🧭 Points to cover
@@ -52,6 +56,11 @@ This live coding prepares [Brief 3 concept 9: scheduled jobs, idempotency, and r
 
 ## 🚀 Current mission
 
-Complete the [15-minute architecture-and-proof plan](./exercises/).
+Present the [student-facing workflow](./workflow.md) first, using the [walkthrough](./WALKTHROUGH.md) as preparation support. Learner identified duplicate runs, MongoDB dependency and stopped-container limitations; implementation and rehearsal remain open.
+
+Rehearse the session route, then resume the small `statsRefresh` implementation in the practice clone. The [architecture-and-proof exercise](./exercises/) remains available for an independent understanding check.
+
+- ✅ 26 October: learner identified the scheduler as the first investigation point when manual execution works but automatic execution does not happen. [Checkpoint note](./notes/manual-trigger.md).
+- 🟡 Overall preparation remains in progress; no demo or rehearsal has run.
 
 **Ready check:** the plan names one business function, one manual trigger, one scheduler location, three useful log outcomes, and one Docker risk to verify.

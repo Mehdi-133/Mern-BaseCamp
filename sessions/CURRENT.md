@@ -1,5 +1,38 @@
 # Current Session Handoff
 
+## ⏰ Live-coding preparation — 2026-10-26
+
+### 🎯 Current mission
+
+Show colleagues the [live-coding workflow](../workstreams/live-coding/mern-scheduled-tasks/workflow.md): problem → architecture → Docker → business function → manual check → schedule → automatic proof → limitation → recap. Use the [detailed walkthrough](../workstreams/live-coding/mern-scheduled-tasks/WALKTHROUGH.md) as the speaker/command reference.
+
+### ✅ Completed and verified
+
+- Prepared the student-facing workflow, detailed speaking notes, architecture lesson, manual-trigger review note, two visually inspected PNG diagrams and their asset index. Linked the activity and Chapter 4 continuity; chapter completion did not change.
+- Learner correctly identified scheduler troubleshooting, duplicate runs across API instances, the API scheduler's lifecycle, separate-process independence, stopped-container execution limits, MongoDB dependencies and the need to verify actual results. Independent explanation and rehearsal remain pending.
+- Created practice clone `C:/Users/LENOVO/Desktop/lms-scheduled-tasks-practice` from local LMS commit `487a066`, on `codex/scheduled-tasks-practice`.
+- Built and started isolated Compose project `lms-scheduling-practice`, using clone-local `compose.practice.yml`, API host port 3002, Mongo host port 27019, its own volume/network and database `lms_scheduling_practice`. API timezone environment is `Africa/Casablanca`.
+- Verified MongoDB ping, API HTTP 200 from container and host, database name and startup-created configuration. The original LMS remains separate on ports 3001/27018.
+- Created a private ignored practice `.env` with a generated secret; no credentials were published. No LMS application logic changed.
+- Notion Learning Hub current-focus bullet updated with guide preparation and verified Docker setup; detailed tracker sync remains pending.
+
+### 🧪 Verification boundary
+
+- Documentation checks cover local links, balanced code fences, PNG decoding and whitespace. Both images were visually inspected for readable labels, accurate arrows and clipping. Official Docker/node-cron references are linked in the walkthrough.
+- Existing `services/jobHandlers.js` handlers remain placeholders; jobs default disabled. No manual statistics runner, course fixture, scheduled statistics result, shutdown experiment or full API test suite verified.
+- Docker build reported four dependency audit findings (one moderate, three high). Dependencies were not changed.
+- Saved assignment says 14:30; learner said 14:00. Prepare for the earlier time. No rehearsal or delivery completion claimed.
+
+### 🧹 Publication scope
+
+Learner authorized clean and push. Publish only this live-coding preparation and related tracking. Exclude unrelated Chapter 4 exercise/root package deletions, `.playwright-cli/`, temporary drawing helpers and the separate LMS clone. Inspect staged diff before committing.
+
+### 🚀 One next step
+
+Read `workflow.md` aloud to rehearse the route, then resume the learner-owned `statsRefresh` published-course count. Run practice Docker commands from the clone with `docker compose -p lms-scheduling-practice -f compose.practice.yml ...`; rebuild after code edits because no source bind mount exists.
+
+---
+
 ## 🧪 Selected lesson: Jest and Supertest — 2026-10-22
 
 - Learner requested a polished repository resource for Brief 2 Concept 11: Jest and Supertest.

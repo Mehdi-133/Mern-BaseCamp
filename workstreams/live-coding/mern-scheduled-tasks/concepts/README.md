@@ -1,5 +1,7 @@
 # 🧠 Scheduled-Task Concepts
 
+- [Scheduler locations: visual comparison](./scheduler-locations/) — verbal checks partly verified; demo and rehearsal pending.
+
 Reuse these authoritative learning sources:
 
 - [Task scheduling lesson](../../../presentations/task-scheduling/) — trigger, scheduler, execution context, overlap, timezone, and proof.

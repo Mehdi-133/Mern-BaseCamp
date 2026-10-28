@@ -1,6 +1,11 @@
 # 📝 Scheduled-Task Live-Coding Notes
 
 - [Manual trigger and scheduler](./manual-trigger.md) — basic diagnostic check passed; implementation pending.
+- [YouTube watch order](./video-watchlist.md) — targeted scheduling and Docker resources; viewing pending.
+
+## 📅 Learner update — 26 October
+
+Learner reports postponement to Tuesday, 27 October 2026. New time unconfirmed; the older board record below remains historical.
 
 ## ✅ Confirmed from YouCode on 21 October 2026
 

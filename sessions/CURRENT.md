@@ -1,8 +1,34 @@
 # Current Session Handoff
 
+## 🧹 Learning capture and publication — 2026-10-28
+
+- Learner requested ongoing capture of accessible AI discussions and project work, including concept notes and focused pushes. Saved the agreement in `AGENTS.md`; unseen chats require an accessible source or learner-supplied export.
+- Clean-push scope: AI DEV SQUAD documentation, portraits and project agent definitions; scheduled-task postponement/watchlist notes; related chapter continuity and this handoff.
+- Current source boundary: the 28 October LMS review below supersedes older claims that the live team job handlers are placeholders. Practice-clone implementation and learner checks remain separate and unfinished.
+- Preserve Chapter 4 exercise/root package deletions and `.playwright-cli/`. No application code or learner mastery changed. Notion sync remains blocked by the previously recorded free-block limit; do not retry automatically.
+- Publication outcome is reported after the actual commit and remote verification. Next learning step: explain one existing job's business function, trigger and observable proof.
+- Publication checks: 19 Markdown files checked, 46 local links resolved, code fences balanced, four project agent definitions matched their documented copies, and four PNG headers/dimensions checked. Staged whitespace corrected. No API tests ran; no new runtime result claimed.
+
+---
+
+## 🤝 AI DEV SQUAD setup — 2026-10-28
+
+- Prepared [team kit](../docs/ai-dev-squad/README.md): four profiles, shared rules, capability/permission matrix, project registry, handoffs, automation proposals and live LMS demonstration report. Four project-scoped Codex definitions installed with filesystem approval; fresh-session discovery remains unverified. Four distinct generated portraits saved and visually inspected.
+- Four actual delegated roles completed read-only reports against LMS HEAD `4041457ca89b120be7edd534d883a00666f05bdc`. All three job handlers already exist in the live team checkout; older preparation/practice-clone notes are historical, not today's source baseline. No application implementation or learner mastery claimed.
+- Four LMS JavaScript syntax checks passed. Runtime, database, HTTP, email, scheduler timing, Docker and CI tests were not executed. Jira resource access succeeded but the connected site returned zero FAL issues; correct team-site access remains unresolved. No Jira updates, automations, commit or push.
+- Preserved all earlier learner deletions, scheduled-task/watchlist edits and `.playwright-cli/`. This new request does not authorize publishing earlier pending work. Chapter 4 status and unfinished exercises remain unchanged.
+- Notion Learning Hub fetched; targeted checkpoint sync rejected by workspace free block limit with no side effects. Do not retry automatically; local records remain authoritative.
+- **One next setup action:** resolve the team Jira-site access, then ask Ayoube to read one real story and map it to the source-grounded LMS report. Earlier learning checkpoints below remain open.
+- Kit checks: four TOML definitions parsed and matched installed copies; four 1254 × 1254 PNGs decoded and visually inspected; 29 local kit links and Markdown fences passed; `git diff --check` passed. LMS HEAD/status unchanged after review.
+
+---
+
 ## ⏰ Live-coding preparation — 2026-10-26
 
 ### 🎯 Current mission
+
+- Schedule update: learner reports live coding moved to tomorrow, Tuesday 27 October 2026; new time unconfirmed and board not rechecked. This supersedes the previous preparation deadline.
+- Saved `notes/video-watchlist.md` with three YouTube resources and targeted chapters for node-cron and Docker Compose; descriptions checked, full videos not watched. Watch the first two targeted sections, then resume `statsRefresh`. Viewing, code implementation and rehearsal remain pending. Date/watchlist Notion sync pending; no publication requested for this follow-up.
 
 - Visual refresh: redesigned `workflow.md` with a four-phase illustrated session route, architecture comparison, manual/scheduled proof flow, verification table and failure scenarios. Added two reviewed diagrams in SVG/PNG under the activity `images/` folder and its asset index. This is preparation, not new runtime evidence. Learner authorized clean and push for this refresh; publish only these visuals, workflow and tracking updates.
 - Refresh verification: 35 activity-local links resolved, Markdown fences balanced, two SVG sources parsed and both new PNGs decoded. Both diagrams visually checked for readable labels, correct arrows, contrast and clipping. Notion Learning Hub current-focus bullet updated; detailed tracker sync remains pending.

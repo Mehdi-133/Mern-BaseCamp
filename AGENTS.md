@@ -138,6 +138,14 @@ If a check cannot be run, state exactly what remains unverified and why.
 
 ## Session continuity
 
+### 📝 Learning capture agreement — 28 October 2026
+
+- Capture meaningful concepts, decisions, saved attempts, reviews and verified results from accessible AI chats and authorized project work in the owning chapter or workstream.
+- Other AI apps and chats are not automatically visible. Use accessible conversations or learner-supplied exports; never claim complete coverage of unseen discussions.
+- Keep discussed, attempted, source-inspected and runtime-verified work distinct. Connect concept notes to the book and practical MERN use under the existing learning rules.
+- The learner grants standing permission to check, commit and push these focused learning updates. Preserve unrelated edits and deletions; this permission does not authorize application deployment, merging or publishing secrets.
+- Keep progress and the current handoff accurate. Report access or publication blockers explicitly.
+
 At the start of a learning session, use `sessions/CURRENT.md` to resume from the last known state.
 
 ### Learning situation dashboard 📊

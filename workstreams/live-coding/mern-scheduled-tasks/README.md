@@ -1,6 +1,6 @@
 # ⏰ Scheduled Tasks in a Dockerized MERN Application
 
-> 🟡 **Preparing** — YouCode live coding `#82875` is scheduled for **Monday, 26 October 2026 at 14:30**. The activity is confirmed; Mehdi's preparation, rehearsal, and live execution are not yet verified.
+> 🟡 **Preparing** — learner reports the live coding moved to **Tuesday, 27 October 2026**. The new time is unconfirmed. The original board record was Monday, 26 October at 14:30; the board has not been rechecked for this change.
 
 ## 📅 Confirmed activity record
 
@@ -8,7 +8,8 @@
 | --- | --- |
 | Activity | Live Coding — *Tâches planifiées dans une application MERN avec Docker : explorer les architectures possibles* |
 | YouCode ID | `#82875` |
-| Date and time | Monday, 26 October 2026 at 14:30 |
+| Current date | Tuesday, 27 October 2026 — learner-reported postponement; time unconfirmed |
+| Original board date | Monday, 26 October 2026 at 14:30 |
 | Duration | Not specified |
 | Work rule | Individual |
 | Learner | Mehdi Karbitou |
@@ -21,6 +22,8 @@
 ### 🎤 Start here: show the idea to colleagues
 
 Open the [live-coding workflow](./workflow.md): the route students will follow, what you show at each stop, and what they should understand. Use the [detailed walkthrough](./WALKTHROUGH.md) as your preparation reference for speaking notes, commands and checks.
+
+For targeted preparation, use the [YouTube watch order](./notes/video-watchlist.md).
 
 After learning scheduling at the operating-system level, this session moves the idea into a containerized MERN application. The goal is to compare possible scheduler locations and make **one representative Brief 3 job** work in a controlled demonstration.
 

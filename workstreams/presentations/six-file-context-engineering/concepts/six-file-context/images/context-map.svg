@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1430" viewBox="0 0 1600 1430" role="img" aria-labelledby="title desc"><title id="title">AI with Context: the six-file map</title><desc id="desc">Six context documents inform a scoped specification through an agent entry point. Implementation is reviewed and tested before recording progress. Based on the supplied JavaScript Mastery guide; workflow illustration, not benchmark data.</desc><defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#8093b3"/></marker></defs><rect width="1600" height="1430" rx="28" fill="#0a1122"/>
+<text x="64" y="66" fill="#62dcfa" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="600">MERN BASECAMP  /  WORKSHOP FIELD GUIDE</text>
+<text x="64" y="144" fill="#f4f7ff" font-family="Segoe UI, Arial, sans-serif" font-size="64" font-weight="700">AI with Context</text>
+<text x="66" y="191" fill="#b9c7df" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="400">Think like an engineer. Brief the assistant. Verify the result.</text>
+<rect x="64" y="225" width="1472" height="72" rx="20" fill="#131f36"/>
+<text x="90" y="270" fill="#73e6b7" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="600">HUMAN RESPONSIBILITY</text>
+<text x="430" y="270" fill="#f4f7ff" font-family="Segoe UI, Arial, sans-serif" font-size="27" font-weight="400">Intent  +  decisions  +  review  +  acceptance</text>
+<rect x="64" y="330" width="472" height="282" rx="20" fill="#131f36"/>
+<rect x="64" y="352" width="5" height="45" rx="2" fill="#62dcfa"/>
+<text x="88" y="374" fill="#62dcfa" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="600">01  /  PRODUCT</text>
+<text x="88" y="414" fill="#f4f7ff" font-family="Consolas, monospace" font-size="24" font-weight="600">project-overview.md</text>
+<text x="88" y="458" fill="#f4f7ff" font-family="Segoe UI, Arial, sans-serif" font-size="23" font-weight="600">What are we building?</text>
+<text x="88" y="497" fill="#b9c7df" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="400">Users, goals and core flows</text>
+<text x="88" y="529" fill="#b9c7df" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="400">Scope and success criteria</text>
+<text x="88" y="581" fill="#62dcfa" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="400">Example: public course catalogue</text>
+<rect x="564" y="330" width="472" height="282" rx="20" fill="#131f36"/>
+<rect x="564" y="352" width="5" height="45" rx="2" fill="#b9a0ff"/>
+<text x="588" y="374" fill="#b9a0ff" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="600">02  /  ARCHITECTURE</text>
+<text x="588" y="414" fill="#f4f7ff" font-family="Consolas, monospace" font-size="24" font-weight="600">architecture.md</text>
+<text x="588" y="458" fill="#f4f7ff" font-family="Segoe UI, Arial, sans-serif" font-size="23" font-weight="600">How do the parts fit?</text>
+<text x="588" y="497" fill="#b9c7df" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="400">Layers, data and access rules</text>
+<text x="588" y="529" fill="#b9c7df" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="400">Boundaries and invariants</text>
+<text x="588" y="581" fill="#b9a0ff" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="400">Example: server checks ownership</text>
+<rect x="1064" y="330" width="472" height="282" rx="20" fill="#131f36"/>
+<rect x="1064" y="352" width="5" height="45" rx="2" fill="#ff92c7"/>
+<text x="1088" y="374" fill="#ff92c7" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="600">03  /  INTERFACE</text>
+<text x="1088" y="414" fill="#f4f7ff" font-family="Consolas, monospace" font-size="24" font-weight="600">ui-context.md</text>
+<text x="1088" y="458" fill="#f4f7ff" font-family="Segoe UI, Arial, sans-serif" font-size="23" font-weight="600">How should it look and behave?</text>
+<text x="1088" y="497" fill="#b9c7df" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="400">Tokens, layout and components</text>
+<text x="1088" y="529" fill="#b9c7df" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="400">Loading, empty and error states</text>
+<text x="1088" y="581" fill="#ff92c7" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="400">Example: reuse existing UI tokens</text>
+<rect x="64" y="640" width="472" height="282" rx="20" fill="#131f36"/>
+<rect x="64" y="662" width="5" height="45" rx="2" fill="#f5cc69"/>
+<text x="88" y="684" fill="#f5cc69" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="600">04  /  CODE</text>
+<text x="88" y="724" fill="#f4f7ff" font-family="Consolas, monospace" font-size="24" font-weight="600">code-standards.md</text>
+<text x="88" y="768" fill="#f4f7ff" font-family="Segoe UI, Arial, sans-serif" font-size="23" font-weight="600">How do we write it?</text>
+<text x="88" y="807" fill="#b9c7df" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="400">Naming and existing patterns</text>
+<text x="88" y="839" fill="#b9c7df" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="400">Validation and response conventions</text>
+<text x="88" y="891" fill="#f5cc69" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="400">Example: preserve the input list</text>
+<rect x="564" y="640" width="472" height="282" rx="20" fill="#131f36"/>
+<rect x="564" y="662" width="5" height="45" rx="2" fill="#73e6b7"/>
+<text x="588" y="684" fill="#73e6b7" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="600">05  /  WORKFLOW</text>
+<text x="588" y="724" fill="#f4f7ff" font-family="Consolas, monospace" font-size="24" font-weight="600">ai-workflow-rules.md</text>
+<text x="588" y="768" fill="#f4f7ff" font-family="Segoe UI, Arial, sans-serif" font-size="23" font-weight="600">How should AI work?</text>
+<text x="588" y="807" fill="#b9c7df" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="400">One scoped unit at a time</text>
+<text x="588" y="839" fill="#b9c7df" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="400">Inspect, implement and check</text>
+<text x="588" y="891" fill="#73e6b7" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="400">Example: preserve unrelated code</text>
+<rect x="1064" y="640" width="472" height="282" rx="20" fill="#131f36"/>
+<rect x="1064" y="662" width="5" height="45" rx="2" fill="#9dbaff"/>
+<text x="1088" y="684" fill="#9dbaff" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="600">06  /  HANDOFF</text>
+<text x="1088" y="724" fill="#f4f7ff" font-family="Consolas, monospace" font-size="24" font-weight="600">progress-tracker.md</text>
+<text x="1088" y="768" fill="#f4f7ff" font-family="Segoe UI, Arial, sans-serif" font-size="23" font-weight="600">Where are we now?</text>
+<text x="1088" y="807" fill="#b9c7df" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="400">Changes and actual check results</text>
+<text x="1088" y="839" fill="#b9c7df" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="400">Open questions and next action</text>
+<text x="1088" y="891" fill="#9dbaff" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="400">Example: written / tested / unknown</text>
+<text x="64" y="986" fill="#b9c7df" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="600">THE ENTRY POINT CONNECTS THE FILES TO THE TASK</text>
+<rect x="64" y="1010" width="440" height="120" rx="20" fill="#131f36"/>
+<text x="88" y="1056" fill="#f4f7ff" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="600">AGENTS.md / CLAUDE.md</text>
+<text x="88" y="1095" fill="#b9c7df" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="400">Where the assistant should look</text>
+<rect x="579" y="1010" width="440" height="120" rx="20" fill="#131f36"/>
+<text x="603" y="1056" fill="#f4f7ff" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="600">ONE FEATURE SPEC</text>
+<text x="603" y="1095" fill="#b9c7df" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="400">Goal, scope and acceptance checks</text>
+<rect x="1094" y="1010" width="442" height="120" rx="20" fill="#131f36"/>
+<text x="1118" y="1056" fill="#f4f7ff" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="600">IMPLEMENT + VERIFY</text>
+<text x="1118" y="1095" fill="#b9c7df" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="400">Inspect changes and run checks</text>
+<path d="M 514 1070 H 563" stroke="#8093b3" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
+<path d="M 1029 1070 H 1078" stroke="#8093b3" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
+<path d="M 1315 1143 V 1182 H 284 V 1143" stroke="#73e6b7" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
+<text x="750" y="1220" fill="#73e6b7" font-family="Segoe UI, Arial, sans-serif" font-size="23" font-weight="400">Record evidence → brief the next session</text>
+<text x="64" y="1280" fill="#62dcfa" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="600">WHY LEARN IT?</text>
+<text x="64" y="1320" fill="#f4f7ff" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="400">Clearer requirements  •  visible decisions  •  reviewable changes  •  reliable handoffs</text>
+<text x="64" y="1380" fill="#b9c7df" font-family="Segoe UI, Arial, sans-serif" font-size="19" font-weight="400">Source: supplied JavaScript Mastery playbook  •  Six files are a convention, not a guarantee  •  28 Oct 2026</text>
+</svg>

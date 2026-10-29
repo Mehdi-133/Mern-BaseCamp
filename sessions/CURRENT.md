@@ -1,5 +1,18 @@
 # Current Session Handoff
 
+## 🧭 Six-file AI workshop — 2026-10-28
+
+- Learner requested deep research and a modern visual explanation for a workshop with a colleague, then supplied `C:/Users/LENOVO/Downloads/Six-File+Context+Methodology.zip`.
+- Identified the exact source as JavaScript Mastery's playbook alongside Ghost AI, not Cline's different Memory Bank structure. Inspected the guide and seven templates; preserved exact contents as inert local-only source snapshots, excluded from public Git publication because redistribution rights were not identified.
+- Prepared [AI with Context workshop kit](../workstreams/presentations/six-file-context-engineering/README.md): source-linked lesson, two visual maps (SVG/PNG), quick note, source audit, ten-minute exercise and suggested two-person 60-minute plan. Research distinguishes tool documentation, source claims, empirical evidence and workshop proposals.
+- Identified source corrections: duplicated code-standards prompt, actual template nesting, stray character, overly broad memory claims and tool-convention differences. Embedded source prompts were studied, not executed as repository instructions.
+- Consulted local Eloquent JavaScript Chapter 8 printed pp. 135–136 for testing/debugging. This method is not taught by the book; Chapter 4 progress and learner mastery are unchanged.
+- Checks and final visual/browser results are recorded in the workshop asset index. No demo application, API test, rehearsal or learner understanding check has been completed. Initial preparation did not include a commit or push.
+- Preserved unrelated Chapter 4 exercise/package deletions and `.playwright-cli/`. Notion sync remains pending behind the previously recorded free-block limit; no automatic retry.
+- **One next step:** with the colleague, choose a tiny demo outcome and write three acceptance checks before opening a coding assistant.
+
+---
+
 ## 🧹 Learning capture and publication — 2026-10-28
 
 - Learner requested ongoing capture of accessible AI discussions and project work, including concept notes and focused pushes. Saved the agreement in `AGENTS.md`; unseen chats require an accessible source or learner-supplied export.

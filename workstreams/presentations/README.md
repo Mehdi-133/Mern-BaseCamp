@@ -25,6 +25,7 @@ presentation-name/
 
 ## Current presentations
 
+- [AI with Context — Six-File Workshop](./six-file-context-engineering/) — 🟡 Supplied JavaScript Mastery guide researched; visual kit and two-person plan prepared; understanding and demo pending
 - [Task scheduling — Planification des tâches](./task-scheduling/) — 🟡 Guide and three visuals prepared for 20 October 2026; understanding and rehearsal pending
 - [Files and Media in a MERN Application](./mern-file-upload/) — ✅ Class activity marked Finished; saved as a Brief 2 learning reference, not Mehdi delivery evidence
 - [GitHub Actions for Node.js checks](./github-actions-node-checks/) — 🔁 **No longer visible on the YouCode board; outcome needs confirmation**

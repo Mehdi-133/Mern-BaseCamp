@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1020" viewBox="0 0 1600 1020" role="img" aria-labelledby="title desc"><title id="title">From idea to evidence: the engineering loop</title><desc id="desc">Clarify, brief, specify, implement, verify and record. A failed check loops back to implementation; a passed check permits evidence recording. No runtime results are asserted.</desc><defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#8093b3"/></marker></defs><rect width="1600" height="1020" rx="28" fill="#0a1122"/>
+<text x="64" y="66" fill="#73e6b7" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="600">MERN BASECAMP  /  THE WORKSHOP DEMO</text>
+<text x="64" y="140" fill="#f4f7ff" font-family="Segoe UI, Arial, sans-serif" font-size="58" font-weight="700">From idea to evidence</text>
+<text x="64" y="189" fill="#b9c7df" font-family="Segoe UI, Arial, sans-serif" font-size="27" font-weight="400">One small change. Explicit expectations. Checks you can explain.</text>
+<rect x="64" y="240" width="440" height="190" rx="20" fill="#131f36"/>
+<text x="88" y="282" fill="#62dcfa" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="600">01  /  CLARIFY</text>
+<text x="88" y="331" fill="#f4f7ff" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="400">Who needs this?</text>
+<text x="88" y="372" fill="#b9c7df" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="400">What does success look like?</text>
+<rect x="580" y="240" width="440" height="190" rx="20" fill="#131f36"/>
+<text x="604" y="282" fill="#b9a0ff" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="600">02  /  BRIEF</text>
+<text x="604" y="331" fill="#f4f7ff" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="400">Read relevant context.</text>
+<text x="604" y="372" fill="#b9c7df" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="400">Check it against current code.</text>
+<rect x="1096" y="240" width="440" height="190" rx="20" fill="#131f36"/>
+<text x="1120" y="282" fill="#ff92c7" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="600">03  /  SPECIFY</text>
+<text x="1120" y="331" fill="#f4f7ff" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="400">Define one small task.</text>
+<text x="1120" y="372" fill="#b9c7df" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="400">Write observable checks.</text>
+<rect x="1096" y="500" width="440" height="190" rx="20" fill="#131f36"/>
+<text x="1120" y="542" fill="#f5cc69" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="600">04  /  IMPLEMENT</text>
+<text x="1120" y="591" fill="#f4f7ff" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="400">Use the existing patterns.</text>
+<text x="1120" y="632" fill="#b9c7df" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="400">Keep the agreed scope.</text>
+<rect x="580" y="500" width="440" height="190" rx="20" fill="#131f36"/>
+<text x="604" y="542" fill="#73e6b7" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="600">05  /  VERIFY</text>
+<text x="604" y="591" fill="#f4f7ff" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="400">Inspect the diff.</text>
+<text x="604" y="632" fill="#b9c7df" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="400">Run behavior + regression checks.</text>
+<rect x="64" y="500" width="440" height="190" rx="20" fill="#131f36"/>
+<text x="88" y="542" fill="#9dbaff" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="600">06  /  RECORD</text>
+<text x="88" y="591" fill="#f4f7ff" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="400">Save actual evidence.</text>
+<text x="88" y="632" fill="#b9c7df" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="400">Name unknowns and next action.</text>
+<path d="M 518 335 H 564" stroke="#8093b3" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
+<path d="M 1034 335 H 1080" stroke="#8093b3" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
+<path d="M 1316 444 V 484" stroke="#8093b3" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
+<path d="M 1080 595 H 1034" stroke="#8093b3" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
+<path d="M 564 595 H 518" stroke="#8093b3" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
+<text x="516" y="571" fill="#73e6b7" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="600">PASS</text>
+<path d="M 800 704 V 756 H 1316 V 704" stroke="#ff92c7" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
+<text x="888" y="798" fill="#ff92c7" font-family="Segoe UI, Arial, sans-serif" font-size="23" font-weight="400">FAIL → correct, then check again</text>
+<path d="M 284 486 V 446" stroke="#9dbaff" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
+<text x="64" y="827" fill="#9dbaff" font-family="Segoe UI, Arial, sans-serif" font-size="23" font-weight="400">Record → brief the next session</text>
+<rect x="64" y="857" width="1472" height="86" rx="20" fill="#131f36"/>
+<text x="90" y="891" fill="#62dcfa" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="600">DEMO CHECKS</text>
+<text x="330" y="891" fill="#f4f7ff" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="400">Mixed courses → published only     |     Empty input → empty output</text>
+<text x="330" y="925" fill="#b9c7df" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="400">Input stays unchanged     |     Invalid-input policy decided before implementation</text>
+<text x="64" y="984" fill="#b9c7df" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="400">Illustrative workflow  •  Demo not executed  •  Passing a build alone does not verify every behavior</text>
+</svg>

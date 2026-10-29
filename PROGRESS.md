@@ -1,5 +1,11 @@
 # Learning Progress
 
+## 🧭 Six-file AI workshop preparation — 2026-10-28
+
+- ✅ Saved the [workshop kit](workstreams/presentations/six-file-context-engineering/) with a source audit, illustrated concept lesson, two visually inspected diagrams, short review note, two-person plan and ten-minute understanding exercise.
+- 🟡 Demo, rehearsal and learner understanding remain unverified. Source snapshots stay local-only because redistribution rights were not identified. Chapter 4 completion is unchanged.
+- **Next:** choose a tiny demo outcome with the colleague and write three observable acceptance checks.
+
 ## 🎤 Scheduled-task live-coding preparation — 2026-10-26
 
 - ✅ Prepared the [student-facing workflow](workstreams/live-coding/mern-scheduled-tasks/workflow.md), [detailed walkthrough](workstreams/live-coding/mern-scheduled-tasks/WALKTHROUGH.md), speaking notes and two reviewed architecture visuals.

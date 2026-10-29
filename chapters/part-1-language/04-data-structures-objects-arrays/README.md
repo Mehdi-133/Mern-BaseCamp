@@ -2,6 +2,8 @@
 
 ## 🎯 Status
 
+> 🧭 **28 October workshop preparation:** [AI with Context](../../../workstreams/presentations/six-file-context-engineering/README.md) researches the supplied JavaScript Mastery six-file method, with visual maps and a two-person workshop plan. Demo execution and understanding remain pending; Chapter 4 status is unchanged.
+
 > 🤝 **28 October continuity:** [AI DEV SQUAD](../../../docs/ai-dev-squad/README.md) collaboration kit prepared and four read-only LMS reviews completed. This is tooling/documentation evidence; no Chapter 4 exercise, book concept or understanding status changed.
 
 > 🎤 **26 October presentation preparation:** [visual scheduled-task workflow](../../../workstreams/live-coding/mern-scheduled-tasks/workflow.md) prepared with a session map, architecture comparison and proof flow before live coding. No Chapter 4 completion change.

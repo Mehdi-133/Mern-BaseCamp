@@ -1,5 +1,19 @@
 # Learning Progress
 
+## 🐳 Brief 3 terminal revision and isolated verification — 2026-10-30
+
+- ✅ Captured [Docker/Newman commands, assertions, fixtures and the brief revision checklist](workstreams/sprints/sprint-2/briefs/brief-3/notes/README.md). Checked local book Chapter 8 pp. 135–136 and Chapter 18 pp. 317–318 for foundations.
+- ✅ Agent isolated Postman/Newman run: **90 requests / 209 assertions / 0 failures / 0 skips**; records and setup removed afterward. Learner supplied Docker startup logs after engine/connection failures.
+- 🔁 Corrected earlier advice: section 4 requires **forgotten-password email**, not quiz-completion email. Current auth routes do not mount that journey. Four log events observed; SMTP and cron timing remain unverified.
+- 🟡 Learner public-smoke/login replay, independent understanding, teammate import and reviewed LMS delivery remain pending. Chapter 4 completion unchanged. Notion sync remains pending behind the recorded block limit; no automatic retry.
+- **Next:** run four-request/eleven-assertion public smoke against Docker, then explain why expected 401 passes.
+
+## 📬 Brief 3 Postman frontend handoff — 2026-10-29
+
+- ✅ Saved a [source-grounded FAL-163 review](workstreams/sprints/sprint-2/briefs/brief-3/notes/postman-frontend-handoff.md) of the collection and environment prepared in the LMS checkout. A four-request Newman smoke passed with 11 assertions and no failures or skips.
+- 🟡 Authenticated replay, fixture setup, full API checks, teammate import and reviewed delivery remain unverified. This does not complete FAL-163 or any Brief 3 exercise.
+- **Next:** import the package locally, run learner login/profile with credentials kept out of exports, and record the actual result.
+
 ## 🧭 Six-file AI workshop preparation — 2026-10-28
 
 - ✅ Saved the [workshop kit](workstreams/presentations/six-file-context-engineering/) with a source audit, illustrated concept lesson, two visually inspected diagrams, short review note, two-person plan and ten-minute understanding exercise.

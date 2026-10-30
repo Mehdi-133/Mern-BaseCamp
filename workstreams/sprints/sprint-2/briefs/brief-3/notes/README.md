@@ -1,5 +1,17 @@
 # 📝 Brief 3 Notes
 
+## 📬 Latest collection preparation
+
+- [Postman frontend handoff review](./postman-frontend-handoff.md) — 🟡 Isolated 90-request/209-assertion run passed; learner replay and reviewed delivery remain pending.
+
+## 🧠 Terminal and API revision notes — 30 October
+
+- [Docker Compose commands and diagnosis](docker-compose-terminal.md) — 🟡 explanation discussed; prediction check pending.
+- [Postman/Newman terminal command](postman-newman-terminal.md) — 🟡 learner Docker replay pending.
+- [Assertions and negative tests](api-assertions-and-negative-tests.md) — 🟡 understanding check pending.
+- [Environments, tokens and linked fixtures](api-environments-and-fixtures.md) — 🟡 independent setup pending.
+- [Brief 3 delivery revision checklist](brief-3-delivery-revision.md) — exact requirements, remaining evidence and corrected forgotten-password email gap.
+
 ## ✅ Confirmed decisions and facts
 
 - This is **Sprint 2 — Brief 3**, based on the named source `brief-03-sprint-02-version-simplonline.pdf`.

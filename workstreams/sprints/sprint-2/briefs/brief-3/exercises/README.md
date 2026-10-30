@@ -97,3 +97,13 @@ Read the eventual README as a new teammate and list the minimum commands from cl
 **Complete when:** environment, Docker, seed, docs, and verification request are all discoverable.
 
 **Status:** ⬜ Not started
+
+## 13. Terminal replay checkpoint — 30 October
+
+1. Explain what `docker compose logs --tail 50 api` reads and why it cannot start a stopped engine.
+2. Predict why a missing-token 401 can pass while a connection refusal fails.
+3. Run the [four-request Newman smoke](../notes/postman-newman-terminal.md) and record its sanitized totals.
+
+**Complete when:** the learner explains both distinctions and supplies four requests, eleven assertions, zero failures and no skips against the Docker API.
+
+**Status:** 🟡 Commands discussed; startup logs supplied; successful smoke and independent explanation pending.

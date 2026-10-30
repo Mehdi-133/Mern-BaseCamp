@@ -1,6 +1,6 @@
 # 🚀 Sprint 2 — Brief 3: Final LMS API Delivery
 
-> 🟡 **In progress:** the official text is saved and analyzed. No new Brief 3 feature or learner understanding check is complete yet.
+> 🟡 **In progress:** source saved; isolated Postman journeys verified on 30 October. Learner understanding, Docker replay and final reviewed delivery remain pending.
 
 ## 🎯 Mission
 
@@ -48,6 +48,8 @@ Deliver a stable LMS backend for the next React sprint with module quizzes, back
 
 ## 🎯 Current mission
 
-Prepare the [scheduled-task live-coding architecture-and-proof plan](../../../../live-coding/mern-scheduled-tasks/exercises/) before 26 October, then return to the baseline and regression micro-task.
+The [FAL-163 handoff](./notes/postman-frontend-handoff.md) passed an isolated **90-request / 209-assertion** Newman run with zero failures/skips. The learner's Docker logs now report startup; successful learner replay remains pending. Use the [terminal revision notes](./notes/README.md) and [Brief 3 checklist](./notes/brief-3-delivery-revision.md).
 
-**Ready check:** the live-coding plan names one business function, one manual trigger, one scheduler location, three trace outcomes, and one Docker risk.
+**Source correction:** the missing required email journey is forgotten password, not quiz completion. A local test run does not establish all brief requirements or reviewed delivery.
+
+**Ready check:** run public smoke against Docker and record four requests/eleven assertions without failures or skips, then role login/profile. Concept mastery remains unverified.

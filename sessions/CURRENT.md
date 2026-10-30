@@ -1,5 +1,28 @@
 # Current Session Handoff
 
+## 🐳 Brief 3 Docker/Postman revision — 2026-10-30
+
+- Learner asked to capture the commands, discussion and brief concepts in BaseCamp, then commit/push this focused learning scope. LMS application commits remain outside this publication.
+- Saved [terminal and API notes](../workstreams/sprints/sprint-2/briefs/brief-3/notes/README.md), brief checklist, updated FAL-163 evidence and one three-question terminal checkpoint. Notes remain In progress; no learner mastery claimed.
+- Agent's isolated run: **90 requests / 209 assertions / 0 failures / 0 skips** at local LMS `527ca48`. Temporary setup removed. Learner's initial Newman run failed due to no listener; subsequent supplied Docker logs show MongoDB connected and API on port 3000. Successful learner HTTP replay still pending.
+- Corrected source requirement: forgotten-password email is required; quiz-completion email is not in the five-event list. Current mounted auth has no forgot/reset route. SMTP receipt, cron timing, browser integration, teammate replay and team review/merge remain pending.
+- PDF text consulted for Chapter 8 printed pp. 135–136 and Chapter 18 printed pp. 317–318. Notion sync remains pending under the existing free-block-limit/no-automatic-retry boundary.
+- Publication scope: only Brief 3 notes/indices/exercise and related progress/handoff/history. Preserve Chapter 4 changes, deleted exercises/root package files, browser logs, source snapshots and unrelated deliverables. Publication result is reported after actual commit/push verification.
+- **One next step:** learner runs public smoke on Docker and records four requests/eleven assertions with no failures/skips, then explains expected 401.
+
+---
+
+## 📬 FAL-163 Postman frontend handoff — 2026-10-29
+
+- Learner switched from workshop preparation to FAL-163 and requested the existing collection exported professionally into the LMS repository against Brief 3. [Review and next checkpoint](../workstreams/sprints/sprint-2/briefs/brief-3/notes/postman-frontend-handoff.md).
+- Saved four files under `C:/Users/LENOVO/Desktop/fondations_API_LMS/docs/postman/` and added LMS README navigation with filesystem approval. Original Downloads export preserved. Collection: 93 requests including all 54 OpenAPI operations, role login, frontend reading, refusal scenarios and optional linked fixture setup. Environment exports no account passwords or valid tokens.
+- Verification: Newman smoke **4 requests / 11 assertions / 0 failures / 0 skips** at localhost:3000. JSON, 17 source-validator payloads, 186 script syntax checks, 389 variable references, six guard checks, eight local package links and whitespace passed. No authenticated or mutating request, seed reset, email, full API suite, commit, push or Jira status change.
+- Unrelated browser logs/deletions in LMS and earlier learner changes in BaseCamp preserved. Runtime source-image identity and authenticated flows remain unverified. Notion sync pending under existing block-limit boundary; no retry.
+- Calendar was read back after scheduling today's four unfinished assigned tickets: FAL-163 15:35–17:35, FAL-170 17:45–18:30, FAL-129 19:00–20:00, FAL-130 20:10–21:00, Africa/Casablanca. These are planning estimates, not completion evidence.
+- **One next step:** import the saved Postman package and verify learner login/profile using local credentials; record the result in the LMS `docs/postman/TESTS.md`.
+
+---
+
 ## 🧭 Six-file AI workshop — 2026-10-28
 
 - Learner requested deep research and a modern visual explanation for a workshop with a colleague, then supplied `C:/Users/LENOVO/Downloads/Six-File+Context+Methodology.zip`.

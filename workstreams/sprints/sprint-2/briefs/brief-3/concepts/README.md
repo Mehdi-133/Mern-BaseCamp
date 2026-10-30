@@ -19,6 +19,16 @@
 | 11 | Behavioral tests and side-effect isolation | Targeted automated tests and executable API collection | Identify arrange, act, assert, and fake dependency | ⬜ Not started |
 | 12 | OpenAPI, demo seed, Docker, and delivery evidence | Reproducible launch, docs, contract, PRs, reviews, contributions | Audit one fresh-clone path from README to response | ⬜ Not started |
 
+## 📝 Discussed revision notes — 30 October
+
+The full roadmap above remains an understanding checklist. These short notes capture discussion and project evidence without marking concepts mastered:
+
+- [Docker runtime and terminal diagnosis](../notes/docker-compose-terminal.md) → concepts 1 and 12.
+- [Postman/Newman CLI](../notes/postman-newman-terminal.md) → concepts 11 and 12.
+- [Assertions and expected refusals](../notes/api-assertions-and-negative-tests.md) → concepts 2, 6 and 11.
+- [Environment and fixture relationships](../notes/api-environments-and-fixtures.md) → concepts 8 and 11.
+- [Complete brief revision map](../notes/brief-3-delivery-revision.md) → all twelve roadmap items; only source-backed requirements are asserted.
+
 ## 📚 Book bridge
 
 - Objects and arrays support the domain data in concepts 3–5.
